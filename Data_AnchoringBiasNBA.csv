@@ -1,0 +1,2103 @@
+﻿Year;RSCI;RSCI_TransposedTo60;RSCIRegion;Player;Draft;Drafted;PreDraftExperience;PickNumber;PickType;College;Team;StartYearNBA;EndYearNBA;YearsInTheLeague;WS;WSPerYear;PlayerLevel;DummyExpectedLevelPosition;OverUnderDraftedRating;RankDifferencesRSCIPick60Scale;RankAdjustementAbsolute
+2009;48;28,8;2;Kawhi Leonard ;2011;1;2;15;3;San Diego State University;IND;2012;2019;8;65,8;8,225;5;2;3;13,8;13,8
+1998;2;1,2;0;Rashard Lewis;1998;1;0;32;4; ;OKC;1999;2014;16;90,9;5,68125;4;1;3;-30,8;30,8
+1999;9;5,4;0;Carlos Boozer ;2002;1;3;35;4;Duke University;CLE;2003;2015;13;80,3;6,17692307692308;4;1;3;-29,6;29,6
+2001;10;6;0;David Lee ;2005;1;4;30;3;University of Florida;NYK;2006;2017;12;76;6,33333333333333;4;1;3;-24;24
+2007;13;7,8;0;DeAndre Jordan ;2008;1;1;35;4;Texas A&M University;LAC;2009;2019;11;83,4;7,58181818181818;5;1;3;-27,2;27,2
+2008;95;57;4;Draymond Green ;2012;1;4;35;4;Michigan State University;GSW;2013;2019;7;43,3;6,18571428571429;4;1;3;22;22
+2017;8;4,8;0;Mitchell Robinson ;2018;1;1;36;4; ;NYK;2019;2019;1;6,1;6,1;4;1;3;-31,2;31,2
+1998;55;33;2;Matt Barnes ;2002;1;4;46;4;University of California, Los Angeles;MEM;2004;2017;14;42,8;3,05714285714286;3;0;3;-13;13
+1999;38;22,8;1;Matt Bonner ;2003;1;4;45;4;University of Florida;CHI;2005;2016;12;38,5;3,20833333333333;3;0;3;-22,2;22,2
+2001;16;9,6;0;Mo Williams ;2003;1;2;47;4;University of Alabama;UTA;2004;2016;13;40;3,07692307692308;3;0;3;-37,4;37,4
+2003;66;39,6;3;Paul Millsap ;2006;1;3;47;4;Louisiana Tech University;UTA;2007;2019;13;88,2;6,78461538461538;4;0;3;-7,4;7,4
+2005;14;8,4;0;Amir Johnson;2005;1;0;56;4; ;DET;2006;2019;14;55,3;3,95;3;0;3;-47,6;47,6
+2005;5;3;0;Louis Williams;2005;1;0;45;4; ;PHI;2006;2019;14;59,4;4,24285714285714;3;0;3;-42;42
+2005;15;9;0;Danny Green ;2009;1;4;46;4;University of North Carolina;CLE;2010;2019;10;39,2;3,92;3;0;3;-37;37
+2010;38;22,8;1;Dwight Powell ;2014;1;4;45;4;Stanford University;CHO;2015;2019;5;22,4;4,48;3;0;3;-22,2;22,2
+2007;2;1,2;0;Kevin Love ;2008;1;1;5;1;University of California, Los Angeles;MEM;2009;2019;11;78,2;7,10909090909091;5;3;2;-3,8;3,8
+2004;3;1,8;0;Al Jefferson;2004;1;0;15;3; ;BOS;2005;2018;14;71;5,07142857142857;4;2;2;-13,2;13,2
+2004;29;17,4;1;Kyle Lowry ;2006;1;2;24;3;Villanova University;MEM;2007;2019;13;86,7;6,66923076923077;4;2;2;-6,6;6,6
+2006;5;3;0;Ty Lawson ;2009;1;3;18;3;University of North Carolina;MIN;2010;2017;8;42,1;5,2625;4;2;2;-15;15
+2009;18;10,8;0;Mason Plumlee ;2013;1;4;22;3;Duke University;BRK;2014;2019;6;31;5,16666666666667;4;2;2;-11,2;11,2
+2015;27;16,2;1;Donovan Mitchell ;2017;1;2;13;2;University of Louisville;DEN;2018;2019;2;10,2;5,1;4;2;2;3,2;3,2
+2016;15;9;0;Jarrett Allen ;2017;1;1;22;3;University of Texas at Austin;BRK;2018;2019;2;11,9;5,95;4;2;2;-13;13
+2016;8;4,8;0;Bam Adebayo ;2017;1;1;14;2;University of Kentucky;MIA;2018;2019;2;11;5,5;4;2;2;-9,2;9,2
+1999;100;60;4;Gilbert Arenas ;2001;1;2;31;4;University of Arizona;GSW;2002;2012;11;51,3;4,66363636363636;3;1;2;29;29
+2003;19;11,4;0;Trevor Ariza ;2004;1;1;43;4;University of California, Los Angeles;NYK;2005;2019;15;60;4;3;1;2;-31,6;31,6
+2003;12;7,2;0;Brandon Bass ;2005;1;2;33;4;Louisiana State University;NOP;2006;2017;12;42,8;3,56666666666667;3;1;2;-25,8;25,8
+2005;2;1,2;0;Monta Ellis;2005;1;0;40;4; ;GSW;2006;2017;12;41,9;3,49166666666667;3;1;2;-38,8;38,8
+2005;9;5,4;0;Mario Chalmers ;2008;1;3;34;4;University of Kansas;MIN;2009;2018;10;32,3;3,23;3;1;2;-28,6;28,6
+2006;76;45,6;3;Patrick Beverley ;2009;1;3;42;4;University of Arkansas;LAL;2013;2019;7;24,8;3,54285714285714;3;1;2;3,6;3,6
+2007;39;23,4;1;Chandler Parsons ;2011;1;4;38;4;University of Florida;HOU;2012;2019;8;29;3,625;3;1;2;-14,6;14,6
+2009;99;59,4;4;Khris Middleton ;2012;1;3;39;4;Texas A&M University;DET;2013;2019;7;31;4,42857142857143;3;1;2;20,4;20,4
+2011;94;56,4;4;Malcolm Brogdon ;2016;1;5;36;4;University of Virginia;MIL;2017;2019;3;13,4;4,46666666666667;3;1;2;20,4;20,4
+2012;4;2,4;0;Kyle Anderson ;2014;1;2;30;3;University of California, Los Angeles;SAS;2015;2019;5;15,4;3,08;3;1;2;-27,6;27,6
+2012;41;24,6;2;Jerami Grant ;2014;1;2;39;4;Syracuse University;PHI;2015;2019;5;18,2;3,64;3;1;2;-14,4;14,4
+2012;85;51;4;Montrezl Harrell ;2015;1;3;32;4;University of Louisville;HOU;2016;2019;4;19,2;4,8;3;1;2;19;19
+1998;38;22,8;1;Rasual Butler ;2002;1;4;53;4;La Salle University;MIA;2003;2016;14;20,8;1,48571428571429;2;0;2;-30,2;30,2
+1998;58;34,8;2;Darius Songaila ;2002;1;4;50;4;Wake Forest University;BOS;2004;2011;8;15,9;1,9875;2;0;2;-15,2;15,2
+2001;88;52,8;4;Lawrence Roberts ;2005;1;4;55;4;Mississippi State University;OKC;2006;2007;2;2,5;1,25;2;0;2;-2,2;2,2
+2003;9;5,4;0;Leon Powe ;2006;1;3;49;4;University of California;DEN;2007;2011;5;12;2,4;2;0;2;-43,6;43,6
+2004;64;38,4;3;Andray Blatche;2005;1;1;49;4; ;WAS;2006;2014;9;19,2;2,13333333333333;2;0;2;-10,6;10,6
+2005;18;10,8;0;Andray Blatche;2005;1;0;49;4; ;WAS;2006;2014;9;19,2;2,13333333333333;2;0;2;-38,2;38,2
+2007;23;13,8;1;E'Twaun Moore ;2011;1;4;55;4;Purdue University;BOS;2012;2019;8;13,5;1,6875;2;0;2;-41,2;41,2
+2007;11;6,6;0;Nick Calathes ;2009;1;2;45;4;University of Florida;MIN;2014;2015;2;2,6;1,3;2;0;2;-38,4;38,4
+2011;53;31,8;2;Norman Powell ;2015;1;4;46;4;University of California, Los Angeles;MIL;2016;2019;4;7,3;1,825;2;0;2;-14,2;14,2
+2002;6;3,6;0;Chris Bosh ;2003;1;1;4;1;Georgia Institute of Technology;TOR;2004;2016;13;106;8,15384615384615;5;4;1;-,4;,4
+2003;6;3,6;0;Chris Paul ;2005;1;2;4;1;Wake Forest University;NOP;2006;2019;14;171,5;12,25;5;4;1;-,4;,4
+2004;12;7,2;0;LaMarcus Aldridge ;2006;1;2;2;1;University of Texas at Austin;CHI;2007;2019;13;107;8,23076923076923;5;4;1;5,2;5,2
+2004;48;28,8;2;Al Horford ;2007;1;3;3;1;University of Florida;ATL;2008;2019;12;85,7;7,14166666666667;5;4;1;25,8;25,8
+2006;2;1,2;0;Kevin Durant ;2007;1;1;2;1;University of Texas at Austin;OKC;2008;2019;12;141,7;11,8083333333333;5;4;1;-,8;,8
+2007;17;10,2;0;James Harden ;2009;1;2;3;1;Arizona State University;OKC;2010;2019;10;121,9;12,19;5;4;1;7,2;7,2
+2002;1;,6;0;Amar'e Stoudemire;2002;1;0;9;2; ;PHO;2003;2016;14;92,5;6,60714285714286;4;3;1;-8,4;8,4
+2002;27;16,2;1;Andre Iguodala ;2004;1;2;9;2;University of Arizona;PHI;2005;2019;15;96,4;6,42666666666667;4;3;1;7,2;7,2
+2002;45;27;2;Brandon Roy ;2006;1;4;6;2;University of Washington;MIN;2007;2013;7;37,4;5,34285714285714;4;3;1;21;21
+2004;72;43,2;3;Joakim Noah ;2007;1;3;9;2;University of Florida;CHI;2008;2019;12;61,8;5,15;4;3;1;34,2;34,2
+2006;9;5,4;0;Brook Lopez ;2008;1;2;10;2;Stanford University;BRK;2009;2019;11;60,1;5,46363636363636;4;3;1;-4,6;4,6
+2008;5;3;0;DeMar DeRozan ;2009;1;1;9;2;University of Southern California;TOR;2010;2019;10;60,3;6,03;4;3;1;-6;6
+2008;6;3,6;0;Greg Monroe ;2010;1;2;7;2;Georgetown University;DET;2011;2019;9;49,7;5,52222222222222;4;3;1;-3,4;3,4
+2008;15;9;0;Kemba Walker ;2011;1;3;9;2;University of Connecticut;NOP;2012;2019;8;48,5;6,0625;4;3;1;0;0
+2008;58;34,8;2;Klay Thompson ;2011;1;3;11;2;Washington State University;GSW;2012;2019;8;46,8;5,85;4;3;1;23,8;23,8
+2012;5;3;0;Steven Adams ;2013;1;1;12;2;University of Pittsburgh;OKC;2014;2019;6;38,7;6,45;4;3;1;-9;9
+2014;6;3,6;0;Myles Turner ;2015;1;1;11;2;University of Texas at Austin;IND;2016;2019;4;22,1;5,525;4;3;1;-7,4;7,4
+1998;12;7,2;0;Tayshaun Prince;2002;1;4;23;3;University of Kentucky;DET;2003;2016;14;63,1;4,50714285714286;3;2;1;-15,8;15,8
+1998;17;10,2;0;Corey Maggette ;1999;1;1;13;2;Duke University;OKC;2000;2013;14;62,2;4,44285714285714;3;2;1;-2,8;2,8
+1998;34;20,4;1;Richard Jefferson ;2001;1;3;13;2;University of Arizona;HOU;2002;2018;17;83;4,88235294117647;3;2;1;7,4;7,4
+1998;47;28,2;2;Troy Murphy ;2001;1;3;14;2;University of Notre Dame;GSW;2002;2013;12;50,3;4,19166666666667;3;2;1;14,2;14,2
+1999;29;17,4;1;Samuel Dalembert ;2001;1;2;26;3;Seton Hall University;PHI;2002;2015;14;51,3;3,66428571428571;3;2;1;-8,6;8,6
+2000;4;2,4;0;Gerald Wallace ;2001;1;1;25;3;University of Alabama;SAC;2002;2015;14;59,7;4,26428571428571;3;2;1;-22,6;22,6
+2000;1;,6;0;Zach Randolph ;2001;1;1;19;3;Michigan State University;POR;2002;2018;17;81,1;4,77058823529412;3;2;1;-18,4;18,4
+2000;69;41,4;3;Luke Ridnour ;2003;1;3;14;2;University of Oregon;OKC;2004;2015;12;36;3;3;2;1;27,4;27,4
+2003;40;24;1;Ronnie Brewer ;2006;1;3;14;2;University of Arkansas;UTA;2007;2014;8;30,4;3,8;3;2;1;10;10
+2004;4;2,4;0;Josh Smith;2004;1;0;17;3; ;ATL;2005;2018;14;51;3,64285714285714;3;2;1;-14,6;14,6
+2004;26;15,6;1;Arron Afflalo ;2007;1;3;27;3;University of California, Los Angeles;DET;2008;2018;11;33,5;3,04545454545455;3;2;1;-11,4;11,4
+2004;21;12,6;1;Rajon Rondo ;2006;1;2;21;3;University of Kentucky;PHO;2007;2019;13;58,4;4,49230769230769;3;2;1;-8,4;8,4
+2004;23;13,8;1;J.R. Smith;2004;1;0;18;3; ;NOP;2005;2019;15;46,4;3,09333333333333;3;2;1;-4,2;4,2
+2005;98;58,8;4;Darren Collison ;2009;1;4;21;3;University of California, Los Angeles;NOP;2010;2019;10;49,9;4,99;3;2;1;37,8;37,8
+2006;19;11,4;0;Robin Lopez ;2008;1;2;15;3;Stanford University;PHO;2009;2019;11;43;3,90909090909091;3;2;1;-3,6;3,6
+2006;46;27,6;2;Taj Gibson ;2009;1;3;26;3;University of Southern California;CHI;2010;2019;10;49,8;4,98;3;2;1;1,6;1,6
+2007;10;6;0;Patrick Patterson ;2010;1;3;14;2;University of Kentucky;HOU;2011;2019;9;28,7;3,18888888888889;3;2;1;-8;8
+2007;55;33;2;Jeff Teague ;2009;1;2;19;3;Wake Forest University;ATL;2010;2019;10;48,3;4,83;3;2;1;14;14
+2007;62;37,2;3;Marcus Morris ;2011;1;4;14;2;University of Kansas;HOU;2012;2019;8;26,8;3,35;3;2;1;23,2;23,2
+2008;2;1,2;0;Jrue Holiday ;2009;1;1;17;3;University of California, Los Angeles;PHI;2010;2019;10;39,1;3,91;3;2;1;-15,8;15,8
+2008;9;5,4;0;Ed Davis ;2010;1;2;13;2;University of North Carolina;TOR;2011;2019;9;41,3;4,58888888888889;3;2;1;-7,6;7,6
+2008;63;37,8;3;Marcus Morris ;2011;1;3;14;2;University of Kansas;HOU;2012;2019;8;26,8;3,35;3;2;1;23,8;23,8
+2009;52;31,2;2;Eric Bledsoe ;2010;1;1;18;3;University of Kentucky;OKC;2011;2019;9;37;4,11111111111111;3;2;1;13,2;13,2
+2010;3;1,8;0;Jared Sullinger ;2012;1;2;21;3;Ohio State University;BOS;2013;2017;5;15,3;3,06;3;2;1;-19,2;19,2
+2010;5;3;0;Tobias Harris ;2011;1;1;19;3;University of Tennessee;NOP;2012;2019;8;39,4;4,925;3;2;1;-16;16
+2010;69;41,4;3;Gorgui Dieng ;2013;1;3;21;3;University of Louisville;UTA;2014;2019;6;24,4;4,06666666666667;3;2;1;20,4;20,4
+2011;27;16,2;1;Rodney Hood ;2014;1;3;23;3;Duke University;UTA;2015;2019;5;16;3,2;3;2;1;-6,8;6,8
+2012;16;9,6;0;Gary Harris ;2014;1;2;19;3;Michigan State University;CHI;2015;2019;5;16;3,2;3;2;1;-9,4;9,4
+1998;4;2,4;0;Dan Gadzuric ;2002;1;4;34;4;University of California, Los Angeles;MIL;2003;2012;10;15,8;1,58;2;1;1;-31,6;31,6
+1998;26;15,6;1;Bobby Simmons ;2001;1;3;42;4;DePaul University;OKC;2002;2012;11;20,1;1,82727272727273;2;1;1;-26,4;26,4
+1998;11;6,6;0;Vincent Yarbrough ;2002;1;4;33;4;University of Tennessee;DEN;2003;2003;1;1;1;2;1;1;-26,4;26,4
+1998;71;42,6;3;Luke Walton ;2003;1;5;32;4;University of Arizona;LAL;2004;2013;10;13,5;1,35;2;1;1;10,6;10,6
+1999;2;1,2;0;Keith Bogans ;2003;1;4;43;4;University of Kentucky;MIL;2004;2014;11;20,4;1,85454545454545;2;1;1;-41,8;41,8
+1999;10;6;0;Jason Kapono ;2003;1;4;31;4;University of California, Los Angeles;CLE;2004;2012;9;10,3;1,14444444444444;2;1;1;-25;25
+1999;37;22,2;1;Roger Mason ;2002;1;3;31;4;University of Virginia;CHI;2003;2014;12;13;1,08333333333333;2;1;1;-8,8;8,8
+1999;55;33;2;Steve Blake ;2003;1;4;38;4;University of Maryland;WAS;2004;2016;13;29,1;2,23846153846154;2;1;1;-5;5
+2000;7;4,2;0;Chris Duhon ;2004;1;4;38;4;Duke University;CHI;2005;2013;9;25;2,77777777777778;2;1;1;-33,8;33,8
+2001;40;24;1;Travis Diener ;2005;1;4;38;4;Marquette University;ORL;2006;2010;5;5,6;1,12;2;1;1;-14;14
+2002;57;34,2;2;Steve Novak ;2006;1;4;32;4;Marquette University;HOU;2007;2017;11;14,5;1,31818181818182;2;1;1;2,2;2,2
+2003;79;47,4;3;P.J. Tucker ;2006;1;3;35;4;University of Texas at Austin;TOR;2007;2019;13;30;2,30769230769231;2;1;1;12,4;12,4
+2004;19;11,4;0;Daniel Gibson ;2006;1;2;42;4;University of Texas at Austin;CLE;2007;2013;7;16;2,28571428571429;2;1;1;-30,6;30,6
+2004;11;6,6;0;Glen Davis ;2007;1;3;35;4;Louisiana State University;OKC;2008;2015;8;18,6;2,325;2;1;1;-28,4;28,4
+2005;1;,6;0;Josh McRoberts ;2007;1;2;37;4;Duke University;POR;2008;2018;11;18,5;1,68181818181818;2;1;1;-36,4;36,4
+2005;17;10,2;0;Jon Brockman ;2009;1;4;38;4;University of Washington;POR;2010;2012;3;3,7;1,23333333333333;2;1;1;-27,8;27,8
+2005;12;7,2;0;C.J. Miles;2005;1;0;34;4; ;UTA;2006;2019;14;30;2,14285714285714;2;1;1;-26,8;26,8
+2005;59;35,4;2;Sam Young ;2009;1;4;36;4;University of Pittsburgh;MEM;2010;2013;4;5,2;1,3;2;1;1;-,600000000000001;,600000000000001
+2006;7;4,2;0;Chase Budinger ;2009;1;3;44;4;University of Arizona;DET;2010;2016;7;13,9;1,98571428571429;2;1;1;-39,8;39,8
+2006;58;34,8;2;Jodie Meeks ;2009;1;3;41;4;University of Kentucky;MIL;2010;2019;10;24,3;2,43;2;1;1;-6,2;6,2
+2007;6;3,6;0;Kyle Singler ;2011;1;4;33;4;Duke University;DET;2013;2018;6;10;1,66666666666667;2;1;1;-29,4;29,4
+2007;36;21,6;1;DeJuan Blair ;2009;1;2;37;4;University of Pittsburgh;SAS;2010;2016;7;19;2,71428571428571;2;1;1;-15,4;15,4
+2007;88;52,8;4;Jon Leuer ;2011;1;4;40;4;University of Wisconsin;MIL;2012;2019;8;13,2;1,65;2;1;1;12,8;12,8
+2008;28;16,8;1;Jeff Withey ;2013;1;5;39;4;University of Kansas;POR;2014;2018;5;6,8;1,36;2;1;1;-22,2;22,2
+2009;8;4,8;0;Lance Stephenson ;2010;1;1;40;4;University of Cincinnati;IND;2011;2019;9;16,7;1,85555555555556;2;1;1;-35,2;35,2
+2010;10;6;0;Will Barton ;2012;1;2;40;4;University of Memphis;POR;2013;2019;7;16,4;2,34285714285714;2;1;1;-34;34
+2010;71;42,6;3;Allen Crabbe ;2013;1;3;31;4;University of California;CLE;2014;2019;6;13,8;2,3;2;1;1;11,6;11,6
+2013;5;3;0;Andrew Harrison ;2015;1;2;44;4;University of Kentucky;PHO;2017;2019;3;3,2;1,06666666666667;2;1;1;-41;41
+2013;73;43,8;3;Jordan Bell ;2017;1;4;38;4;University of Oregon;CHI;2018;2019;2;4,5;2,25;2;1;1;5,8;5,8
+2013;94;56,4;4;Josh Hart ;2017;1;4;30;3;Villanova University;UTA;2018;2019;2;5,5;2,75;2;1;1;26,4;26,4
+2014;11;6,6;0;Kevon Looney ;2015;1;1;30;3;University of California, Los Angeles;GSW;2016;2019;4;10,3;2,575;2;1;1;-23,4;23,4
+2014;36;21,6;1;Jonah Bolden ;2017;1;3;36;4;University of California, Los Angeles;PHI;2019;2019;1;1,4;1,4;2;1;1;-14,4;14,4
+2015;5;3;0;Ivan Rabb ;2017;1;2;35;4;University of California;ORL;2018;2019;2;3,2;1,6;2;1;1;-32;32
+2015;6;3,6;0;Cheick Diallo ;2016;1;1;33;4;University of Kansas;LAC;2017;2019;3;5;1,66666666666667;2;1;1;-29,4;29,4
+2015;25;15;1;Thomas Bryant ;2017;1;2;42;4;Indiana University;UTA;2018;2019;2;5,6;2,8;2;1;1;-27;27
+2015;19;11,4;0;Jalen Brunson ;2018;1;3;33;4;Villanova University;DAL;2019;2019;1;2,6;2,6;2;1;1;-21,6;21,6
+2015;26;15,6;1;Deyonta Davis ;2016;1;1;31;4;Michigan State University;BOS;2017;2019;3;3,6;1,2;2;1;1;-15,4;15,4
+2016;26;15,6;1;Bruce Brown ;2018;1;2;42;4;University of Miami;DET;2019;2019;1;1,5;1,5;2;1;1;-26,4;26,4
+2016;17;10,2;0;Omari Spellman ;2018;1;2;30;3;Villanova University;ATL;2019;2019;1;1,2;1,2;2;1;1;-19,8;19,8
+2000;14;8,4;0;Alton Ford ;2001;1;1;51;4;University of Houston;PHO;2002;2004;3;,8;,266666666666667;1;0;1;-42,6;42,6
+2000;67;40,2;3;Bernard Robinson ;2004;1;4;45;4;University of Michigan;NOP;2005;2007;3;2;,666666666666667;1;0;1;-4,8;4,8
+2001;28;16,8;1;Dijon Thompson ;2005;1;4;54;4;University of California, Los Angeles;NYK;2006;2007;2;,2;,1;1;0;1;-37,2;37,2
+2001;23;13,8;1;Jamal Sampson ;2002;1;1;47;4;University of California;UTA;2003;2007;5;1,4;,28;1;0;1;-33,2;33,2
+2001;35;21;1;Robert Whaley;2005;1;4;51;4;Walsh University;UTA;2006;2006;1;0;0;1;0;1;-30;30
+2002;20;12;0;Hassan Adams ;2006;1;4;54;4;University of Arizona;BRK;2007;2009;3;,8;,266666666666667;1;0;1;-42;42
+2002;12;7,2;0;Bracey Wright ;2005;1;3;47;4;Indiana University;MIN;2006;2007;2;,5;,25;1;0;1;-39,8;39,8
+2002;19;11,4;0;Dee Brown ;2006;1;4;46;4;University of Illinois at Urbana-Champaign;UTA;2007;2009;3;,1;,0333333333333333;1;0;1;-34,6;34,6
+2002;41;24,6;2;Alexander Johnson ;2006;1;4;45;4;Florida State University;IND;2007;2008;2;1,5;,75;1;0;1;-20,4;20,4
+2003;20;12;0;James Lang;2003;1;0;48;4; ;NOP;2007;2007;1;,1;,1;1;0;1;-36;36
+2003;49;29,4;2;Alexander Johnson ;2006;1;3;45;4;Florida State University;IND;2007;2008;2;1,5;,75;1;0;1;-15,6;15,6
+2003;69;41,4;3;Guillermo Diaz ;2006;1;3;52;4;University of Miami;LAC;2008;2008;1;0;0;1;0;1;-10,6;10,6
+2004;14;8,4;0;Joe Crawford ;2008;1;4;58;4;University of Kentucky;LAL;2009;2009;1;0;0;1;0;1;-49,6;49,6
+2004;9;5,4;0;Malik Hairston ;2008;1;4;48;4;University of Oregon;PHO;2009;2010;2;,8;,4;1;0;1;-42,6;42,6
+2004;24;14,4;1;A.J. Price ;2009;1;5;52;4;University of Connecticut;IND;2010;2015;6;4,7;,783333333333333;1;0;1;-37,6;37,6
+2004;53;31,8;2;JamesOn Curry ;2007;1;3;51;4;Oklahoma State University;CHI;2010;2010;1;0;0;1;0;1;-19,2;19,2
+2004;68;40,8;3;Darnell Jackson ;2008;1;4;52;4;University of Kansas;MIA;2009;2011;3;1,3;,433333333333333;1;0;1;-11,2;11,2
+2006;17;10,2;0;Derrick Caracter ;2010;1;4;58;4;University of Texas at El Paso;LAL;2011;2011;1;,3;,3;1;0;1;-47,8;47,8
+2006;16;9,6;0;Vernon Macklin ;2011;1;5;52;4;University of Florida;DET;2012;2012;1;,5;,5;1;0;1;-42,4;42,4
+2006;83;49,8;4;Luke Harangody ;2010;1;4;52;4;University of Notre Dame;BOS;2011;2012;2;,9;,45;1;0;1;-2,2;2,2
+2006;98;58,8;4;Hamady N'Diaye ;2010;1;4;56;4;Rutgers University;MIN;2011;2014;4;0;0;1;0;1;2,8;2,8
+2007;24;14,4;1;Solomon Alabi ;2010;1;3;50;4;Florida State University;DAL;2011;2012;2;0;0;1;0;1;-35,6;35,6
+2007;19;11,4;0;Gani Lawal ;2010;1;3;46;4;Georgia Institute of Technology;PHO;2011;2011;1;0;0;1;0;1;-34,6;34,6
+2007;61;36,6;3;Robbie Hummel ;2012;1;5;58;4;Purdue University;MIN;2014;2015;2;1,9;,95;1;0;1;-21,4;21,4
+2007;70;42;3;Bill Walker ;2008;1;1;47;4;Kansas State University;WAS;2009;2015;7;5;,714285714285714;1;0;1;-5;5
+2008;13;7,8;0;Willie Warren ;2010;1;2;54;4;University of Oklahoma;LAC;2011;2011;1;,2;,2;1;0;1;-46,2;46,2
+2008;34;20,4;1;DeAndre Liggins ;2011;1;3;53;4;University of Kentucky;ORL;2012;2018;7;1,6;,228571428571429;1;0;1;-32,6;32,6
+2008;36;21,6;1;Darius Miller ;2012;1;4;46;4;University of Kentucky;NOP;2013;2019;7;5,9;,842857142857143;1;0;1;-24,4;24,4
+2009;14;8,4;0;Ryan Kelly ;2013;1;4;48;4;Duke University;LAL;2014;2017;4;3;,75;1;0;1;-39,6;39,6
+2009;92;55,2;4;Cory Jefferson ;2014;1;5;60;4;Baylor University;SAS;2015;2016;2;,9;,45;1;0;1;-4,8;4,8
+2010;40;24;1;Jordan McRae ;2014;1;4;58;4;University of Tennessee;SAS;2016;2019;4;1;,25;1;0;1;-34;34
+2011;17;10,2;0;Branden Dawson ;2015;1;4;56;4;Michigan State University;NOP;2016;2016;1;0;0;1;0;1;-45,8;45,8
+2012;28;16,8;1;Marcus Paige ;2016;1;4;55;4;University of North Carolina;BRK;2018;2018;1;0;0;1;0;1;-38,2;38,2
+2012;49;29,4;2;Semaj Christon ;2014;1;2;55;4;Xavier University;MIA;2017;2017;1;,1;,1;1;0;1;-25,6;25,6
+2012;71;42,6;3;Georges Niang ;2016;1;4;50;4;Iowa State University;IND;2017;2019;3;1;,333333333333333;1;0;1;-7,4;7,4
+2012;68;40,8;3;Jake Layman ;2016;1;4;47;4;University of Maryland;ORL;2017;2019;3;2,7;,9;1;0;1;-6,2;6,2
+2012;95;57;4;Tyrone Wallace ;2016;1;4;60;4;University of California;UTA;2018;2019;2;,5;,25;1;0;1;-3;3
+2012;75;45;3;A.J. Hammons ;2016;1;4;46;4;Purdue University;DAL;2017;2017;1;0;0;1;0;1;-1;1
+2013;21;12,6;1;Jabari Bird ;2017;1;4;56;4;University of California;BOS;2018;2018;1;,2;,2;1;0;1;-43,4;43,4
+2013;10;6;0;Dakari Johnson ;2015;1;2;48;4;University of Kentucky;OKC;2018;2018;1;,6;,6;1;0;1;-42;42
+2013;35;21;1;Sindarius Thornwell ;2017;1;4;48;4;University of South Carolina;MIL;2018;2019;2;1;,5;1;0;1;-27;27
+2013;33;19,8;1;Demetrius Jackson ;2016;1;3;45;4;University of Notre Dame;BOS;2017;2019;3;,2;,0666666666666667;1;0;1;-25,2;25,2
+2014;17;10,2;0;Daniel Hamilton ;2016;1;2;56;4;University of Connecticut;DEN;2018;2019;2;0;0;1;0;1;-45,8;45,8
+2014;33;19,8;1;Thomas Welsh ;2018;1;4;58;4;University of California, Los Angeles;DEN;2019;2019;1;,1;,1;1;0;1;-38,2;38,2
+2014;29;17,4;1;Keita Bates-Diop ;2018;1;4;48;4;Ohio State University;MIN;2019;2019;1;,3;,3;1;0;1;-30,6;30,6
+2015;41;24,6;2;Raymond Spalding ;2018;1;3;56;4;University of Louisville;PHI;2019;2019;1;,2;,2;1;0;1;-31,4;31,4
+2015;89;53,4;4;Shake Milton ;2018;1;3;54;4;Southern Methodist University;DAL;2019;2019;1;,3;,3;1;0;1;-,600000000000001;,600000000000001
+2016;34;20,4;1;Ike Anigbogu ;2017;1;1;47;4;University of California, Los Angeles;IND;2018;2019;2;0;0;1;0;1;-26,6;26,6
+2017;46;27,6;2;Hamidou Diallo ;2018;1;1;45;4;University of Kentucky;BRK;2019;2019;1;,8;,8;1;0;1;-17,4;17,4
+2003;1;,6;0;LeBron James;2003;1;0;1;1; ;CLE;2004;2019;16;226,6;14,1625;5;5;0;-,4;,4
+2004;1;,6;0;Dwight Howard;2004;1;0;1;1; ;ORL;2005;2019;15;128,9;8,59333333333333;5;5;0;-,4;,4
+2007;16;9,6;0;Blake Griffin ;2009;1;2;1;1;University of Oklahoma;LAC;2011;2019;9;75,3;8,36666666666667;5;5;0;8,6;8,6
+2010;2;1,2;0;Kyrie Irving ;2011;1;1;1;1;Duke University;CLE;2012;2019;8;58,4;7,3;5;5;0;,2;,2
+2011;1;,6;0;Anthony Davis ;2012;1;1;1;1;University of Kentucky;NOP;2013;2019;7;72;10,2857142857143;5;5;0;-,4;,4
+2014;5;3;0;Karl-Anthony Towns ;2015;1;1;1;1;University of Kentucky;MIN;2016;2019;4;45,4;11,35;5;5;0;2;2
+2015;1;,6;0;Ben Simmons ;2016;1;1;1;1;Louisiana State University;PHI;2018;2019;2;17,5;8,75;5;5;0;-,4;,4
+2001;4;2,4;0;Tyson Chandler;2001;1;0;2;1; ;LAC;2002;2019;18;101,5;5,63888888888889;4;4;0;,4;,4
+2002;2;1,2;0;Carmelo Anthony ;2003;1;1;3;1;Syracuse University;DEN;2004;2019;16;101;6,3125;4;4;0;-1,8;1,8
+2002;48;28,8;2;Deron Williams ;2005;1;3;3;1;University of Illinois at Urbana-Champaign;UTA;2006;2017;12;77,3;6,44166666666667;4;4;0;25,8;25,8
+2006;21;12,6;1;Mike Conley ;2007;1;1;4;1;Ohio State University;MEM;2008;2019;12;71,4;5,95;4;4;0;8,6;8,6
+2009;1;,6;0;Derrick Favors ;2010;1;1;3;1;Georgia Institute of Technology;BRK;2011;2019;9;49,5;5,5;4;4;0;-2,4;2,4
+2010;9;5,4;0;Tristan Thompson ;2011;1;1;4;1;University of Texas at Austin;CLE;2012;2019;8;40;5;4;4;0;1,4;1,4
+2011;4;2,4;0;Bradley Beal ;2012;1;1;3;1;University of Florida;WAS;2013;2019;7;36,4;5,2;4;4;0;-,6;,6
+2013;16;9,6;0;Joel Embiid ;2014;1;1;3;1;University of Kansas;PHI;2017;2019;3;16,8;5,6;4;4;0;6,6;6,6
+2016;4;2,4;0;Jayson Tatum ;2017;1;1;3;1;Duke University;BOS;2018;2019;2;12;6;4;4;0;-,6;,6
+1998;13;7,8;0;Mike Miller ;2000;1;2;5;1;University of Florida;ORL;2001;2017;17;60,7;3,57058823529412;3;3;0;2,8;2,8
+1999;22;13,2;1;Nick Collison ;2003;1;4;12;2;University of Kansas;OKC;2005;2018;14;44,5;3,17857142857143;3;3;0;1,2;1,2
+1999;14;8,4;0;Jason Richardson ;2001;1;2;5;1;Michigan State University;GSW;2002;2015;14;59,1;4,22142857142857;3;3;0;3,4;3,4
+1999;25;15;1;Joe Johnson ;2001;1;2;10;2;University of Arkansas;BOS;2002;2018;17;82,8;4,87058823529412;3;3;0;5;5
+1999;47;28,2;2;Jamal Crawford ;2000;1;1;8;2;University of Michigan;CLE;2001;2019;19;60,6;3,18947368421053;3;3;0;20,2;20,2
+1999;61;36,6;3;Caron Butler ;2002;1;3;10;2;University of Connecticut;MIA;2003;2016;14;50,9;3,63571428571429;3;3;0;26,6;26,6
+1999;62;37,2;3;Kirk Hinrich ;2003;1;4;7;2;University of Kansas;CHI;2004;2016;13;52,5;4,03846153846154;3;3;0;30,2;30,2
+2000;47;28,2;2;Caron Butler ;2002;1;2;10;2;University of Connecticut;MIA;2003;2016;14;50,9;3,63571428571429;3;3;0;18,2;18,2
+2002;11;6,6;0;J.J. Redick ;2006;1;4;11;2;Duke University;ORL;2007;2019;13;58,9;4,53076923076923;3;3;0;-4,4;4,4
+2003;2;1,2;0;Luol Deng ;2004;1;1;7;2;Duke University;PHO;2005;2019;15;74;4,93333333333333;3;3;0;-5,8;5,8
+2004;5;3;0;Rudy Gay ;2006;1;2;8;2;University of Connecticut;HOU;2007;2019;13;54,9;4,22307692307692;3;3;0;-5;5
+2005;10;6;0;Andrew Bynum;2005;1;0;10;2; ;LAL;2006;2014;9;37,4;4,15555555555556;3;3;0;-4;4
+2006;6;3,6;0;Thaddeus Young ;2007;1;1;12;2;Georgia Institute of Technology;PHI;2008;2019;12;59,7;4,975;3;3;0;-8,4;8,4
+2006;29;17,4;1;D.J. Augustin ;2008;1;2;9;2;University of Texas at Austin;NOP;2009;2019;11;41,9;3,80909090909091;3;3;0;8,4;8,4
+2007;3;1,8;0;Eric Gordon ;2008;1;1;7;2;Indiana University;LAC;2009;2019;11;33,6;3,05454545454545;3;3;0;-5,2;5,2
+2008;1;,6;0;Brandon Jennings;2009;1;1;10;2; ;MIL;2010;2018;9;29,9;3,32222222222222;3;3;0;-9,4;9,4
+2008;7;4,2;0;Al-Farouq Aminu ;2010;1;2;8;2;Wake Forest University;LAC;2011;2019;9;27,4;3,04444444444444;3;3;0;-3,8;3,8
+2009;3;1,8;0;DeMarcus Cousins ;2010;1;1;5;1;University of Kentucky;SAC;2011;2019;9;44,1;4,9;3;3;0;-3,2;3,2
+2010;1;,6;0;Harrison Barnes ;2012;1;2;7;2;University of North Carolina;GSW;2013;2019;7;29,7;4,24285714285714;3;3;0;-6,4;6,4
+2011;15;9;0;Kentavious Caldwell-Pope ;2013;1;2;8;2;University of Georgia;DET;2014;2019;6;23,8;3,96666666666667;3;3;0;1;1
+2012;1;,6;0;Nerlens Noel ;2013;1;1;6;2;University of Kentucky;NOP;2015;2019;5;16,6;3,32;3;3;0;-5,4;5,4
+2012;9;5,4;0;Marcus Smart ;2014;1;2;6;2;Oklahoma State University;BOS;2015;2019;5;16,2;3,24;3;3;0;-,600000000000001;,600000000000001
+2012;38;22,8;1;Willie Cauley-Stein ;2015;1;3;6;2;University of Kentucky;SAC;2016;2019;4;17,4;4,35;3;3;0;16,8;16,8
+2013;2;1,2;0;Julius Randle ;2014;1;1;7;2;University of Kentucky;LAL;2015;2019;5;17,8;3,56;3;3;0;-5,8;5,8
+2014;92;55,2;4;Domantas Sabonis ;2016;1;2;11;2;Gonzaga University;ORL;2017;2019;3;13,1;4,36666666666667;3;3;0;44,2;44,2
+2015;71;42,6;3;Jamal Murray ;2016;1;1;7;2;University of Kentucky;DEN;2017;2019;3;12;4;3;3;0;35,6;35,6
+2016;72;43,2;3;Lauri Markkanen ;2017;1;1;7;2;University of Arizona;MIN;2018;2019;2;6,1;3,05;3;3;0;36,2;36,2
+2017;30;18;1;Shai Gilgeous-Alexander ;2018;1;1;11;2;University of Kentucky;CHO;2019;2019;1;3,3;3,3;3;3;0;7;7
+2017;21;12,6;1;Trae Young ;2018;1;1;5;1;University of Oklahoma;DAL;2019;2019;1;3,3;3,3;3;3;0;7,6;7,6
+1998;1;,6;0;Al Harrington;1998;1;0;25;3; ;IND;1999;2014;16;42,5;2,65625;2;2;0;-24,4;24,4
+1998;9;5,4;0;Quentin Richardson ;2000;1;2;18;3;DePaul University;LAC;2001;2013;13;32,8;2,52307692307692;2;2;0;-12,6;12,6
+1998;54;32,4;2;Fred Jones ;2002;1;4;14;2;University of Oregon;IND;2003;2009;7;16,5;2,35714285714286;2;2;0;18,4;18,4
+1998;82;49,2;4;John Salmons ;2002;1;4;26;3;University of Miami;SAS;2003;2015;13;33,9;2,60769230769231;2;2;0;23,2;23,2
+1999;20;12;0;Brian Cook ;2003;1;4;24;3;University of Illinois at Urbana-Champaign;LAL;2004;2012;9;10,2;1,13333333333333;2;2;0;-12;12
+1999;19;11,4;0;Casey Jacobsen ;2002;1;3;22;3;Stanford University;PHO;2003;2008;6;6,2;1,03333333333333;2;2;0;-10,6;10,6
+1999;36;21,6;1;Steven Hunter ;2001;1;2;15;3;DePaul University;ORL;2002;2010;9;10,6;1,17777777777778;2;2;0;6,6;6,6
+2001;33;19,8;1;Jason Maxiell ;2005;1;4;26;3;University of Cincinnati;DET;2006;2015;10;20,3;2,03;2;2;0;-6,2;6,2
+2002;46;27,6;2;Jarrett Jack ;2005;1;3;22;3;Georgia Institute of Technology;DEN;2006;2018;13;36,8;2,83076923076923;2;2;0;5,6;5,6
+2002;71;42,6;3;Francisco Garcia ;2005;1;3;23;3;University of Louisville;SAC;2006;2015;10;18,2;1,82;2;2;0;19,6;19,6
+2003;5;3;0;Kendrick Perkins;2003;1;0;27;3; ;MEM;2004;2018;15;27,9;1,86;2;2;0;-24;24
+2003;3;1,8;0;Shannon Brown ;2006;1;3;25;3;Michigan State University;CLE;2007;2015;9;9,2;1,02222222222222;2;2;0;-23,2;23,2
+2003;16;9,6;0;Linas Kleiza ;2005;1;2;27;3;University of Missouri;POR;2006;2013;8;13,6;1,7;2;2;0;-17,4;17,4
+2003;14;8,4;0;Travis Outlaw;2003;1;0;23;3; ;POR;2004;2014;11;16,5;1,5;2;2;0;-14,6;14,6
+2003;10;6;0;Kris Humphries ;2004;1;1;14;2;University of Minnesota;UTA;2005;2017;13;30,3;2,33076923076923;2;2;0;-8;8
+2003;32;19,2;1;Aaron Brooks ;2007;1;4;26;3;University of Oregon;HOU;2008;2018;11;19,2;1,74545454545455;2;2;0;-6,8;6,8
+2003;64;38,4;3;Dorell Wright;2004;1;1;19;3; ;MIA;2005;2015;11;25,9;2,35454545454545;2;2;0;19,4;19,4
+2003;81;48,6;4;Renaldo Balkman ;2006;1;3;20;3;University of South Carolina;NYK;2007;2012;6;7,2;1,2;2;2;0;28,6;28,6
+2003;95;57;4;Josh Boone ;2006;1;3;23;3;University of Connecticut;BRK;2007;2010;4;9,1;2,275;2;2;0;34;34
+2004;20;12;0;Jordan Farmar ;2006;1;2;26;3;University of California, Los Angeles;LAL;2007;2017;11;13,9;1,26363636363636;2;2;0;-14;14
+2004;40;24;1;Dorell Wright;2004;1;0;19;3; ;MIA;2005;2015;11;25,9;2,35454545454545;2;2;0;5;5
+2004;100;60;4;Toney Douglas ;2009;1;5;29;3;Florida State University;LAL;2010;2017;8;12,1;1,5125;2;2;0;31;31
+2004;90;54;4;Nick Young ;2007;1;3;16;3;University of Southern California;WAS;2008;2019;12;18,6;1,55;2;2;0;38;38
+2005;4;2,4;0;Tyler Hansbrough ;2009;1;4;13;2;University of North Carolina;IND;2010;2016;7;20,2;2,88571428571429;2;2;0;-10,6;10,6
+2005;16;9,6;0;Gerald Green;2005;1;0;18;3; ;BOS;2006;2019;14;18,4;1,31428571428571;2;2;0;-8,4;8,4
+2005;23;13,8;1;Brandon Rush ;2008;1;3;13;2;University of Kansas;POR;2009;2017;9;11,2;1,24444444444444;2;2;0;,799999999999999;,799999999999999
+2005;56;33,6;2;Wilson Chandler ;2007;1;2;23;3;DePaul University;NYK;2008;2019;12;28,3;2,35833333333333;2;2;0;10,6;10,6
+2006;8;4,8;0;Wayne Ellington ;2009;1;3;28;3;University of North Carolina;MIN;2010;2019;10;17,8;1,78;2;2;0;-23,2;23,2
+2006;11;6,6;0;Darrell Arthur ;2008;1;2;27;3;University of Kansas;NOP;2009;2018;10;12,3;1,23;2;2;0;-20,4;20,4
+2006;27;16,2;1;Quincy Pondexter ;2010;1;4;26;3;University of Washington;OKC;2011;2019;9;9,7;1,07777777777778;2;2;0;-9,8;9,8
+2006;61;36,6;3;Marreese Speights ;2008;1;2;16;3;University of Florida;PHI;2009;2018;10;25,8;2,58;2;2;0;20,6;20,6
+2006;93;55,8;4;Greivis Vasquez ;2010;1;4;28;3;University of Maryland;MEM;2011;2017;7;12,6;1,8;2;2;0;27,8;27,8
+2007;12;7,2;0;Kosta Koufos ;2008;1;1;23;3;Ohio State University;UTA;2009;2019;11;28,3;2,57272727272727;2;2;0;-15,8;15,8
+2007;9;5,4;0;J.J. Hickson ;2008;1;1;19;3;North Carolina State University;CLE;2009;2016;8;21,9;2,7375;2;2;0;-13,6;13,6
+2007;46;27,6;2;James Johnson ;2009;1;2;16;3;Wake Forest University;CHI;2010;2019;10;23,5;2,35;2;2;0;11,6;11,6
+2007;92;55,2;4;Markieff Morris ;2011;1;4;13;2;University of Kansas;PHO;2012;2019;8;23,7;2,9625;2;2;0;42,2;42,2
+2008;18;10,8;0;Tyler Zeller ;2012;1;4;17;3;University of North Carolina;DAL;2013;2019;7;17,1;2,44285714285714;2;2;0;-6,2;6,2
+2008;23;13,8;1;Iman Shumpert ;2011;1;3;17;3;Georgia Institute of Technology;NYK;2012;2019;8;12,9;1,6125;2;2;0;-3,2;3,2
+2008;81;48,6;4;Miles Plumlee ;2012;1;4;26;3;Duke University;IND;2013;2019;7;10,6;1,51428571428571;2;2;0;22,6;22,6
+2008;67;40,2;3;Markieff Morris ;2011;1;3;13;2;University of Kansas;PHO;2012;2019;8;23,7;2,9625;2;2;0;27,2;27,2
+2009;4;2,4;0;Avery Bradley ;2010;1;1;19;3;University of Texas at Austin;BOS;2011;2019;9;14,6;1,62222222222222;2;2;0;-16,6;16,6
+2009;5;3;0;John Henson ;2012;1;3;14;2;University of North Carolina;MIL;2013;2019;7;19,3;2,75714285714286;2;2;0;-11;11
+2009;56;33,6;2;Solomon Hill ;2013;1;4;23;3;University of Arizona;IND;2014;2019;6;9,2;1,53333333333333;2;2;0;10,6;10,6
+2010;13;7,8;0;Cory Joseph ;2011;1;1;29;3;University of Texas at Austin;SAS;2012;2019;8;21,8;2,725;2;2;0;-21,2;21,2
+2010;15;9;0;Reggie Bullock ;2013;1;3;25;3;University of North Carolina;LAC;2014;2019;6;9,7;1,61666666666667;2;2;0;-16;16
+2010;11;6,6;0;Terrence Jones ;2012;1;2;18;3;University of Kentucky;HOU;2013;2019;7;14,7;2,1;2;2;0;-11,4;11,4
+2010;75;45;3;Shabazz Napier ;2014;1;4;24;3;University of Connecticut;NOP;2015;2019;5;6,4;1,28;2;2;0;21;21
+2011;38;22,8;1;Maurice Harkless ;2012;1;1;15;3;St. John's University;PHI;2013;2019;7;19,2;2,74285714285714;2;2;0;7,8;7,8
+2012;2;1,2;0;Shabazz Muhammad ;2013;1;1;14;2;University of California, Los Angeles;UTA;2014;2018;5;8,5;1,7;2;2;0;-12,8;12,8
+2012;19;11,4;0;Sam Dekker ;2015;1;3;18;3;University of Wisconsin;HOU;2016;2019;4;5,4;1,35;2;2;0;-6,6;6,6
+2012;27;16,2;1;T.J. Warren ;2014;1;2;14;2;North Carolina State University;PHO;2015;2019;5;13;2,6;2;2;0;2,2;2,2
+2012;48;28,8;2;Justin Anderson ;2015;1;3;21;3;University of Virginia;DAL;2016;2019;4;4,7;1,175;2;2;0;7,8;7,8
+2012;76;45,6;3;Terry Rozier ;2015;1;3;16;3;University of Louisville;BOS;2016;2019;4;9,9;2,475;2;2;0;29,6;29,6
+2012;89;53,4;4;Denzel Valentine ;2016;1;4;14;2;Michigan State University;CHI;2017;2018;2;3,1;1,55;2;2;0;39,4;39,4
+2013;15;9;0;Bobby Portis ;2015;1;2;22;3;University of Arkansas;CHI;2016;2019;4;9;2,25;2;2;0;-13;13
+2013;17;10,2;0;Rondae Hollis-Jefferson ;2015;1;2;23;3;University of Arizona;POR;2016;2019;4;9,1;2,275;2;2;0;-12,8;12,8
+2013;53;31,8;2;Terry Rozier ;2015;1;2;16;3;University of Louisville;BOS;2016;2019;4;9,9;2,475;2;2;0;15,8;15,8
+2013;49;29,4;2;Zach LaVine ;2014;1;1;13;2;University of California, Los Angeles;MIN;2015;2019;5;8;1,6;2;2;0;16,4;16,4
+2014;7;4,2;0;Tyus Jones ;2015;1;1;24;3;Duke University;CLE;2016;2019;4;8,4;2,1;2;2;0;-19,8;19,8
+2014;8;4,8;0;Kelly Oubre ;2015;1;1;15;3;University of Kansas;ATL;2016;2019;4;8,3;2,075;2;2;0;-10,2;10,2
+2014;9;5,4;0;Justin Jackson ;2017;1;3;15;3;University of North Carolina;POR;2018;2019;2;3,9;1,95;2;2;0;-9,6;9,6
+2014;23;13,8;1;Devin Booker ;2015;1;1;13;2;University of Kentucky;PHO;2016;2019;4;9,8;2,45;2;2;0;,799999999999999;,799999999999999
+2015;2;1,2;0;Skal Labissiere ;2016;1;1;28;3;University of Kentucky;PHO;2017;2019;3;3;1;2;2;0;-26,8;26,8
+2015;45;27;2;Dejounte Murray ;2016;1;1;29;3;University of Washington;SAS;2017;2018;2;3,2;1,6;2;2;0;-2;2
+2015;37;22,2;1;Malik Beasley ;2016;1;1;19;3;Florida State University;DEN;2017;2019;3;5;1,66666666666667;2;2;0;3,2;3,2
+2016;2;1,2;0;Harry Giles ;2017;1;1;20;3;Duke University;POR;2019;2019;1;1;1;2;2;0;-18,8;18,8
+2016;12;7,2;0;Terrance Ferguson;2017;1;1;21;3; ;OKC;2018;2019;2;4;2;2;2;0;-13,8;13,8
+2016;16;9,6;0;TJ Leaf ;2017;1;1;18;3;University of California, Los Angeles;IND;2018;2019;2;2,4;1,2;2;2;0;-8,4;8,4
+2016;51;30,6;2;Robert Williams ;2018;1;2;27;3;Texas A&M University;BOS;2019;2019;1;1,2;1,2;2;2;0;3,6;3,6
+2016;53;31,8;2;Kevin Huerter ;2018;1;2;19;3;University of Maryland;ATL;2019;2019;1;1,5;1,5;2;2;0;12,8;12,8
+1998;3;1,8;0;Korleone Young;1998;1;0;40;4; ;DET;1999;1999;1;,1;,1;1;1;0;-38,2;38,2
+1998;80;48;3;Lonny Baxter ;2002;1;4;44;4;University of Maryland;CHI;2003;2006;4;2,9;,725;1;1;0;4;4
+1999;42;25,2;2;Tito Maddox ;2002;1;3;38;4;California State University, Fresno;HOU;2003;2003;1;0;0;1;1;0;-12,8;12,8
+1999;59;35,4;2;Jamison Brewer ;2001;1;2;41;4;Auburn University;IND;2002;2005;4;0;0;1;1;0;-5,6;5,6
+1999;96;57,6;4;Derrick Zimmerman ;2003;1;4;40;4;Mississippi State University;GSW;2006;2006;1;0;0;1;1;0;17,6;17,6
+2000;22;13,2;1;Justin Reed ;2004;1;4;40;4;University of Mississippi;BOS;2005;2007;3;,5;,166666666666667;1;1;0;-26,8;26,8
+2001;22;13,2;1;James White ;2006;1;5;31;4;University of Cincinnati;POR;2007;2013;7;,8;,114285714285714;1;1;0;-17,8;17,8
+2001;29;17,4;1;Daniel Ewing ;2005;1;4;32;4;Duke University;LAC;2006;2007;2;,8;,4;1;1;0;-14,6;14,6
+2001;69;41,4;3;Salim Stoudamire ;2005;1;4;31;4;University of Arizona;ATL;2006;2008;3;2,2;,733333333333333;1;1;0;10,4;10,4
+2002;7;4,2;0;Paul Davis ;2006;1;4;34;4;Michigan State University;LAC;2007;2010;4;,5;,125;1;1;0;-29,8;29,8
+2002;58;34,8;2;Derrick Byars ;2007;1;5;42;4;Vanderbilt University;POR;2012;2012;1;,1;,1;1;1;0;-7,2;7,2
+2002;78;46,8;3;James Augustine ;2006;1;4;41;4;University of Illinois at Urbana-Champaign;ORL;2007;2008;2;,3;,15;1;1;0;5,8;5,8
+2002;97;58,2;4;Bobby Jones ;2006;1;4;37;4;University of Washington;MIN;2007;2008;2;1,1;,55;1;1;0;21,2;21,2
+2003;11;6,6;0;Von Wafer ;2005;1;2;39;4;Florida State University;LAL;2006;2012;7;3,3;,471428571428571;1;1;0;-32,4;32,4
+2003;29;17,4;1;Chris Taft ;2005;1;2;42;4;University of Pittsburgh;GSW;2006;2006;1;,5;,5;1;1;0;-24,6;24,6
+2003;15;9;0;J.R. Giddens ;2008;1;5;30;3;University of New Mexico;BOS;2009;2010;2;,1;,05;1;1;0;-21;21
+2003;43;25,8;2;Chris Richard ;2007;1;4;41;4;University of Florida;MIN;2008;2010;3;,7;,233333333333333;1;1;0;-15,2;15,2
+2003;68;40,8;3;Jermareo Davidson ;2007;1;4;36;4;University of Alabama;GSW;2008;2009;2;0;0;1;1;0;4,8;4,8
+2004;46;27,6;2;Sean Singletary ;2008;1;4;42;4;University of Virginia;SAC;2009;2009;1;0;0;1;1;0;-14,4;14,4
+2004;33;19,8;1;Gabe Pruitt ;2007;1;3;32;4;University of Southern California;BOS;2008;2009;2;,4;,2;1;1;0;-12,2;12,2
+2005;41;24,6;2;Chris Douglas-Roberts ;2008;1;3;40;4;University of Memphis;BRK;2009;2015;7;5,4;,771428571428571;1;1;0;-15,4;15,4
+2006;77;46,2;3;Jarvis Varnado ;2010;1;4;41;4;Mississippi State University;MIA;2013;2014;2;,7;,35;1;1;0;5,2;5,2
+2006;82;49,2;4;Dexter Pittman ;2010;1;4;32;4;University of Texas at Austin;MIA;2011;2014;4;,5;,125;1;1;0;17,2;17,2
+2008;20;12;0;Malcolm Lee ;2011;1;3;43;4;University of California, Los Angeles;CHI;2012;2015;4;,4;,1;1;1;0;-31;31
+2008;30;18;1;Devin Ebanks ;2010;1;2;43;4;West Virginia University;LAL;2011;2013;3;,5;,166666666666667;1;1;0;-25;25
+2008;24;14,4;1;Trey Thompkins ;2011;1;3;37;4;University of Georgia;LAC;2012;2012;1;0;0;1;1;0;-22,6;22,6
+2008;96;57,6;4;Jeff Taylor ;2012;1;4;31;4;Vanderbilt University;NOP;2013;2015;3;1,3;,433333333333333;1;1;0;26,6;26,6
+2010;26;15,6;1;Doron Lamb ;2012;1;2;42;4;University of Kentucky;MIL;2013;2014;2;,1;,05;1;1;0;-26,4;26,4
+2010;20;12;0;Tony Mitchell ;2013;1;3;37;4;University of North Texas;DET;2014;2014;1;,2;,2;1;1;0;-25;25
+2010;23;13,8;1;Ray McCallum ;2013;1;3;36;4;University of Detroit Mercy;SAC;2014;2016;3;2,1;,7;1;1;0;-22,2;22,2
+2011;21;12,6;1;Rakeem Christmas ;2015;1;4;36;4;Syracuse University;MIN;2016;2017;2;,5;,25;1;1;0;-23,4;23,4
+2011;39;23,4;1;Johnny O'Bryant ;2014;1;3;36;4;Louisiana State University;MIL;2015;2018;4;,2;,05;1;1;0;-12,6;12,6
+2012;23;13,8;1;Glenn Robinson ;2014;1;2;40;4;University of Michigan;MIN;2015;2019;5;4,7;,94;1;1;0;-26,2;26,2
+2013;32;19,2;1;Semi Ojeleye ;2017;1;4;37;4;Southern Methodist University;BOS;2018;2019;2;1,9;,95;1;1;0;-17,8;17,8
+2013;38;22,8;1;Jordan Mickey ;2015;1;2;33;4;Louisiana State University;BOS;2016;2018;3;,5;,166666666666667;1;1;0;-10,2;10,2
+2013;82;49,2;4;Damian Jones ;2016;1;3;30;3; ;GSW;2017;2019;3;1,6;,533333333333333;1;1;0;19,2;19,2
+2013;89;53,4;4;Frank Mason ;2017;1;4;34;4;University of Kansas;SAC;2018;2019;2;,9;,45;1;1;0;19,4;19,4
+2014;18;10,8;0;Tyler Ulis ;2016;1;2;34;4;University of Kentucky;PHO;2017;2019;3;,5;,166666666666667;1;1;0;-23,2;23,2
+2014;64;38,4;3;Chinanu Onuaku ;2016;1;2;37;4;University of Louisville;HOU;2017;2018;2;,1;,05;1;1;0;1,4;1,4
+2014;65;39;3;Devonte Graham ;2018;1;4;34;4;University of Kansas;ATL;2019;2019;1;,5;,5;1;1;0;5;5
+2015;10;6;0;Stephen Zimmerman ;2016;1;1;41;4;University of Nevada, Las Vegas;ORL;2017;2017;1;0;0;1;1;0;-35;35
+2015;17;10,2;0;Dwayne Bacon ;2017;1;2;40;4;Florida State University;NOP;2018;2019;2;1,1;,55;1;1;0;-29,8;29,8
+2015;23;13,8;1;Tyler Dorsey ;2017;1;2;41;4;University of Oregon;ATL;2018;2019;2;1;,5;1;1;0;-27,2;27,2
+2016;14;8,4;0;Frank Jackson ;2017;1;1;31;4;Duke University;CHO;2019;2019;1;,4;,4;1;1;0;-22,6;22,6
+2017;13;7,8;0;Jarred Vanderbilt ;2018;1;1;41;4;University of Kentucky;ORL;2019;2019;1;,1;,1;1;1;0;-33,2;33,2
+1998;66;39,6;3;Ernest Brown;2000;1;2;52;4;Indian Hills Community College;MIA;2002;2002;1;-,2;-,2;0;0;0;-12,4;12,4
+1999;13;7,8;0;Kenny Satterfield ;2001;1;2;54;4;University of Cincinnati;DAL;2002;2003;2;-1,1;-,55;0;0;0;-46,2;46,2
+2000;25;15;1;Orien Greene ;2005;1;5;53;4;University of Louisiana at Lafayette;BOS;2006;2011;6;-,7;-,116666666666667;0;0;0;-38;38
+2003;31;18,6;1;Demetris Nichols ;2007;1;4;53;4;Syracuse University;POR;2008;2009;2;-,2;-,1;0;0;0;-34,4;34,4
+2003;94;56,4;4;Will Blalock ;2006;1;3;60;4;Iowa State University;DET;2007;2007;1;-,1;-,1;0;0;0;-3,6;3,6
+2008;56;33,6;2;Kris Joseph ;2012;1;4;51;4;Syracuse University;BOS;2013;2013;1;-,1;-,1;0;0;0;-17,4;17,4
+2009;27;16,2;1;Peyton Siva ;2013;1;4;56;4;University of Louisville;DET;2014;2014;1;-,2;-,2;0;0;0;-39,8;39,8
+2009;26;15,6;1;Lorenzo Brown ;2013;1;4;52;4;North Carolina State University;MIN;2014;2019;6;-,2;-,0333333333333333;0;0;0;-36,4;36,4
+2009;43;25,8;2;Erik Murphy ;2013;1;4;49;4;University of Florida;CHI;2014;2014;1;-,1;-,1;0;0;0;-23,2;23,2
+2010;6;3,6;0;Josh Selby ;2011;1;1;49;4;University of Kansas;MEM;2012;2013;2;-,7;-,35;0;0;0;-45,4;45,4
+2010;56;33,6;2;Lorenzo Brown ;2013;1;3;52;4;North Carolina State University;MIN;2014;2019;6;-,2;-,0333333333333333;0;0;0;-18,4;18,4
+2011;28;16,8;1;Michael Gbinije ;2016;1;5;49;4;Syracuse University;DET;2017;2017;1;-,1;-,1;0;0;0;-32,2;32,2
+2014;95;57;4;Sviatoslav Mykhailiuk ;2018;1;4;47;4;University of Kansas;LAL;2019;2019;1;-,1;-,1;0;0;0;10;10
+2015;35;21;1;Chimezie Metu ;2018;1;3;49;4;University of Southern California;SAS;2019;2019;1;-,3;-,3;0;0;0;-28;28
+2017;3;1,8;0;DeAndre Ayton ;2018;1;1;1;1;University of Arizona;PHO;2019;2019;1;5,8;5,8;4;5;-1;,8;,8
+1999;21;12,6;1;Drew Gooden ;2002;1;3;4;1;University of Kansas;MEM;2003;2016;14;43,9;3,13571428571429;3;4;-1;8,6;8,6
+1999;26;15,6;1;Mike Dunleavy ;2002;1;3;3;1;Duke University;GSW;2003;2017;15;58,5;3,9;3;4;-1;12,6;12,6
+2001;41;24,6;2;Ben Gordon ;2004;1;3;3;1;University of Connecticut;CHI;2005;2015;11;33,3;3,02727272727273;3;4;-1;21,6;21,6
+2001;99;59,4;4;Emeka Okafor ;2004;1;3;2;1;University of Connecticut;NOP;2005;2018;14;45,3;3,23571428571429;3;4;-1;57,4;57,4
+2004;7;4,2;0;Marvin Williams ;2005;1;1;2;1;University of North Carolina;ATL;2006;2019;14;62,7;4,47857142857143;3;4;-1;2,2;2,2
+2010;7;4,2;0;Enes Kanter;2011;1;1;3;1; ;UTA;2012;2019;8;39,6;4,95;3;4;-1;1,2;1,2
+2011;3;1,8;0;Michael Kidd-Gilchrist ;2012;1;1;2;1;University of Kentucky;NOP;2013;2019;7;21,2;3,02857142857143;3;4;-1;-,2;,2
+2011;10;6;0;Cody Zeller ;2013;1;2;4;1;Indiana University;NOP;2014;2019;6;24,1;4,01666666666667;3;4;-1;2;2
+2011;34;20,4;1;Otto Porter ;2013;1;2;3;1;Georgetown University;WAS;2014;2019;6;29,1;4,85;3;4;-1;17,4;17,4
+2013;4;2,4;0;Aaron Gordon ;2014;1;1;4;1;University of Arizona;ORL;2015;2019;5;18;3,6;3;4;-1;-1,6;1,6
+2015;3;1,8;0;Jaylen Brown ;2016;1;1;3;1;University of California;BOS;2017;2019;3;9;3;3;4;-1;-1,2;1,2
+2017;1;,6;0;Marvin Bagley III ;2018;1;1;2;1;Duke University;SAC;2019;2019;1;3,6;3,6;3;4;-1;-1,4;1,4
+2017;9;5,4;0;Jaren Jackson ;2018;1;1;4;1;Michigan State University;MEM;2019;2019;1;3,3;3,3;3;4;-1;1,4;1,4
+1998;8;4,8;0;Joel Przybilla ;2000;1;2;9;2;University of Minnesota;HOU;2001;2013;13;23;1,76923076923077;2;3;-1;-4,2;4,2
+1998;19;11,4;0;Keyon Dooling ;2000;1;2;10;2;University of Missouri;ORL;2001;2013;13;18,5;1,42307692307692;2;3;-1;1,4;1,4
+2000;2;1,2;0;Eddie Griffin ;2001;1;1;7;2;Seton Hall University;BRK;2002;2007;6;10,9;1,81666666666667;2;3;-1;-5,8;5,8
+2000;9;5,4;0;Jared Jeffries ;2002;1;2;11;2;Indiana University;WAS;2003;2013;11;13,1;1,19090909090909;2;3;-1;-5,6;5,6
+2000;23;13,8;1;Chris Wilcox ;2002;1;2;8;2;University of Maryland;LAC;2003;2013;11;26,9;2,44545454545455;2;3;-1;5,8;5,8
+2000;34;20,4;1;Mike Sweetney ;2003;1;3;9;2;Georgetown University;NYK;2004;2007;4;7,8;1,95;2;3;-1;11,4;11,4
+2001;8;4,8;0;DeSagana Diop;2001;1;0;8;2; ;CLE;2002;2013;12;12,8;1,06666666666667;2;3;-1;-3,2;3,2
+2001;17;10,2;0;T.J. Ford ;2003;1;2;8;2;University of Texas at Austin;MIL;2004;2012;9;16,9;1,87777777777778;2;3;-1;2,2;2,2
+2001;18;10,8;0;Josh Childress ;2004;1;3;6;2;Stanford University;ATL;2005;2014;10;25,7;2,57;2;3;-1;4,8;4,8
+2001;87;52,2;4;Channing Frye ;2005;1;4;8;2;University of Arizona;NYK;2006;2019;14;38,9;2,77857142857143;2;3;-1;44,2;44,2
+2002;3;1,8;0;Raymond Felton ;2005;1;3;5;1;University of North Carolina;NOP;2006;2019;14;40,2;2,87142857142857;2;3;-1;-3,2;3,2
+2002;8;4,8;0;Shelden Williams ;2006;1;4;5;1;Duke University;ATL;2007;2012;6;9,9;1,65;2;3;-1;-,2;,2
+2002;56;33,6;2;Randy Foye ;2006;1;4;7;2;Villanova University;BOS;2007;2017;11;23,5;2,13636363636364;2;3;-1;26,6;26,6
+2003;18;10,8;0;Charlie Villanueva ;2005;1;2;7;2;University of Connecticut;TOR;2006;2016;11;22,6;2,05454545454545;2;3;-1;3,8;3,8
+2004;25;15;1;Corey Brewer ;2007;1;3;7;2;University of Florida;MIN;2008;2019;12;22,5;1,875;2;3;-1;8;8
+2005;3;1,8;0;Martell Webster;2005;1;0;6;2; ;POR;2006;2015;10;24,7;2,47;2;3;-1;-4,2;4,2
+2006;4;2,4;0;Spencer Hawes ;2007;1;1;10;2;University of Washington;SAC;2008;2017;10;22,6;2,26;2;3;-1;-7,6;7,6
+2006;3;1,8;0;Brandan Wright ;2007;1;1;8;2;University of North Carolina;NOP;2008;2018;11;26,2;2,38181818181818;2;3;-1;-6,2;6,2
+2006;10;6;0;Gerald Henderson ;2009;1;3;12;2;Duke University;NOP;2010;2017;8;18,3;2,2875;2;3;-1;-6;6
+2007;7;4,2;0;Jerryd Bayless ;2008;1;1;11;2;University of Arizona;IND;2009;2019;11;18,6;1,69090909090909;2;3;-1;-6,8;6,8
+2007;22;13,2;1;Cole Aldrich ;2010;1;3;11;2;University of Kansas;NOP;2011;2018;8;9,6;1,2;2;3;-1;2,2;2,2
+2010;4;2,4;0;Brandon Knight ;2011;1;1;8;2;University of Kentucky;DET;2012;2019;8;11,6;1,45;2;3;-1;-5,6;5,6
+2010;30;18;1;Meyers Leonard ;2012;1;2;11;2;University of Illinois at Urbana-Champaign;POR;2013;2019;7;13,4;1,91428571428571;2;3;-1;7;7
+2010;33;19,8;1;Terrence Ross ;2012;1;2;8;2;University of Washington;TOR;2013;2019;7;19,2;2,74285714285714;2;3;-1;11,8;11,8
+2010;78;46,8;3;Jeremy Lamb ;2012;1;2;12;2;University of Connecticut;HOU;2013;2019;7;20,8;2,97142857142857;2;3;-1;34,8;34,8
+2011;2;1,2;0;Austin Rivers ;2012;1;1;10;2;Duke University;NOP;2013;2019;7;9,1;1,3;2;3;-1;-8,8;8,8
+2013;8;4,8;0;Noah Vonleh ;2014;1;1;9;2;Indiana University;NOP;2015;2019;5;8,3;1,66;2;3;-1;-4,2;4,2
+2014;12;7,2;0;Trey Lyles ;2015;1;1;12;2;University of Kentucky;UTA;2016;2019;4;8,1;2,025;2;3;-1;-4,8;4,8
+2014;13;7,8;0;Justise Winslow ;2015;1;1;10;2;Duke University;MIA;2016;2019;4;7,8;1,95;2;3;-1;-2,2;2,2
+2014;96;57,6;4;Mikal Bridges ;2018;1;4;10;2;Villanova University;PHI;2019;2019;1;2,9;2,9;2;3;-1;47,6;47,6
+2015;21;12,6;1;Luke Kennard ;2017;1;2;12;2;Duke University;DET;2018;2019;2;5,1;2,55;2;3;-1;,6;,6
+2015;74;44,4;3;Thon Maker;2016;1;1;10;2; ;MIL;2017;2019;3;4,8;1,6;2;3;-1;34,4;34,4
+2016;10;6;0;Miles Bridges ;2018;1;2;12;2;Michigan State University;LAC;2019;2019;1;2,9;2,9;2;3;-1;-6;6
+2016;7;4,2;0;Jonathan Isaac ;2017;1;1;6;2;Florida State University;ORL;2018;2019;2;4,2;2,1;2;3;-1;-1,8;1,8
+2016;6;3,6;0;De'Aaron Fox ;2017;1;1;5;1;University of Kentucky;SAC;2018;2019;2;5;2,5;2;3;-1;-1,4;1,4
+2016;28;16,8;1;Zach Collins ;2017;1;1;10;2;Gonzaga University;SAC;2018;2019;2;3,6;1,8;2;3;-1;6,8;6,8
+2016;37;22,2;1;Thon Maker;2016;1;0;10;2; ;MIL;2017;2019;3;4,8;1,6;2;3;-1;12,2;12,2
+2017;4;2,4;0;Mohamed Bamba ;2018;1;1;6;2;University of Texas at Austin;ORL;2019;2019;1;1,7;1,7;2;3;-1;-3,6;3,6
+2017;7;4,2;0;Wendell Carter ;2018;1;1;7;2;Duke University;CHI;2019;2019;1;1,9;1,9;2;3;-1;-2,8;2,8
+1998;21;12,6;1;Frank Williams ;2002;1;4;25;3;University of Illinois at Urbana-Champaign;DEN;2003;2005;3;,1;,0333333333333333;1;2;-1;-12,4;12,4
+1998;29;17,4;1;Erick Barkley ;2000;1;2;28;3;St. John's University;POR;2001;2002;2;,2;,1;1;2;-1;-10,6;10,6
+1998;91;54,6;4;Dahntay Jones ;2003;1;5;20;3;Duke University;BOS;2004;2017;14;9,9;,707142857142857;1;2;-1;34,6;34,6
+1999;12;7,2;0;Leon Smith;1999;1;0;29;3; ;SAS;2002;2004;3;,2;,0666666666666667;1;2;-1;-21,8;21,8
+1999;1;,6;0;Donnell Harvey ;2000;1;1;22;3;University of Florida;NYK;2001;2005;5;4,7;,94;1;2;-1;-21,4;21,4
+1999;34;20,4;1;Kareem Rush ;2002;1;3;20;3;University of Missouri;TOR;2003;2010;8;1,7;,2125;1;2;-1;,399999999999999;,399999999999999
+1999;63;37,8;3;Curtis Borchardt ;2002;1;3;18;3;Stanford University;ORL;2004;2005;2;1;,5;1;2;-1;19,8;19,8
+2000;6;3,6;0;DeShawn Stevenson;2000;1;0;23;3; ;UTA;2001;2013;13;12,1;,930769230769231;1;2;-1;-19,4;19,4
+2001;14;8,4;0;David Harrison ;2004;1;3;29;3;University of Colorado;IND;2005;2008;4;3,2;,8;1;2;-1;-20,6;20,6
+2001;20;12;0;Wayne Simien ;2005;1;4;29;3;University of Kansas;MIA;2006;2007;2;,9;,45;1;2;-1;-17;17
+2001;7;4,2;0;Julius Hodge ;2005;1;4;20;3;North Carolina State University;DEN;2006;2007;2;0;0;1;2;-1;-15,8;15,8
+2002;4;2,4;0;Rashad McCants ;2005;1;3;14;2;University of North Carolina;MIN;2006;2009;4;3,6;,9;1;2;-1;-11,6;11,6
+2002;9;5,4;0;Sean May ;2005;1;3;13;2;University of North Carolina;NOP;2006;2010;5;2,6;,52;1;2;-1;-7,6;7,6
+2002;18;10,8;0;Antoine Wright ;2005;1;3;15;3;Texas A&M University;BRK;2006;2011;6;3,1;,516666666666667;1;2;-1;-4,2;4,2
+2003;4;2,4;0;Ndudi Ebi;2003;1;0;26;3; ;MIN;2004;2005;2;,1;,05;1;2;-1;-23,6;23,6
+2003;41;24,6;2;Marcus Williams ;2006;1;3;22;3;University of Connecticut;BRK;2007;2010;4;0;0;1;2;-1;2,6;2,6
+2004;13;7,8;0;D.J. White ;2008;1;4;29;3;Indiana University;DET;2009;2014;6;3,8;,633333333333333;1;2;-1;-21,2;21,2
+2004;6;3,6;0;Sebastian Telfair;2004;1;0;13;2; ;POR;2005;2015;11;5;,454545454545455;1;2;-1;-9,4;9,4
+2004;35;21;1;Shawne Williams ;2006;1;2;17;3;University of Memphis;IND;2007;2015;9;6,7;,744444444444444;1;2;-1;4;4
+2004;34;20,4;1;Cedric Simmons ;2006;1;2;15;3;North Carolina State University;NOP;2007;2009;3;,1;,0333333333333333;1;2;-1;5,4;5,4
+2005;6;3,6;0;Julian Wright ;2007;1;2;13;2;University of Kansas;NOP;2008;2011;4;3,9;,975;1;2;-1;-9,4;9,4
+2005;27;16,2;1;Shawne Williams ;2006;1;1;17;3;University of Memphis;IND;2007;2015;9;6,7;,744444444444444;1;2;-1;-,800000000000001;,800000000000001
+2006;15;9;0;Damion James ;2010;1;4;24;3;University of Texas at Austin;ATL;2011;2014;4;0;0;1;2;-1;-15;15
+2006;13;7,8;0;Daequan Cook ;2007;1;1;21;3;Ohio State University;PHI;2008;2013;6;4,9;,816666666666667;1;2;-1;-13,2;13,2
+2006;12;7,2;0;Javaris Crittenton ;2007;1;1;19;3;Georgia Institute of Technology;LAL;2008;2009;2;,1;,05;1;2;-1;-11,8;11,8
+2006;24;14,4;1;Earl Clark ;2009;1;3;14;2;University of Louisville;PHO;2010;2015;6;2,9;,483333333333333;1;2;-1;,399999999999999;,399999999999999
+2007;8;4,8;0;Donte Greene ;2008;1;1;28;3;Syracuse University;MEM;2009;2012;4;1,5;,375;1;2;-1;-23,2;23,2
+2007;15;9;0;Anthony Randolph ;2008;1;1;14;2;Louisiana State University;GSW;2009;2014;6;5,8;,966666666666667;1;2;-1;-5;5
+2007;28;16,8;1;James Anderson ;2010;1;3;20;3;Oklahoma State University;SAS;2011;2016;6;3,3;,55;1;2;-1;-3,2;3,2
+2007;47;28,2;2;JaJuan Johnson ;2011;1;4;27;3;Purdue University;BRK;2012;2012;1;,2;,2;1;2;-1;1,2;1,2
+2007;34;20,4;1;Austin Daye ;2009;1;2;15;3;Gonzaga University;DET;2010;2015;6;4,5;,75;1;2;-1;5,4;5,4
+2008;8;4,8;0;Byron Mullens ;2009;1;1;24;3;Ohio State University;DAL;2010;2014;5;,6;,12;1;2;-1;-19,2;19,2
+2008;16;9,6;0;Elliot Williams ;2010;1;2;22;3;University of Memphis;POR;2012;2016;5;,7;,14;1;2;-1;-12,4;12,4
+2008;14;8,4;0;Chris Singleton ;2011;1;3;18;3;Florida State University;WAS;2012;2014;3;2,3;,766666666666667;1;2;-1;-9,6;9,6
+2008;19;11,4;0;Luke Babbitt ;2010;1;2;16;3;University of Nevada, Reno;MIN;2011;2018;8;7,2;,9;1;2;-1;-4,6;4,6
+2009;20;12;0;Daniel Orton ;2010;1;1;29;3;University of Kentucky;ORL;2012;2014;3;1;,333333333333333;1;2;-1;-17;17
+2009;22;13,2;1;Jordan Hamilton ;2011;1;2;26;3;University of Texas at Austin;DAL;2012;2016;5;3;,6;1;2;-1;-12,8;12,8
+2009;29;17,4;1;John Jenkins ;2012;1;3;23;3;Vanderbilt University;ATL;2013;2019;7;3;,428571428571429;1;2;-1;-5,6;5,6
+2009;31;18,6;1;Royce White ;2012;1;3;16;3;Iowa State University;HOU;2014;2014;1;0;0;1;2;-1;2,6;2,6
+2010;8;4,8;0;Perry Jones ;2012;1;2;28;3;Baylor University;OKC;2013;2015;3;1,7;,566666666666667;1;2;-1;-23,2;23,2
+2010;14;8,4;0;Fab Melo ;2012;1;2;22;3;Syracuse University;BOS;2013;2013;1;0;0;1;2;-1;-13,6;13,6
+2010;25;15;1;Kendall Marshall ;2012;1;2;13;2;University of North Carolina;PHO;2013;2016;4;1;,25;1;2;-1;2;2
+2011;12;7,2;0;P.J. Hairston ;2014;1;3;26;3;University of North Carolina;MIA;2015;2016;2;,9;,45;1;2;-1;-18,8;18,8
+2012;10;6;0;Archie Goodwin ;2013;1;1;29;3;University of Kentucky;OKC;2014;2017;4;1,1;,275;1;2;-1;-23;23
+2012;26;15,6;1;Mitch McGary ;2014;1;2;21;3;University of Michigan;OKC;2015;2016;2;1,3;,65;1;2;-1;-5,4;5,4
+2012;40;24;1;Brice Johnson ;2016;1;4;25;3;University of North Carolina;LAC;2017;2018;2;,1;,05;1;2;-1;-1;1
+2012;59;35,4;2;Jordan Adams ;2014;1;2;22;3;University of California, Los Angeles;MEM;2015;2016;2;,4;,2;1;2;-1;13,4;13,4
+2013;12;7,2;0;Jarell Martin ;2015;1;2;25;3;Louisiana State University;MEM;2016;2019;4;3,2;,8;1;2;-1;-17,8;17,8
+2013;9;5,4;0;James Young ;2014;1;1;17;3;University of Kentucky;BOS;2015;2018;4;,8;,2;1;2;-1;-11,6;11,6
+2013;23;13,8;1;Tyler Ennis ;2014;1;1;18;3;Syracuse University;PHO;2015;2018;4;1,3;,325;1;2;-1;-4,2;4,2
+2014;19;11,4;0;Chris McCollough ;2015;1;1;29;3;Syracuse University;BRK;2016;2018;3;,6;,2;1;2;-1;-17,6;17,6
+2014;24;14,4;1;Grayson Allen ;2018;1;4;21;3;Duke University;UTA;2019;2019;1;0;0;1;2;-1;-6,6;6,6
+2015;9;5,4;0;Henry Ellenson ;2016;1;1;18;3;Marquette University;DET;2017;2019;3;,3;,1;1;2;-1;-12,6;12,6
+2015;60;36;2;Aaron Holiday ;2018;1;3;23;3;University of California, Los Angeles;IND;2019;2019;1;,9;,9;1;2;-1;13;13
+2015;72;43,2;3;Tyler Lydon ;2017;1;2;24;3;Syracuse University;UTA;2018;2019;2;,2;,1;1;2;-1;19,2;19,2
+2015;63;37,8;3;Justin Patton ;2017;1;2;16;3;Creighton University;CHI;2018;2019;2;0;0;1;2;-1;21,8;21,8
+2015;97;58,2;4;Moritz Wagner ;2018;1;3;25;3;University of Michigan;LAL;2019;2019;1;,2;,2;1;2;-1;33,2;33,2
+2016;19;11,4;0;Tony Bradley ;2017;1;1;28;3;University of North Carolina;LAL;2018;2019;2;,1;,05;1;2;-1;-16,6;16,6
+2017;17;10,2;0;Lonnie Walker ;2018;1;1;18;3;University of Miami;SAS;2019;2019;1;0;0;1;2;-1;-7,8;7,8
+2017;12;7,2;0;Troy Brown ;2018;1;1;15;3;University of Oregon;WAS;2019;2019;1;,6;,6;1;2;-1;-7,8;7,8
+2018;7;4,2;0;Anfernee Simons;2018;1;0;24;3; ;POR;2019;2019;1;,1;,1;1;2;-1;-19,8;19,8
+2000;12;7,2;0;Omar Cook ;2001;1;1;32;4;St. John's University;ORL;2004;2005;2;-,1;-,05;0;1;-1;-24,8;24,8
+2003;97;58,2;4;Patrick Ewing ;2008;1;5;43;4;Georgetown University;SAC;2011;2011;1;-,1;-,1;0;1;-1;15,2;15,2
+2004;84;50,4;4;Walter Sharpe ;2008;1;4;32;4;University of Alabama at Birmingham;OKC;2009;2009;1;-,1;-,1;0;1;-1;18,4;18,4
+2005;30;18;1;Marcus Williams ;2007;1;2;33;4;University of Arizona;SAS;2008;2009;2;-,1;-,05;0;1;-1;-15;15
+2006;26;15,6;1;DaJuan Summers ;2009;1;3;35;4;Georgetown University;DET;2010;2013;4;-,1;-,025;0;1;-1;-19,4;19,4
+2008;73;43,8;3;Tyshawn Taylor ;2012;1;4;41;4;University of Kansas;POR;2013;2014;2;-,9;-,45;0;1;-1;2,8;2,8
+2009;32;19,2;1;Tyler Honeycutt ;2011;1;2;35;4;University of California, Los Angeles;SAC;2012;2013;2;-,1;-,05;0;1;-1;-15,8;15,8
+2009;91;54,6;4;Glen Rice ;2013;1;4;35;4;Georgia Institute of Technology;PHI;2014;2015;2;-,2;-,1;0;1;-1;19,6;19,6
+2010;54;32,4;2;Anthony Brown ;2015;1;5;34;4;Stanford University;LAL;2016;2018;3;-,2;-,0666666666666667;0;1;-1;-1,6;1,6
+2011;5;3;0;Quincy Miller ;2012;1;1;38;4;Baylor University;DEN;2013;2015;3;-,1;-,0333333333333333;0;1;-1;-35;35
+2011;23;13,8;1;Nick Johnson ;2014;1;3;42;4;University of Arizona;HOU;2015;2015;1;-,1;-,1;0;1;-1;-28,2;28,2
+2012;13;7,8;0;Ricky Ledo;2013;1;1;43;4; ;MIL;2014;2015;2;-,6;-,3;0;1;-1;-35,2;35,2
+2012;11;6,6;0;Grant Jerrett ;2013;1;1;40;4;University of Arizona;POR;2015;2015;1;-,1;-,1;0;1;-1;-33,4;33,4
+2014;14;8,4;0;Isaiah Whitehead ;2016;1;2;42;4;Seton Hall University;UTA;2017;2018;2;-,9;-,45;0;1;-1;-33,6;33,6
+2015;7;4,2;0;Diamond Stone ;2016;1;1;40;4;University of Maryland;NOP;2017;2017;1;-,1;-,1;0;1;-1;-35,8;35,8
+2015;28;16,8;1;Jawun Evans ;2017;1;2;39;4;Oklahoma State University;PHI;2018;2019;2;-,4;-,2;0;1;-1;-22,2;22,2
+2017;15;9;0;Gary Trent Jr. ;2018;1;1;37;4;Duke University;SAC;2019;2019;1;-,2;-,2;0;1;-1;-28;28
+2007;5;3;0;Derrick Rose ;2008;1;1;1;1;University of Memphis;CHI;2009;2019;11;37,2;3,38181818181818;3;5;-2;2;2
+2009;2;1,2;0;John Wall ;2010;1;1;1;1;University of Kentucky;WAS;2011;2019;9;44,3;4,92222222222222;3;5;-2;,2;,2
+1998;5;3;0;Stromile Swift ;2000;1;2;2;1;Louisiana State University;MEM;2001;2009;9;21,3;2,36666666666667;2;4;-2;1;1
+2000;3;1,8;0;Darius Miles;2000;1;0;3;1; ;LAC;2001;2009;9;9,5;1,05555555555556;2;4;-2;-1,2;1,2
+2001;1;,6;0;Eddy Curry;2001;1;0;4;1; ;CHI;2002;2013;12;21,7;1,80833333333333;2;4;-2;-3,4;3,4
+2004;2;1,2;0;Shaun Livingston;2004;1;0;4;1; ;LAC;2005;2019;15;29,9;1,99333333333333;2;4;-2;-2,8;2,8
+2007;1;,6;0;O.J. Mayo ;2008;1;1;3;1;University of Southern California;MIN;2009;2016;8;21,8;2,725;2;4;-2;-2,4;2,4
+2007;4;2,4;0;Michael Beasley ;2008;1;1;2;1;Kansas State University;MIA;2009;2019;11;15,6;1,41818181818182;2;4;-2;,4;,4
+2007;52;31,2;2;Evan Turner ;2010;1;3;2;1;Ohio State University;PHI;2011;2019;9;20,5;2,27777777777778;2;4;-2;29,2;29,2
+2008;3;1,8;0;Tyreke Evans ;2009;1;1;4;1;University of Memphis;SAC;2010;2019;10;28,4;2,84;2;4;-2;-2,2;2,2
+2009;100;60;4;Derrick Williams ;2011;1;2;2;1;University of Arizona;MIN;2012;2018;7;14,1;2,01428571428571;2;4;-2;58;58
+2010;31;18,6;1;Dion Waiters ;2012;1;2;4;1;Syracuse University;CLE;2013;2019;7;8,7;1,24285714285714;2;4;-2;14,6;14,6
+2013;3;1,8;0;Jabari Parker ;2014;1;1;2;1;Duke University;MIL;2015;2019;5;11,6;2,32;2;4;-2;-,2;,2
+2014;1;,6;0;Jahlil Okafor ;2015;1;1;3;1;Duke University;PHI;2016;2019;4;5,3;1,325;2;4;-2;-2,4;2,4
+2014;16;9,6;0;D'Angelo Russell ;2015;1;1;2;1;Ohio State University;LAL;2016;2019;4;6,6;1,65;2;4;-2;7,6;7,6
+2015;4;2,4;0;Brandon Ingram ;2016;1;1;2;1;Duke University;LAL;2017;2019;3;4,5;1,5;2;4;-2;,4;,4
+2016;3;1,8;0;Lonzo Ball ;2017;1;1;2;1;University of California, Los Angeles;LAL;2018;2019;2;3,5;1,75;2;4;-2;-,2;,2
+1998;75;45;3;Jerome Moiso ;2000;1;2;11;2;University of California, Los Angeles;BOS;2001;2005;5;2,1;,42;1;3;-2;34;34
+1999;8;4,8;0;Jonathan Bender;1999;1;0;5;1; ;TOR;2000;2010;11;3,8;,345454545454545;1;3;-2;-,2;,2
+1999;17;10,2;0;DerMarr Johnson ;2000;1;1;6;2;University of Cincinnati;ATL;2001;2008;8;6,4;,8;1;3;-2;4,2;4,2
+1999;77;46,2;3;Rodney White ;2001;1;2;9;2;University of North Carolina at Charlotte;DET;2002;2005;4;1,8;,45;1;3;-2;37,2;37,2
+2001;3;1,8;0;Dajuan Wagner ;2002;1;1;6;2;University of Memphis;CLE;2003;2007;5;0;0;1;3;-2;-4,2;4,2
+2002;51;30,6;2;Ike Diogu ;2005;1;3;9;2;Arizona State University;GSW;2006;2012;7;6,5;,928571428571429;1;3;-2;21,6;21,6
+2004;8;4,8;0;Robert Swift;2004;1;0;12;2; ;OKC;2005;2009;5;1,7;,34;1;3;-2;-7,2;7,2
+2009;6;3,6;0;Xavier Henry ;2010;1;1;12;2;University of Kansas;MEM;2011;2015;5;,8;,16;1;3;-2;-8,4;8,4
+2009;28;16,8;1;Thomas Robinson ;2012;1;3;5;1;University of Kansas;SAC;2013;2017;5;4,6;,92;1;3;-2;11,8;11,8
+2011;25;15;1;Michael Carter-Williams ;2013;1;2;11;2;Syracuse University;PHI;2014;2019;6;5,2;,866666666666667;1;3;-2;4;4
+2011;41;24,6;2;Ben McLemore ;2013;1;2;7;2;University of Kansas;SAC;2014;2019;6;4,6;,766666666666667;1;3;-2;17,6;17,6
+2012;20;12;0;Kris Dunn ;2016;1;4;5;1;Providence College;MIN;2017;2019;3;1,6;,533333333333333;1;3;-2;7;7
+2012;78;46,8;3;Nik Stauskas ;2014;1;2;8;2;University of Michigan;SAC;2015;2019;5;3,8;,76;1;3;-2;38,8;38,8
+2014;3;1,8;0;Stanley Johnson ;2015;1;1;8;2;University of Arizona;DET;2016;2019;4;3,3;,825;1;3;-2;-6,2;6,2
+2015;52;31,2;2;Marquese Chriss ;2016;1;1;8;2;University of Washington;SAC;2017;2019;3;2,3;,766666666666667;1;3;-2;23,2;23,2
+2016;9;5,4;0;Malik Monk ;2017;1;1;11;2;University of Kentucky;CHO;2018;2019;2;,3;,15;1;3;-2;-5,6;5,6
+1998;87;52,2;4;Chris Jefferies ;2002;1;4;27;3;California State University, Fresno;LAL;2003;2004;2;-,5;-,25;0;2;-2;25,2;25,2
+1999;4;2,4;0;Joseph Forte ;2001;1;2;21;3;University of North Carolina;BOS;2002;2003;2;-,4;-,2;0;2;-2;-18,6;18,6
+1999;39;23,4;1;Reece Gaines ;2003;1;4;15;3;University of Louisville;ORL;2004;2006;3;-,6;-,2;0;2;-2;8,4;8,4
+2002;54;32,4;2;Maurice Ager ;2006;1;4;28;3;Michigan State University;DAL;2007;2011;5;-,9;-,18;0;2;-2;4,4;4,4
+2007;18;10,8;0;Nolan Smith ;2011;1;4;21;3;Duke University;POR;2012;2013;2;-,8;-,4;0;2;-2;-10,2;10,2
+2007;51;30,6;2;Craig Brackins ;2010;1;3;21;3;Iowa State University;OKC;2011;2012;2;-,2;-,1;0;2;-2;9,6;9,6
+2010;27;16,2;1;Adreian Payne ;2014;1;4;15;3;Michigan State University;ATL;2015;2018;4;-,6;-,15;0;2;-2;1,2;1,2
+2011;7;4,2;0;Marquis Teague ;2012;1;1;29;3;University of Kentucky;CHI;2013;2018;6;-,9;-,15;0;2;-2;-24,8;24,8
+2011;18;10,8;0;Tony Wroten ;2012;1;1;25;3;University of Washington;MEM;2013;2016;4;-1,3;-,325;0;2;-2;-14,2;14,2
+2014;10;6;0;Rashad Vaughn ;2015;1;1;17;3;University of Nevada, Las Vegas;MIL;2016;2018;3;-,6;-,2;0;2;-2;-11;11
+2015;16;9,6;0;Caleb Swanigan ;2017;1;2;26;3;Purdue University;POR;2018;2019;2;-,2;-,1;0;2;-2;-16,4;16,4
+2015;29;17,4;1;Malachi Richardson ;2016;1;1;22;3;Syracuse University;CHO;2017;2019;3;-,1;-,0333333333333333;0;2;-2;-4,6;4,6
+2001;6;3,6;0;Kwame Brown;2001;1;0;1;1; ;WAS;2002;2013;12;20,8;1,73333333333333;2;5;-3;2,6;2,6
+2006;1;,6;0;Greg Oden ;2007;1;1;1;1;Ohio State University;POR;2009;2014;6;7,3;1,21666666666667;2;5;-3;-,4;,4
+2012;6;3,6;0;Anthony Bennett ;2013;1;1;1;1;University of Nevada, Las Vegas;CLE;2014;2017;4;,5;,125;1;5;-3;2,6;2,6
+2013;1;,6;0;Andrew Wiggins ;2014;1;1;1;1;University of Kansas;CLE;2015;2019;5;13;2,6;2;5;-3;-,4;,4
+2016;5;3;0;Markelle Fultz ;2017;1;1;1;1;University of Washington;PHI;2018;2019;2;,5;,25;1;5;-3;2;2
+1999;3;1,8;0;Jay Williams ;2002;1;3;2;1;Duke University;CHI;2003;2003;1;,8;,8;1;4;-3;-,2;,2
+2006;64;38,4;3;Hasheem Thabeet ;2009;1;3;2;1;University of Connecticut;MEM;2010;2014;5;4,8;,96;1;4;-3;36,4;36,4
+2016;1;,6;0;Josh Jackson ;2017;1;1;4;1;University of Kansas;PHO;2018;2019;2;-2,4;-1,2;0;4;-3;-3,4;3,4
+2005;44;26,4;2;Terrence Williams ;2009;1;4;11;2;University of Louisville;BRK;2010;2013;4;-,2;-,05;0;3;-3;15,4;15,4
+2007;20;12;0;Jonny Flynn ;2009;1;2;6;2;Syracuse University;MIN;2010;2012;3;-1,1;-,366666666666667;0;3;-3;6;6
+2014;2;1,2;0;Emmanuel Mudiay;2015;1;1;7;2; ;DEN;2016;2019;4;-1,2;-,3;0;3;-3;-5,8;5,8
+2016;49;29,4;2;Dennis Smith ;2017;1;1;9;2;North Carolina State University;DAL;2018;2019;2;-,7;-,35;0;3;-3;20,4;20,4
+2017;6;3,6;0;Collin Sexton ;2018;1;1;8;2;University of Alabama;CLE;2019;2019;1;-,6;-,6;0;3;-3;-4,4;4,4
+2017;10;6;0;Kevin Knox ;2018;1;1;9;2;University of Kentucky;NYK;2019;2019;1;-1,3;-1,3;0;3;-3;-3;3
+2018;4;2,4;0;Zion Williamson ;2019;1;1;1;1;Duke University;NOP; ; ; ; ; ; ;5; ;1,4;1,4
+2016;74;44,4;3;De'Andre Hunter ;2019;1;3;4;1;University of Virginia;LAL; ; ; ; ; ; ;4; ;40,4;40,4
+2018;1;,6;0;R.J. Barrett ;2019;1;1;3;1;Duke University;NYK; ; ; ; ; ; ;4; ;-2,4;2,4
+2017;14;8,4;0;PJ Washington ;2019;1;2;12;2;University of Kentucky;CHO; ; ; ; ; ; ;3; ;-3,6;3,6
+2018;2;1,2;0;Cam Reddish ;2019;1;1;10;2;Duke University;ATL; ; ; ; ; ; ;3; ;-8,8;8,8
+2018;15;9;0;Darius Garland ;2019;1;1;5;1;Vanderbilt University;CLE; ; ; ; ; ; ;3; ;4;4
+2018;27;16,2;1;Coby White ;2019;1;1;7;2;University of North Carolina;CHI; ; ; ; ; ; ;3; ;9,2;9,2
+2016;46;27,6;2;Ty Jerome ;2019;1;3;24;3;University of Virginia;PHI; ; ; ; ; ; ;2; ;3,6;3,6
+2017;2;1,2;0;Michael Porter Jr. ;2018;1;1;14;2;University of Missouri;DEN; ; ; ; ; ; ;2; ;-12,8;12,8
+2017;33;19,8;1;Nickeil Alexander-Walker ;2019;1;2;17;3;Virginia Polytechnic Institute and State University;BRK; ; ; ; ; ; ;2; ;2,8;2,8
+2017;48;28,8;2;Chuma Okeke ;2019;1;2;16;3;Auburn University;ORL; ; ; ; ; ; ;2; ;12,8;12,8
+2017;100;60;4;Jordan Poole ;2019;1;2;28;3;University of Michigan;GSW; ; ; ; ; ; ;2; ;32;32
+2018;3;1,8;0;Nassir Little ;2019;1;1;25;3;University of North Carolina;POR; ; ; ; ; ; ;2; ;-23,2;23,2
+2018;12;7,2;0;Keldon Johnson ;2019;1;1;29;3;University of Kentucky;SAS; ; ; ; ; ; ;2; ;-21,8;21,8
+2018;5;3;0;Romeo Langford ;2019;1;1;14;2;Indiana University;BOS; ; ; ; ; ; ;2; ;-11;11
+2018;35;21;1;Tyler Herro ;2019;1;1;13;2;University of Kentucky;MIA; ; ; ; ; ; ;2; ;8;8
+2011;33;19,8;1;DeAndre Daniels ;2014;1;3;37;4;University of Connecticut;TOR; ; ; ; ; ; ;1; ;-17,2;17,2
+2014;70;42;3;Cody Martin ;2019;1;5;36;4;North Carolina State University;CHO; ; ; ; ; ; ;1; ;6;6
+2016;92;55,2;4;Justin Jackson ;2018;1;2;43;4;University of Maryland;DEN; ; ; ; ; ; ;1; ;12,2;12,2
+2016;93;55,8;4;Bruno Fernando ;2019;1;3;34;4;University of Maryland;PHI; ; ; ; ; ; ;1; ;21,8;21,8
+2017;37;22,2;1;Daniel Gafford ;2019;1;2;38;4;University of Arkansas;CHI; ; ; ; ; ; ;1; ;-15,8;15,8
+2017;41;24,6;2;Kezie Okpala ;2019;1;2;32;4;Stanford University;PHO; ; ; ; ; ; ;1; ;-7,4;7,4
+2017;66;39,6;3;Jaylen Nowell ;2019;1;2;43;4;University of Washington;MIN; ; ; ; ; ; ;1; ;-3,4;3,4
+2017;70;42;3;Bruno Fernando ;2019;1;2;34;4;University of Maryland;PHI; ; ; ; ; ; ;1; ;8;8
+2018;6;3,6;0;Bol Bol ;2019;1;1;44;4;University of Oregon;MIA; ; ; ; ; ; ;1; ;-40,4;40,4
+2018;28;16,8;1;Kevin Porter Jr ;2019;1;1;30;3;University of Southern California;MIL; ; ; ; ; ; ;1; ;-13,2;13,2
+2007;57;34,2;2;Jon Diebler ;2011;1;4;51;4;Ohio State University;POR; ; ; ; ; ; ;0; ;-16,8;16,8
+2008;75;45;3;Ater Majok ;2011;1;3;58;4;University of Connecticut;LAL; ; ; ; ; ; ;0; ;-13;13
+2008;84;50,4;4;Latavious Williams;2010;1;2;48;4; ;MIA; ; ; ; ; ; ;0; ;2,4;2,4
+2009;16;9,6;0;Alex Oriakhi ;2013;1;4;57;4;University of Missouri;PHO; ; ; ; ; ; ;0; ;-47,4;47,4
+2009;79;47,4;3;Latavious Williams;2010;1;1;48;4; ;MIA; ; ; ; ; ; ;0; ;-,600000000000001;,600000000000001
+2010;17;10,2;0;Deshaun Thomas ;2013;1;3;58;4;Ohio State University;SAS; ; ; ; ; ; ;0; ;-47,8;47,8
+2011;35;21;1;Sir'Dominic Pointer ;2015;1;4;53;4;St. John's University;CLE; ; ; ; ; ; ;0; ;-32;32
+2012;57;34,2;2;J.P. Tokoto ;2015;1;3;58;4;University of North Carolina;PHI; ; ; ; ; ; ;0; ;-23,8;23,8
+2013;28;16,8;1;Nigel Williams-Goss ;2017;1;4;55;4;Gonzaga University;UTA; ; ; ; ; ; ;0; ;-38,2;38,2
+2015;99;59,4;4;Quinndary Weatherspoon ;2019;1;4;49;4;Mississippi State University;SAS; ; ; ; ; ; ;0; ;10,4;10,4
+2016;27;16,2;1;Dewan Hernandez ;2019;1;3;59;4;University of Miami;TOR; ; ; ; ; ; ;0; ;-42,8;42,8
+2016;32;19,2;1;Kyle Guy ;2019;1;3;55;4;University of Virginia;NYK; ; ; ; ; ; ;0; ;-35,8;35,8
+2016;43;25,8;2;Tony Carr ;2018;1;2;51;4;Pennsylvania State University;NOP; ; ; ; ; ; ;0; ;-25,2;25,2
+2017;22;13,2;1;Jaylen Hands ;2019;1;2;56;4;University of California, Los Angeles;LAC; ; ; ; ; ; ;0; ;-42,8;42,8
+2017;38;22,8;1;Tremont Waters ;2019;1;2;51;4;Louisiana State University;BOS; ; ; ; ; ; ;0; ;-28,2;28,2
+2018;51;30,6;2;Talen Horton-Tucker ;2019;1;1;46;4;Iowa State University;ORL; ; ; ; ; ; ;0; ;-15,4;15,4
+2018;74;44,4;3;Ignas Brazdeikis ;2019;1;1;47;4;University of Michigan;SAC; ; ; ; ; ; ;0; ;-2,6;2,6
+1998;72;43,2;3;Udonis Haslem ; ;0;6; ;5;University of Florida; ;2004;2019;16;50,7;3,16875;3; ; ; ; 
+1998;25;15;1;Adam Harrington ; ;0;6; ;5;Auburn University; ;2003;2003;1;0;0;1; ; ; ; 
+1998;36;21,6;1;Doug Wrenn ; ;0;6; ;5;University of Washington; ; ; ; ; ; ; ; ; ; ; 
+1998;37;22,2;1;Ronald Blackshear ; ;0;6; ;5;Marshall University; ; ; ; ; ; ; ; ; ; ; 
+1998;99;59,4;4;Aaron Matthews ; ;0;6; ;5;Delaware State University; ; ; ; ; ; ; ; ; ; ; 
+1998;85;51;4;Ajou Deng ; ;0;6; ;5;University of Connecticut; ; ; ; ; ; ; ; ; ; ; 
+1998;23;13,8;1;Anthony Glover ; ;0;6; ;5;St. John's University; ; ; ; ; ; ; ; ; ; ; 
+1998;32;19,2;1;Antonio Latimer; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+1998;76;45,6;3;Antwan Scott ; ;0;6; ;5;Wake Forest University; ; ; ; ; ; ; ; ; ; ; 
+1998;35;21;1;B.B. Waldon ; ;0;6; ;5;University of South Florida; ; ; ; ; ; ; ; ; ; ; 
+1998;64;38,4;3;Bobby Smith ; ;0;6; ;5;Villanova University; ; ; ; ; ; ; ; ; ; ; 
+1998;50;30;2;Brandon Dean ; ;0;6; ;5;University of Arkansas; ; ; ; ; ; ; ; ; ; ; 
+1998;100;60;4;Brian Brown ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+1998;57;34,2;2;Broderick Hicks ; ;0;6; ;5;Wake Forest University; ; ; ; ; ; ; ; ; ; ; 
+1998;68;40,8;3;Cedric Taylor; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+1998;52;31,2;2;Chris Richardson ; ;0;6; ;5;University of Nevada, Las Vegas; ; ; ; ; ; ; ; ; ; ; 
+1998;62;37,2;3;Clarence Gilbert ; ;0;6; ;5;University of Missouri; ; ; ; ; ; ; ; ; ; ; 
+1998;18;10,8;0;Corey Hightower; ;0;6; ;5;Indian Hills Community College; ; ; ; ; ; ; ; ; ; ; 
+1998;70;42;3;Craig Dawson ; ;0;6; ;5;Wake Forest University; ; ; ; ; ; ; ; ; ; ; 
+1998;63;37,8;3;D.A. Layne ; ;0;6; ;5;University of Georgia; ; ; ; ; ; ; ; ; ; ; 
+1998;90;54;4;Damon Hancock ; ;0;6; ;5;Southern Methodist University; ; ; ; ; ; ; ; ; ; ; 
+1998;27;16,2;1;Dan Miller ; ;0;6; ;5;University of Notre Dame; ; ; ; ; ; ; ; ; ; ; 
+1998;15;9;0;Dane Fife ; ;0;6; ;5;Indiana University; ; ; ; ; ; ; ; ; ; ; 
+1998;89;53,4;4;David Graves ; ;0;6; ;5;University of Notre Dame; ; ; ; ; ; ; ; ; ; ; 
+1998;79;47,4;3;David Hamilton ; ;0;6; ;5;Auburn University; ; ; ; ; ; ; ; ; ; ; 
+1998;60;36;2;De Angelo McDaniel ; ;0;6; ;5;University of Tulsa; ; ; ; ; ; ; ; ; ; ; 
+1998;92;55,2;4;Dennis Gates ; ;0;6; ;5;University of California; ; ; ; ; ; ; ; ; ; ; 
+1998;97;58,2;4;Dennis Nathan ; ;0;6; ;5;California State University, Fresno; ; ; ; ; ; ; ; ; ; ; 
+1998;61;36,6;3;Desmond Allison ; ;0;6; ;5;University of Kentucky; ; ; ; ; ; ; ; ; ; ; 
+1998;73;43,8;3;Desmond Herod ; ;0;6; ;5;Seton Hall University; ; ; ; ; ; ; ; ; ; ; 
+1998;96;57,6;4;Donte Smith ; ;0;6; ;5;University of California; ; ; ; ; ; ; ; ; ; ; 
+1998;51;30,6;2;Eugene Land ; ;0;6; ;5;University of Cincinnati; ; ; ; ; ; ; ; ; ; ; 
+1998;46;27,6;2;Fred Primus ; ;0;6; ;5;East Carolina University; ; ; ; ; ; ; ; ; ; ; 
+1998;77;46,2;3;J.R. Vanhoose ; ;0;6; ;5;Marshall University; ; ; ; ; ; ; ; ; ; ; 
+1998;7;4,2;0;JaRon Rush ; ;0;6; ;5;University of California, Los Angeles; ; ; ; ; ; ; ; ; ; ; 
+1998;10;6;0;Jason Capel ; ;0;6; ;5;University of North Carolina; ; ; ; ; ; ; ; ; ; ; 
+1998;40;24;1;Jeff Boschee ; ;0;6; ;5;University of Kansas; ; ; ; ; ; ; ; ; ; ; 
+1998;94;56,4;4;Jermaine Williams ; ;0;6; ;5;Louisiana State University; ; ; ; ; ; ; ; ; ; ; 
+1998;45;27;2;Joey Range ; ;0;6; ;5;University of Iowa; ; ; ; ; ; ; ; ; ; ; 
+1998;48;28,8;2;Jose Winston ; ;0;6; ;5;University of Colorado; ; ; ; ; ; ; ; ; ; ; 
+1998;31;18,6;1;Jules Camara ; ;0;6; ;5;University of Kentucky; ; ; ; ; ; ; ; ; ; ; 
+1998;65;39;3;Keith Bean ; ;0;6; ;5;Texas A&M University; ; ; ; ; ; ; ; ; ; ; 
+1998;59;35,4;2;Kevin Braswell ; ;0;6; ;5;Georgetown University; ; ; ; ; ; ; ; ; ; ; 
+1998;14;8,4;0;Kevin Lyde ; ;0;6; ;5;Temple University; ; ; ; ; ; ; ; ; ; ; 
+1998;22;13,2;1;Kris Lang ; ;0;6; ;5;University of North Carolina; ; ; ; ; ; ; ; ; ; ; 
+1998;81;48,6;4;Kueth Duany ; ;0;6; ;5;Syracuse University; ; ; ; ; ; ; ; ; ; ; 
+1998;95;57;4;Kyle Hornsby ; ;0;6; ;5;Indiana University; ; ; ; ; ; ; ; ; ; ; 
+1998;53;31,8;2;Ladarius Halton ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+1998;24;14,4;1;Lance Williams ; ;0;6; ;5;DePaul University; ; ; ; ; ; ; ; ; ; ; 
+1998;28;16,8;1;Lloyd Price ; ;0;6; ;5;Xavier University; ; ; ; ; ; ; ; ; ; ; 
+1998;69;41,4;3;Louis Truscott ; ;0;6; ;5;University of Houston; ; ; ; ; ; ; ; ; ; ; 
+1998;93;55,8;4;Mack McGadney ; ;0;6; ;5;Auburn University; ; ; ; ; ; ; ; ; ; ; 
+1998;88;52,8;4;Marqus Ledoux ; ;0;6; ;5;University of Tulsa; ; ; ; ; ; ; ; ; ; ; 
+1998;30;18;1;Michael Wright ; ;0;6; ;5;University of Arizona; ; ; ; ; ; ; ; ; ; ; 
+1998;44;26,4;2;Paris London ; ;0;6; ;5;Arkansas State University; ; ; ; ; ; ; ; ; ; ; 
+1998;16;9,6;0;Ray Young ; ;0;6; ;5;University of California, Los Angeles; ; ; ; ; ; ; ; ; ; ; 
+1998;67;40,2;3;Rick Anderson ; ;0;6; ;5;University of Arizona; ; ; ; ; ; ; ; ; ; ; 
+1998;33;19,8;1;Robert Jackson ; ;0;6; ;5;Marquette University; ; ; ; ; ; ; ; ; ; ; 
+1998;6;3,6;0;Ronald Curry ; ;0;6; ;5;University of North Carolina; ; ; ; ; ; ; ; ; ; ; 
+1998;43;25,8;2;Ruben Douglas ; ;0;6; ;5;University of New Mexico; ; ; ; ; ; ; ; ; ; ; 
+1998;49;29,4;2;Sam Clancy ; ;0;6; ;5;University of Southern California; ; ; ; ; ; ; ; ; ; ; 
+1998;98;58,8;4;Sam Haginas ; ;0;6; ;5;University of Alabama; ; ; ; ; ; ; ; ; ; ; 
+1998;78;46,8;3;Schea Cotton ; ;0;6; ;5;University of Alabama; ; ; ; ; ; ; ; ; ; ; 
+1998;74;44,4;3;Scott Clark; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+1998;83;49,8;4;Steve Bynes; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+1998;20;12;0;Teddy Dupay ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+1998;56;33,6;2;Tony Akins ; ;0;6; ;5;Georgia Institute of Technology; ; ; ; ; ; ; ; ; ; ; 
+1998;39;23,4;1;Tony Bland ; ;0;6; ;5;San Diego State University; ; ; ; ; ; ; ; ; ; ; 
+1998;42;25,2;2;Tony Kitchings ; ;0;6; ;5;University of South Carolina; ; ; ; ; ; ; ; ; ; ; 
+1998;82;49,2;4;Traves Wilson ; ;0;6; ;5;Illinois State University; ; ; ; ; ; ; ; ; ; ; 
+1998;41;24,6;2;Travis Robinson ; ;0;6; ;5;Jacksonville University; ; ; ; ; ; ; ; ; ; ; 
+1998;86;51,6;4;Tyrus Boswell ; ;0;6; ;5;Mississippi State University; ; ; ; ; ; ; ; ; ; ; 
+1999;80;48;3;Jamario Moon; ;0;6; ;5;Meridian Community College; ;2008;2012;5;14,3;2,86;2; ; ; ; 
+1999;84;50,4;4;Marquis Daniels ; ;0;6; ;5;Auburn University; ;2004;2013;10;16,5;1,65;2; ; ; ; 
+1999;40;24;1;Matt Carroll ; ;0;6; ;5;University of Notre Dame; ;2004;2013;10;10,7;1,07;2; ; ; ; 
+1999;11;6,6;0;Damien Wilkins ; ;0;6; ;5;University of Georgia; ;2005;2018;14;12,1;,864285714285714;1; ; ; ; 
+1999;69;41,4;3;Ronald Dupree ; ;0;6; ;5;Louisiana State University; ;2004;2011;8;1,9;,2375;1; ; ; ; 
+1999;57;34,2;2;Tony Bobbitt ; ;0;6; ;5;University of Cincinnati; ;2005;2005;1;0;0;1; ; ; ; 
+1999;67;40,2;3;Doug Wrenn ; ;0;6; ;5;University of Washington; ; ; ; ; ; ; ; ; ; ; 
+1999;15;9;0;Jason Parker ; ;0;6; ;5;University of Kentucky; ; ; ; ; ; ; ; ; ; ; 
+1999;70;42;3;Ronald Blackshear ; ;0;6; ;5;Marshall University; ; ; ; ; ; ; ; ; ; ; 
+1999;88;52,8;4;Adam Wolfe ; ;0;6; ;5;Michigan State University; ; ; ; ; ; ; ; ; ; ; 
+1999;68;40,8;3;Aloysius Anagonye ; ;0;6; ;5;Michigan State University; ; ; ; ; ; ; ; ; ; ; 
+1999;56;33,6;2;Andrew Sullivan ; ;0;6; ;5;Villanova University; ; ; ; ; ; ; ; ; ; ; 
+1999;44;26,4;2;Antonio Falu ; ;0;6; ;5;Valparaiso University; ; ; ; ; ; ; ; ; ; ; 
+1999;58;34,8;2;Bernard King ; ;0;6; ;5;Texas A&M University; ; ; ; ; ; ; ; ; ; ; 
+1999;48;28,8;2;Brent Darby ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+1999;7;4,2;0;Brett Nelson ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+1999;71;42,6;3;Brian Jackson ; ;0;6; ;5;Oregon State University; ; ; ; ; ; ; ; ; ; ; 
+1999;50;30;2;Brian Wethers ; ;0;6; ;5;University of California; ; ; ; ; ; ; ; ; ; ; 
+1999;65;39;3;Brian Woodward ; ;0;6; ;5;University of Rhode Island; ; ; ; ; ; ; ; ; ; ; 
+1999;82;49,2;4;Carlton Baker; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+1999;16;9,6;0;Casey Sanders ; ;0;6; ;5;Duke University; ; ; ; ; ; ; ; ; ; ; 
+1999;95;57;4;Chris Monroe ; ;0;6; ;5;George Washington University; ; ; ; ; ; ; ; ; ; ; 
+1999;35;21;1;Chuck Eidson ; ;0;6; ;5;University of South Carolina; ; ; ; ; ; ; ; ; ; ; 
+1999;81;48,6;4;Cliff Crawford ; ;0;6; ;5;North Carolina State University; ; ; ; ; ; ; ; ; ; ; 
+1999;74;44,4;3;Courtland Freeman ; ;0;6; ;5;Georgetown University; ; ; ; ; ; ; ; ; ; ; 
+1999;98;58,8;4;Demetrius Hunter ; ;0;6; ;5;Georgetown University; ; ; ; ; ; ; ; ; ; ; 
+1999;43;25,8;2;Derrick Payne; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+1999;46;27,6;2;DeShaun Williams ; ;0;6; ;5;Iona College; ; ; ; ; ; ; ; ; ; ; 
+1999;31;18,6;1;Donnell Knight ; ;0;6; ;5;Arizona State University; ; ; ; ; ; ; ; ; ; ; 
+1999;66;39,6;3;Erwin Dudley ; ;0;6; ;5;University of Alabama; ; ; ; ; ; ; ; ; ; ; 
+1999;60;36;2;Ezra Williams ; ;0;6; ;5;University of Georgia; ; ; ; ; ; ; ; ; ; ; 
+1999;72;43,2;3;George Leach ; ;0;6; ;5;Indiana University; ; ; ; ; ; ; ; ; ; ; 
+1999;30;18;1;George Williams ; ;0;6; ;5;University of Houston; ; ; ; ; ; ; ; ; ; ; 
+1999;99;59,4;4;Greg Morton ; ;0;6; ;5;Seton Hall University; ; ; ; ; ; ; ; ; ; ; 
+1999;53;31,8;2;Hollis Price ; ;0;6; ;5;University of Oklahoma; ; ; ; ; ; ; ; ; ; ; 
+1999;91;54,6;4;Jarrett Hart ; ;0;6; ;5;University of Oklahoma; ; ; ; ; ; ; ; ; ; ; 
+1999;18;10,8;0;Jason Gardner ; ;0;6; ;5;University of Arizona; ; ; ; ; ; ; ; ; ; ; 
+1999;87;52,2;4;John Stewart; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+1999;83;49,8;4;Jon Higgins ; ;0;6; ;5;University of Tennessee; ; ; ; ; ; ; ; ; ; ; 
+1999;78;46,8;3;Jon Oden ; ;0;6; ;5;DePaul University; ; ; ; ; ; ; ; ; ; ; 
+1999;54;32,4;2;Josh Moore ; ;0;6; ;5;University of Michigan; ; ; ; ; ; ; ; ; ; ; 
+1999;93;55,8;4;Julian Swartz ; ;0;6; ;5;University of Wisconsin; ; ; ; ; ; ; ; ; ; ; 
+1999;73;43,8;3;Justin Davis ; ;0;6; ;5;Stanford University; ; ; ; ; ; ; ; ; ; ; 
+1999;52;31,2;2;Kenny Walker ; ;0;6; ;5;University of Alabama; ; ; ; ; ; ; ; ; ; ; 
+1999;24;14,4;1;Kevin Gaines ; ;0;6; ;5;University of Houston; ; ; ; ; ; ; ; ; ; ; 
+1999;6;3,6;0;LaVell Blanchard ; ;0;6; ;5;University of Michigan; ; ; ; ; ; ; ; ; ; ; 
+1999;23;13,8;1;Majestic Mapp ; ;0;6; ;5;University of Virginia; ; ; ; ; ; ; ; ; ; ; 
+1999;45;27;2;Marcus Cox ; ;0;6; ;5;University of Connecticut; ; ; ; ; ; ; ; ; ; ; 
+1999;90;54;4;Marque Perry ; ;0;6; ;5;Saint Louis University; ; ; ; ; ; ; ; ; ; ; 
+1999;92;55,2;4;Marquis Estill ; ;0;6; ;5;University of Kentucky; ; ; ; ; ; ; ; ; ; ; 
+1999;33;19,8;1;Marshall Williams ; ;0;6; ;5;North Carolina State University; ; ; ; ; ; ; ; ; ; ; 
+1999;5;3;0;Marvin Stone ; ;0;6; ;5;University of Louisville; ; ; ; ; ; ; ; ; ; ; 
+1999;49;29,4;2;Mike Bauer ; ;0;6; ;5;University of Minnesota; ; ; ; ; ; ; ; ; ; ; 
+1999;89;53,4;4;Nate Hair ; ;0;6; ;5;University of Southern California; ; ; ; ; ; ; ; ; ; ; 
+1999;94;56,4;4;Rafael Berumen ; ;0;6; ;5;University of Miami; ; ; ; ; ; ; ; ; ; ; 
+1999;79;47,4;3;Ray Henderson ; ;0;6; ;5;Clemson University; ; ; ; ; ; ; ; ; ; ; 
+1999;75;45;3;Ricky Wright ; ;0;6; ;5;Villanova University; ; ; ; ; ; ; ; ; ; ; 
+1999;27;16,2;1;Rod Grizzard ; ;0;6; ;5;University of Alabama; ; ; ; ; ; ; ; ; ; ; 
+1999;51;30,6;2;Ron Slay ; ;0;6; ;5;University of Tennessee; ; ; ; ; ; ; ; ; ; ; 
+1999;85;51;4;Shawnson Johnson ; ;0;6; ;5;University of North Texas; ; ; ; ; ; ; ; ; ; ; 
+1999;64;38,4;3;Stephane Pelle ; ;0;6; ;5;University of Colorado; ; ; ; ; ; ; ; ; ; ; 
+1999;76;45,6;3;Tahj Holden ; ;0;6; ;5;University of Maryland; ; ; ; ; ; ; ; ; ; ; 
+1999;41;24,6;2;Todd Billet ; ;0;6; ;5;Rutgers University; ; ; ; ; ; ; ; ; ; ; 
+1999;32;19,2;1;Tony Robertson ; ;0;6; ;5;University of Connecticut; ; ; ; ; ; ; ; ; ; ; 
+1999;28;16,8;1;Travis Watson ; ;0;6; ;5;University of Virginia; ; ; ; ; ; ; ; ; ; ; 
+1999;97;58,2;4;Wesley Wilson ; ;0;6; ;5;Georgetown University; ; ; ; ; ; ; ; ; ; ; 
+1999;86;51,6;4;Zach Johnson ; ;0;6; ;5;Louisiana Tech University; ; ; ; ; ; ; ; ; ; ; 
+2000;15;9;0;Andre Barrett ; ;0;6; ;5;Seton Hall University; ;2005;2008;4;,4;,1;1; ; ; ; 
+2000;11;6,6;0;Andre Brown ; ;0;6; ;5;DePaul University; ;2007;2009;3;,3;,1;1; ; ; ; 
+2000;29;17,4;1;Desmon Farmer ; ;0;6; ;5;University of Southern California; ;2007;2009;3;0;0;1; ; ; ; 
+2000;37;22,2;1;Ivan McFarlin ; ;0;6; ;5;Oklahoma State University; ;2007;2007;1;,1;,1;1; ; ; ; 
+2000;66;39,6;3;James Thomas ; ;0;6; ;5;University of Texas at Austin; ;2005;2006;2;,4;,2;1; ; ; ; 
+2000;41;24,6;2;Jared Reiner ; ;0;6; ;5;University of Iowa; ;2005;2007;3;-,2;-,0666666666666667;0; ; ; ; 
+2000;42;25,2;2;Jason Parker ; ;0;6; ;5;University of Kentucky; ; ; ; ; ; ; ; ; ; ; 
+2000;81;48,6;4;Julian Sensley ; ;0;6; ;5;University of Hawaii; ; ; ; ; ; ; ; ; ; ; 
+2000;88;52,8;4;Taurance Johnson ; ;0;6; ;5;Florida International University; ; ; ; ; ; ; ; ; ; ; 
+2000;56;33,6;2;A.J. Moye ; ;0;6; ;5;Indiana University; ; ; ; ; ; ; ; ; ; ; 
+2000;17;10,2;0;Abdou Diame ; ;0;6; ;5;Jacksonville State University; ; ; ; ; ; ; ; ; ; ; 
+2000;33;19,8;1;Adam Boone ; ;0;6; ;5;University of Minnesota; ; ; ; ; ; ; ; ; ; ; 
+2000;72;43,2;3;Andrew Zahn ; ;0;6; ;5;University of Arizona; ; ; ; ; ; ; ; ; ; ; 
+2000;84;50,4;4;Antonio Hargrove; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2000;43;25,8;2;Arthur Johnson ; ;0;6; ;5;University of Missouri; ; ; ; ; ; ; ; ; ; ; 
+2000;64;38,4;3;Avery Queen ; ;0;6; ;5;University of Michigan; ; ; ; ; ; ; ; ; ; ; 
+2000;96;57,6;4;Barry Thompson ; ;0;6; ;5;Louisiana Tech University; ; ; ; ; ; ; ; ; ; ; 
+2000;75;45;3;Billy Richmond ; ;0;6; ;5;University of Memphis; ; ; ; ; ; ; ; ; ; ; 
+2000;49;29,4;2;Brandon Brooks ; ;0;6; ;5;University of Southern California; ; ; ; ; ; ; ; ; ; ; 
+2000;86;51,6;4;Brandon Crump ; ;0;6; ;5;University of Tennessee; ; ; ; ; ; ; ; ; ; ; 
+2000;50;30;2;Brandon Mouton ; ;0;6; ;5;University of Texas at Austin; ; ; ; ; ; ; ; ; ; ; 
+2000;51;30,6;2;Brett Buscher ; ;0;6; ;5;Purdue University; ; ; ; ; ; ; ; ; ; ; 
+2000;40;24;1;Brian Boddicker ; ;0;6; ;5;University of Texas at Austin; ; ; ; ; ; ; ; ; ; ; 
+2000;24;14,4;1;Brian Morrison ; ;0;6; ;5;University of California, Los Angeles; ; ; ; ; ; ; ; ; ; ; 
+2000;20;12;0;Cedrick Banks ; ;0;6; ;5;University of Illinois at Chicago; ; ; ; ; ; ; ; ; ; ; 
+2000;87;52,2;4;Chris Daniels ; ;0;6; ;5;University of Georgia; ; ; ; ; ; ; ; ; ; ; 
+2000;36;21,6;1;Cliff Hawkins ; ;0;6; ;5;University of Kentucky; ; ; ; ; ; ; ; ; ; ; 
+2000;16;9,6;0;Darius Rice ; ;0;6; ;5;University of Miami; ; ; ; ; ; ; ; ; ; ; 
+2000;90;54;4;Dave Holmes ; ;0;6; ;5;Manhattan College; ; ; ; ; ; ; ; ; ; ; 
+2000;59;35,4;2;Demetrius Smith ; ;0;6; ;5;University of Alabama; ; ; ; ; ; ; ; ; ; ; 
+2000;83;49,8;4;Derrick Snowden ; ;0;6; ;5;Villanova University; ; ; ; ; ; ; ; ; ; ; 
+2000;71;42,6;3;Dwon Clifton ; ;0;6; ;5;University of North Carolina at Greensboro; ; ; ; ; ; ; ; ; ; ; 
+2000;48;28,8;2;Eddie Starks ; ;0;6; ;5;Iona College; ; ; ; ; ; ; ; ; ; ; 
+2000;31;18,6;1;Garner Meads ; ;0;6; ;5;Brigham Young University; ; ; ; ; ; ; ; ; ; ; 
+2000;99;59,4;4;Gerald Riley ; ;0;6; ;5;Georgetown University; ; ; ; ; ; ; ; ; ; ; 
+2000;27;16,2;1;Glen Worley ; ;0;6; ;5;University of Iowa; ; ; ; ; ; ; ; ; ; ; 
+2000;39;23,4;1;Herve Lamizana ; ;0;6; ;5;Rutgers University; ; ; ; ; ; ; ; ; ; ; 
+2000;18;10,8;0;Imari Sawyer ; ;0;6; ;5;DePaul University; ; ; ; ; ; ; ; ; ; ; 
+2000;58;34,8;2;Jake Sullivan ; ;0;6; ;5;Iowa State University; ; ; ; ; ; ; ; ; ; ; 
+2000;74;44,4;3;Jeff McMillan ; ;0;6; ;5;University of Southern California; ; ; ; ; ; ; ; ; ; ; 
+2000;13;7,8;0;Jerome Harper; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2000;100;60;4;Jimmy Baxter ; ;0;6; ;5;University of South Florida; ; ; ; ; ; ; ; ; ; ; 
+2000;79;47,4;3;Johnnie Gilbert ; ;0;6; ;5;University of Oklahoma; ; ; ; ; ; ; ; ; ; ; 
+2000;70;42;3;JueMichael Young ; ;0;6; ;5;Louisiana Tech University; ; ; ; ; ; ; ; ; ; ; 
+2000;80;48;3;Keith Triplett ; ;0;6; ;5;University of Toledo; ; ; ; ; ; ; ; ; ; ; 
+2000;55;33;2;Kendall Dartez ; ;0;6; ;5;University of Louisville; ; ; ; ; ; ; ; ; ; ; 
+2000;63;37,8;3;Kyle Cuffe ; ;0;6; ;5;St. John's University; ; ; ; ; ; ; ; ; ; ; 
+2000;78;46,8;3;Liberto Tetimadingar ; ;0;6; ;5;Fordham University; ; ; ; ; ; ; ; ; ; ; 
+2000;82;49,2;4;Lou Wright ; ;0;6; ;5;University of Tennessee; ; ; ; ; ; ; ; ; ; ; 
+2000;45;27;2;Luke Whitehead ; ;0;6; ;5;University of Louisville; ; ; ; ; ; ; ; ; ; ; 
+2000;98;58,8;4;Marcus Melvin ; ;0;6; ;5;North Carolina State University; ; ; ; ; ; ; ; ; ; ; 
+2000;5;3;0;Marcus Taylor ; ;0;6; ;5;Michigan State University; ; ; ; ; ; ; ; ; ; ; 
+2000;26;15,6;1;Marcus Toney-El ; ;0;6; ;5;Seton Hall University; ; ; ; ; ; ; ; ; ; ; 
+2000;8;4,8;0;Mario Austin ; ;0;6; ;5;Mississippi State University; ; ; ; ; ; ; ; ; ; ; 
+2000;61;36,6;3;Marvin Lewis ; ;0;6; ;5;Georgia Institute of Technology; ; ; ; ; ; ; ; ; ; ; 
+2000;60;36;2;Matt Lottich ; ;0;6; ;5;Stanford University; ; ; ; ; ; ; ; ; ; ; 
+2000;92;55,2;4;Maurice Searight ; ;0;6; ;5;Grambling State University; ; ; ; ; ; ; ; ; ; ; 
+2000;57;34,2;2;Maurice Young ; ;0;6; ;5;St. Bonaventure University; ; ; ; ; ; ; ; ; ; ; 
+2000;44;26,4;2;Michael Joiner ; ;0;6; ;5;Florida State University; ; ; ; ; ; ; ; ; ; ; 
+2000;95;57;4;Mike Bell ; ;0;6; ;5;Florida Atlantic University; ; ; ; ; ; ; ; ; ; ; 
+2000;62;37,2;3;Modibo Diarra ; ;0;6; ;5;University of Memphis; ; ; ; ; ; ; ; ; ; ; 
+2000;52;31,2;2;Mohamed Diakite ; ;0;6; ;5;St. John's University; ; ; ; ; ; ; ; ; ; ; 
+2000;54;32,4;2;Neil Fingleton ; ;0;6; ;5;College of the Holy Cross; ; ; ; ; ; ; ; ; ; ; 
+2000;30;18;1;Nick Anderson ; ;0;6; ;5;Texas A&M University; ; ; ; ; ; ; ; ; ; ; 
+2000;77;46,2;3;Nick Smith ; ;0;6; ;5;University of Illinois at Urbana-Champaign; ; ; ; ; ; ; ; ; ; ; 
+2000;65;39;3;Omar Weaver; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2000;97;58,2;4;Omari Westley ; ;0;6; ;5;Cleveland State University; ; ; ; ; ; ; ; ; ; ; 
+2000;94;56,4;4;Patrick Dennehy ; ;0;6; ;5;University of New Mexico; ; ; ; ; ; ; ; ; ; ; 
+2000;32;19,2;1;Rickey Paulding ; ;0;6; ;5;University of Missouri; ; ; ; ; ; ; ; ; ; ; 
+2000;19;11,4;0;Rolando Howell ; ;0;6; ;5;University of South Carolina; ; ; ; ; ; ; ; ; ; ; 
+2000;53;31,8;2;Romain Sato ; ;0;6; ;5;Xavier University; ; ; ; ; ; ; ; ; ; ; 
+2000;68;40,8;3;Scooter McFadgon ; ;0;6; ;5;University of Tennessee; ; ; ; ; ; ; ; ; ; ; 
+2000;38;22,8;1;Scooter Sherrill ; ;0;6; ;5;North Carolina State University; ; ; ; ; ; ; ; ; ; ; 
+2000;35;21;1;Scott Hazelton ; ;0;6; ;5;University of Rhode Island; ; ; ; ; ; ; ; ; ; ; 
+2000;85;51;4;Scott Merritt ; ;0;6; ;5;Marquette University; ; ; ; ; ; ; ; ; ; ; 
+2000;28;16,8;1;T.J. Cummings ; ;0;6; ;5;University of California, Los Angeles; ; ; ; ; ; ; ; ; ; ; 
+2000;10;6;0;Taliek Brown ; ;0;6; ;5;University of Connecticut; ; ; ; ; ; ; ; ; ; ; 
+2000;44;26,4;2;Terrence Crawford ; ;0;6; ;5;Oklahoma State University; ; ; ; ; ; ; ; ; ; ; 
+2000;89;53,4;4;Timmy Bowers ; ;0;6; ;5;Mississippi State University; ; ; ; ; ; ; ; ; ; ; 
+2000;76;45,6;3;Tony Stockman ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+2000;91;54,6;4;Tory Reed ; ;0;6; ;5;University of North Carolina at Charlotte; ; ; ; ; ; ; ; ; ; ; 
+2000;21;12,6;1;Travon Bryant ; ;0;6; ;5;University of Missouri; ; ; ; ; ; ; ; ; ; ; 
+2000;73;43,8;3;Wesley Stokes ; ;0;6; ;5;San Diego State University; ; ; ; ; ; ; ; ; ; ; 
+2000;93;55,8;4;Yamar Diene ; ;0;6; ;5;Rice University; ; ; ; ; ; ; ; ; ; ; 
+2001;46;27,6;2;Chuck Hayes ; ;0;6; ;5;University of Kentucky; ;2006;2016;11;28,8;2,61818181818182;2; ; ; ; 
+2001;15;9;0;Aaron Miles ; ;0;6; ;5;University of Kansas; ;2006;2006;1;0;0;1; ; ; ; 
+2001;30;18;1;Alan Anderson ; ;0;6; ;5;Michigan State University; ;2006;2017;12;7,4;,616666666666667;1; ; ; ; 
+2001;84;50,4;4;Eddie Basden ; ;0;6; ;5;University of North Carolina at Charlotte; ;2006;2006;1;,2;,2;1; ; ; ; 
+2001;11;6,6;0;Jawad Williams ; ;0;6; ;5;University of North Carolina; ;2009;2011;3;,5;,166666666666667;1; ; ; ; 
+2001;65;39;3;Josh Powell ; ;0;6; ;5;North Carolina State University; ;2006;2014;9;2,5;,277777777777778;1; ; ; ; 
+2001;91;54,6;4;Keith Langford ; ;0;6; ;5;University of Kansas; ;2008;2008;1;0;0;1; ; ; ; 
+2001;54;32,4;2;Will Bynum ; ;0;6; ;5;Georgia Institute of Technology; ;2006;2015;10;7;,7;1; ; ; ; 
+2001;19;11,4;0;Cedric Bozeman ; ;0;6; ;5;University of California, Los Angeles; ;2007;2007;1;-,3;-,3;0; ; ; ; 
+2001;62;37,2;3;Roger Powell ; ;0;6; ;5;University of Illinois at Urbana-Champaign; ;2007;2007;1;-,1;-,1;0; ; ; ; 
+2001;93;55,8;4;Jason Clark ; ;0;6; ;5;University of Virginia; ; ; ; ; ; ; ; ; ; ; 
+2001;42;25,2;2;Julian Sensley ; ;0;6; ;5;University of Hawaii; ; ; ; ; ; ; ; ; ; ; 
+2001;82;49,2;4;Taurance Johnson ; ;0;6; ;5;Florida International University; ; ; ; ; ; ; ; ; ; ; 
+2001;39;23,4;1;Andre Patterson ; ;0;6; ;5;University of Tennessee; ; ; ; ; ; ; ; ; ; ; 
+2001;76;45,6;3;Anthony Rice ; ;0;6; ;5;University of Memphis; ; ; ; ; ; ; ; ; ; ; 
+2001;27;16,2;1;Anthony Richardson ; ;0;6; ;5;Florida State University; ; ; ; ; ; ; ; ; ; ; 
+2001;72;43,2;3;Anthony Vasser; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2001;97;58,2;4;B.J. Elder ; ;0;6; ;5;Georgia Institute of Technology; ; ; ; ; ; ; ; ; ; ; 
+2001;36;21,6;1;Billy Edelin ; ;0;6; ;5;Syracuse University; ; ; ; ; ; ; ; ; ; ; 
+2001;44;26,4;2;Brandon Bender ; ;0;6; ;5;University of Louisville; ; ; ; ; ; ; ; ; ; ; 
+2001;45;27;2;Brandon Fuss-Cheatham ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+2001;98;58,8;4;Carl Krauser ; ;0;6; ;5;University of Pittsburgh; ; ; ; ; ; ; ; ; ; ; 
+2001;12;7,2;0;Carlos Hurt ; ;0;6; ;5;University of Louisville; ; ; ; ; ; ; ; ; ; ; 
+2001;48;28,8;2;Charles Frederick ; ;0;6; ;5;University of Washington; ; ; ; ; ; ; ; ; ; ; 
+2001;56;33,6;2;Chey Christie ; ;0;6; ;5;Clemson University; ; ; ; ; ; ; ; ; ; ; 
+2001;95;57;4;Chris Hernandez ; ;0;6; ;5;Stanford University; ; ; ; ; ; ; ; ; ; ; 
+2001;34;20,4;1;Chris Thomas ; ;0;6; ;5;University of Notre Dame; ; ; ; ; ; ; ; ; ; ; 
+2001;79;47,4;3;Craig Forth ; ;0;6; ;5;Syracuse University; ; ; ; ; ; ; ; ; ; ; 
+2001;31;18,6;1;Dennis Latimore ; ;0;6; ;5;University of Notre Dame; ; ; ; ; ; ; ; ; ; ; 
+2001;89;53,4;4;Derek Stribling ; ;0;6; ;5;Tennessee Technological University; ; ; ; ; ; ; ; ; ; ; 
+2001;43;25,8;2;Dommanic Ingerson ; ;0;6; ;5;University of San Francisco; ; ; ; ; ; ; ; ; ; ; 
+2001;67;40,2;3;Duane John ; ;0;6; ;5;New Mexico State University; ; ; ; ; ; ; ; ; ; ; 
+2001;59;35,4;2;Dwayne Mitchell ; ;0;6; ;5;University of Louisiana at Lafayette; ; ; ; ; ; ; ; ; ; ; 
+2001;47;28,2;2;Earnest Shelton ; ;0;6; ;5;University of Alabama; ; ; ; ; ; ; ; ; ; ; 
+2001;49;29,4;2;Ed Nelson ; ;0;6; ;5;University of Connecticut; ; ; ; ; ; ; ; ; ; ; 
+2001;38;22,8;1;Elton Brown ; ;0;6; ;5;University of Virginia; ; ; ; ; ; ; ; ; ; ; 
+2001;80;48;3;Ernest Turner ; ;0;6; ;5;University of Maine; ; ; ; ; ; ; ; ; ; ; 
+2001;68;40,8;3;Errick Craven ; ;0;6; ;5;University of Southern California; ; ; ; ; ; ; ; ; ; ; 
+2001;81;48,6;4;Erroll Knight ; ;0;6; ;5;Gonzaga University; ; ; ; ; ; ; ; ; ; ; 
+2001;63;37,8;3;Harvey Thomas ; ;0;6; ;5;Baylor University; ; ; ; ; ; ; ; ; ; ; 
+2001;74;44,4;3;Isma'Il Muhammad ; ;0;6; ;5;Georgia Institute of Technology; ; ; ; ; ; ; ; ; ; ; 
+2001;25;15;1;Jackie Manuel ; ;0;6; ;5;University of North Carolina; ; ; ; ; ; ; ; ; ; ; 
+2001;51;30,6;2;Jamaal Levy ; ;0;6; ;5;Wake Forest University; ; ; ; ; ; ; ; ; ; ; 
+2001;78;46,8;3;Jamaal Williams ; ;0;6; ;5;University of Washington; ; ; ; ; ; ; ; ; ; ; 
+2001;26;15,6;1;JaQuan Hart ; ;0;6; ;5;Eastern Michigan University; ; ; ; ; ; ; ; ; ; ; 
+2001;92;55,2;4;Jason Braxton ; ;0;6; ;5;Arizona State University; ; ; ; ; ; ; ; ; ; ; 
+2001;86;51,6;4;Jermaine Watson ; ;0;6; ;5;Boston College; ; ; ; ; ; ; ; ; ; ; 
+2001;24;14,4;1;John Allen ; ;0;6; ;5;Seton Hall University; ; ; ; ; ; ; ; ; ; ; 
+2001;13;7,8;0;Jonathan Hargett ; ;0;6; ;5;West Virginia University; ; ; ; ; ; ; ; ; ; ; 
+2001;55;33;2;Joshua Tinch ; ;0;6; ;5;University of Louisville; ; ; ; ; ; ; ; ; ; ; 
+2001;52;31,2;2;Keith Jackson ; ;0;6; ;5;Xavier University; ; ; ; ; ; ; ; ; ; ; 
+2001;2;1,2;0;Kelvin Torbert ; ;0;6; ;5;Michigan State University; ; ; ; ; ; ; ; ; ; ; 
+2001;71;42,6;3;Larry Turner ; ;0;6; ;5;Tennessee State University; ; ; ; ; ; ; ; ; ; ; 
+2001;64;38,4;3;Levar Seals ; ;0;6; ;5;DePaul University; ; ; ; ; ; ; ; ; ; ; 
+2001;60;36;2;Levi Watkins ; ;0;6; ;5;North Carolina State University; ; ; ; ; ; ; ; ; ; ; 
+2001;66;39,6;3;Marcellus Sommerville ; ;0;6; ;5;Bradley University; ; ; ; ; ; ; ; ; ; ; 
+2001;53;31,8;2;Marco Killingsworth ; ;0;6; ;5;Indiana University; ; ; ; ; ; ; ; ; ; ; 
+2001;94;56,4;4;Marcus Austin ; ;0;6; ;5;Villanova University; ; ; ; ; ; ; ; ; ; ; 
+2001;75;45;3;Marcus Campbell ; ;0;6; ;5;Mississippi State University; ; ; ; ; ; ; ; ; ; ; 
+2001;73;43,8;3;Marcus Spears; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2001;61;36,6;3;Matt Sylvester ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+2001;37;22,2;1;Melvin Scott ; ;0;6; ;5;University of North Carolina; ; ; ; ; ; ; ; ; ; ; 
+2001;100;60;4;Michael Fey ; ;0;6; ;5;University of California, Los Angeles; ; ; ; ; ; ; ; ; ; ; 
+2001;90;54;4;Mike Jensen ; ;0;6; ;5;University of Washington; ; ; ; ; ; ; ; ; ; ; 
+2001;83;49,8;4;Mitchell Baldwin ; ;0;6; ;5;University of North Carolina at Charlotte; ; ; ; ; ; ; ; ; ; ; 
+2001;58;34,8;2;Najeeb Echols ; ;0;6; ;5;Illinois State University; ; ; ; ; ; ; ; ; ; ; 
+2001;5;3;0;Ousmane Cisse; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2001;32;19,2;1;Pierre Pierce ; ;0;6; ;5;University of Iowa; ; ; ; ; ; ; ; ; ; ; 
+2001;50;30;2;Quemont Greer ; ;0;6; ;5;DePaul University; ; ; ; ; ; ; ; ; ; ; 
+2001;21;12,6;1;Rashaad Carruth ; ;0;6; ;5;University of Southern Mississippi; ; ; ; ; ; ; ; ; ; ; 
+2001;9;5,4;0;Rick Rickert ; ;0;6; ;5;University of Minnesota; ; ; ; ; ; ; ; ; ; ; 
+2001;70;42;3;Rob Little ; ;0;6; ;5;Stanford University; ; ; ; ; ; ; ; ; ; ; 
+2001;96;57,6;4;Terry Licorish; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2001;55;33;2;Tony Key; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2001;85;51;4;Vytas Danelius ; ;0;6; ;5;Wake Forest University; ; ; ; ; ; ; ; ; ; ; 
+2001;77;46,2;3;Winsome Frazier ; ;0;6; ;5;Mississippi State University; ; ; ; ; ; ; ; ; ; ; 
+2002;87;52,2;4;C.J. Watson ; ;0;6; ;5;University of Tennessee; ;2008;2017;10;24,1;2,41;2; ; ; ; 
+2002;31;18,6;1;Kelenna Azubuike ; ;0;6; ;5;University of Kentucky; ;2007;2012;6;9,3;1,55;2; ; ; ; 
+2002;39;23,4;1;Allan Ray ; ;0;6; ;5;Villanova University; ;2007;2007;1;,6;,6;1; ; ; ; 
+2002;16;9,6;0;Anthony Roberson ; ;0;6; ;5;University of Florida; ;2006;2009;4;,5;,125;1; ; ; ; 
+2002;75;45;3;Chris Quinn ; ;0;6; ;5;University of Notre Dame; ;2007;2013;7;5,3;,757142857142857;1; ; ; ; 
+2002;40;24;1;Matt Walsh ; ;0;6; ;5;University of Florida; ;2006;2006;1;0;0;1; ; ; ; 
+2002;14;8,4;0;Shavlik Randolph ; ;0;6; ;5;Duke University; ;2006;2015;10;2,2;,22;1; ; ; ; 
+2002;60;36;2;Chris McCray ; ;0;6; ;5;University of Maryland; ;2007;2007;1;-,1;-,1;0; ; ; ; 
+2002;64;38,4;3;Robert Hite ; ;0;6; ;5;University of Miami; ;2007;2007;1;-,2;-,2;0; ; ; ; 
+2002;94;56,4;4;Gary Ervin ; ;0;6; ;5;Mississippi State University; ; ; ; ; ; ; ; ; ; ; 
+2002;89;53,4;4;Marquise Kately ; ;0;6; ;5;Morgan State University; ; ; ; ; ; ; ; ; ; ; 
+2002;99;59,4;4;Tyler Smith ; ;0;6; ;5;DePaul University; ; ; ; ; ; ; ; ; ; ; 
+2002;86;51,6;4;Aaron Spears ; ;0;6; ;5;St. John's University; ; ; ; ; ; ; ; ; ; ; 
+2002;74;44,4;3;Adam Haluska ; ;0;6; ;5;University of Iowa; ; ; ; ; ; ; ; ; ; ; 
+2002;76;45,6;3;Aliou Kane ; ;0;6; ;5;Texas Christian University; ; ; ; ; ; ; ; ; ; ; 
+2002;85;51;4;Almamy Thiero ; ;0;6; ;5;Duquesne University; ; ; ; ; ; ; ; ; ; ; 
+2002;44;26,4;2;Antonio Lawrence ; ;0;6; ;5;San Jose State University; ; ; ; ; ; ; ; ; ; ; 
+2002;90;54;4;Boo Wade ; ;0;6; ;5;University of Wisconsin; ; ; ; ; ; ; ; ; ; ; 
+2002;22;13,2;1;Brad Buckman ; ;0;6; ;5;University of Texas at Austin; ; ; ; ; ; ; ; ; ; ; 
+2002;26;15,6;1;Bryan Hopkins ; ;0;6; ;5;Southern Methodist University; ; ; ; ; ; ; ; ; ; ; 
+2002;84;50,4;4;Cameron Bennerman ; ;0;6; ;5;North Carolina State University; ; ; ; ; ; ; ; ; ; ; 
+2002;70;42;3;Chadd Moore ; ;0;6; ;5;University of Cincinnati; ; ; ; ; ; ; ; ; ; ; 
+2002;17;10,2;0;Chris Rodgers ; ;0;6; ;5;University of Arizona; ; ; ; ; ; ; ; ; ; ; 
+2002;79;47,4;3;Chuck Davis ; ;0;6; ;5;University of Alabama; ; ; ; ; ; ; ; ; ; ; 
+2002;42;25,2;2;Curtis Sumpter ; ;0;6; ;5;Villanova University; ; ; ; ; ; ; ; ; ; ; 
+2002;67;40,2;3;Curtis Withers ; ;0;6; ;5;University of North Carolina at Charlotte; ; ; ; ; ; ; ; ; ; ; 
+2002;15;9;0;Daniel Horton ; ;0;6; ;5;University of Michigan; ; ; ; ; ; ; ; ; ; ; 
+2002;47;28,2;2;De'Angelo Alexander ; ;0;6; ;5;University of North Carolina at Charlotte; ; ; ; ; ; ; ; ; ; ; 
+2002;10;6;0;DeAngelo Collins; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2002;96;57,6;4;Dedrick Finn ; ;0;6; ;5;Xavier University; ; ; ; ; ; ; ; ; ; ; 
+2002;34;20,4;1;Denham Brown ; ;0;6; ;5;University of Connecticut; ; ; ; ; ; ; ; ; ; ; 
+2002;28;16,8;1;Elijah Ingram ; ;0;6; ;5;New Mexico State University; ; ; ; ; ; ; ; ; ; ; 
+2002;55;33;2;Eric Hicks ; ;0;6; ;5;University of Cincinnati; ; ; ; ; ; ; ; ; ; ; 
+2002;36;21,6;1;Eric Williams ; ;0;6; ;5;Wake Forest University; ; ; ; ; ; ; ; ; ; ; 
+2002;13;7,8;0;Evan Burns ; ;0;6; ;5;San Diego State University; ; ; ; ; ; ; ; ; ; ; 
+2002;38;22,8;1;Gerry McNamara ; ;0;6; ;5;Syracuse University; ; ; ; ; ; ; ; ; ; ; 
+2002;80;48;3;Greg Brown ; ;0;6; ;5;Missouri State University; ; ; ; ; ; ; ; ; ; ; 
+2002;50;30;2;Greg Brunner ; ;0;6; ;5;University of Iowa; ; ; ; ; ; ; ; ; ; ; 
+2002;68;40,8;3;J.R. Morris ; ;0;6; ;5;Seton Hall University; ; ; ; ; ; ; ; ; ; ; 
+2002;5;3;0;Jason Fraser ; ;0;6; ;5;Villanova University; ; ; ; ; ; ; ; ; ; ; 
+2002;59;35,4;2;Jeff Horner ; ;0;6; ;5;University of Iowa; ; ; ; ; ; ; ; ; ; ; 
+2002;72;43,2;3;Jeremy Hunt ; ;0;6; ;5;University of Memphis; ; ; ; ; ; ; ; ; ; ; 
+2002;35;21;1;Jimmy McKinney ; ;0;6; ;5;University of Missouri; ; ; ; ; ; ; ; ; ; ; 
+2002;43;25,8;2;John Gilchrist ; ;0;6; ;5;University of Maryland; ; ; ; ; ; ; ; ; ; ; 
+2002;100;60;4;John Winchester ; ;0;6; ;5;Quinnipiac University; ; ; ; ; ; ; ; ; ; ; 
+2002;88;52,8;4;Josh Rhodes; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2002;62;37,2;3;Julius Lamptey; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2002;61;36,6;3;Justin Gray ; ;0;6; ;5;Wake Forest University; ; ; ; ; ; ; ; ; ; ; 
+2002;66;39,6;3;Keith Butler ; ;0;6; ;5;Temple University; ; ; ; ; ; ; ; ; ; ; 
+2002;33;19,8;1;Kennedy Winston ; ;0;6; ;5;University of Alabama; ; ; ; ; ; ; ; ; ; ; 
+2002;32;19,2;1;Kevin Bookout ; ;0;6; ;5;University of Oklahoma; ; ; ; ; ; ; ; ; ; ; 
+2002;93;55,8;4;Kevin Young ; ;0;6; ;5;University of Missouri; ; ; ; ; ; ; ; ; ; ; 
+2002;25;15;1;Lenny Cooke; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2002;49;29,4;2;Lester Abram ; ;0;6; ;5;University of Michigan; ; ; ; ; ; ; ; ; ; ; 
+2002;81;48,6;4;Marcus White ; ;0;6; ;5;Purdue University; ; ; ; ; ; ; ; ; ; ; 
+2002;53;31,8;2;Mario Boggan ; ;0;6; ;5;Oklahoma State University; ; ; ; ; ; ; ; ; ; ; 
+2002;91;54,6;4;Mario Moore ; ;0;6; ;5;Vanderbilt University; ; ; ; ; ; ; ; ; ; ; 
+2002;63;37,8;3;Marshall Strickland ; ;0;6; ;5;Indiana University; ; ; ; ; ; ; ; ; ; ; 
+2002;73;43,8;3;Matt Haryasz ; ;0;6; ;5;Stanford University; ; ; ; ; ; ; ; ; ; ; 
+2002;92;55,2;4;Matt Kiefer ; ;0;6; ;5;Purdue University; ; ; ; ; ; ; ; ; ; ; 
+2002;52;31,2;2;Matt Trannon ; ;0;6; ;5;Michigan State University; ; ; ; ; ; ; ; ; ; ; 
+2002;30;18;1;Michael Thompson ; ;0;6; ;5;Duke University; ; ; ; ; ; ; ; ; ; ; 
+2002;95;57;4;Nik Caner-Medley ; ;0;6; ;5;University of Maryland; ; ; ; ; ; ; ; ; ; ; 
+2002;24;14,4;1;Rashad Anderson ; ;0;6; ;5;University of Connecticut; ; ; ; ; ; ; ; ; ; ; 
+2002;69;41,4;3;Rick Billings ; ;0;6; ;5;Oakland University; ; ; ; ; ; ; ; ; ; ; 
+2002;23;13,8;1;Sani Ibrahim; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2002;21;12,6;1;Sean Dockery ; ;0;6; ;5;Duke University; ; ; ; ; ; ; ; ; ; ; 
+2002;65;39;3;Taquan Dean ; ;0;6; ;5;University of Louisville; ; ; ; ; ; ; ; ; ; ; 
+2002;37;22,2;1;Torin Francis ; ;0;6; ;5;University of Notre Dame; ; ; ; ; ; ; ; ; ; ; 
+2002;29;17,4;1;Travis Garrison ; ;0;6; ;5;University of Maryland; ; ; ; ; ; ; ; ; ; ; 
+2002;82;49,2;4;Trent Strickland ; ;0;6; ;5;Wake Forest University; ; ; ; ; ; ; ; ; ; ; 
+2002;83;49,8;4;Vincent Grier ; ;0;6; ;5;University of Minnesota; ; ; ; ; ; ; ; ; ; ; 
+2002;98;58,8;4;Wes Wilkinson ; ;0;6; ;5;University of Nebraska; ; ; ; ; ; ; ; ; ; ; 
+2002;75;45;3;Yusuf Baker ; ;0;6; ;5;University of South Florida; ; ; ; ; ; ; ; ; ; ; 
+2003;30;18;1;Jackie Butler; ;0;6; ;5; ; ;2005;2007;3;1,4;,466666666666667;1; ; ; ; 
+2003;54;32,4;2;Cartier Martin ; ;0;6; ;5;Kansas State University; ;2009;2015;7;3,7;,528571428571429;1; ; ; ; 
+2003;52;31,2;2;Courtney Sims ; ;0;6; ;5;University of Michigan; ;2008;2009;2;0;0;1; ; ; ; 
+2003;39;23,4;1;Gary Forbes ; ;0;6; ;5;University of Massachusetts Amherst; ;2011;2012;2;1,7;,85;1; ; ; ; 
+2003;34;20,4;1;Darryl Watkins ; ;0;6; ;5;Syracuse University; ;2008;2012;5;-,1;-,02;0; ; ; ; 
+2003;25;15;1;Mustafa Shakur ; ;0;6; ;5;University of Arizona; ;2011;2014;4;-,5;-,125;0; ; ; ; 
+2003;38;22,8;1;Thomas Gardner ; ;0;6; ;5;University of Missouri; ;2008;2009;2;-,4;-,2;0; ; ; ; 
+2003;50;30;2;Gary Ervin ; ;0;6; ;5;Mississippi State University; ; ; ; ; ; ; ; ; ; ; 
+2003;100;60;4;Longar Longar ; ;0;6; ;5;University of Oklahoma; ; ; ; ; ; ; ; ; ; ; 
+2003;75;45;3;Lorrenzo Wade ; ;0;6; ;5;San Diego State University; ; ; ; ; ; ; ; ; ; ; 
+2003;78;46,8;3;Marquise Kately ; ;0;6; ;5;Morgan State University; ; ; ; ; ; ; ; ; ; ; 
+2003;17;10,2;0;Mike Jones ; ;0;6; ;5;University of Maryland; ; ; ; ; ; ; ; ; ; ; 
+2003;63;37,8;3;Art Bowers ; ;0;6; ;5;University of Massachusetts Amherst; ; ; ; ; ; ; ; ; ; ; 
+2003;35;21;1;Ayinde Ubaka ; ;0;6; ;5;University of California; ; ; ; ; ; ; ; ; ; ; 
+2003;23;13,8;1;Brandon Cotton ; ;0;6; ;5;University of Detroit Mercy; ; ; ; ; ; ; ; ; ; ; 
+2003;57;34,2;2;Brandon Foust ; ;0;6; ;5;Southeast Missouri State University; ; ; ; ; ; ; ; ; ; ; 
+2003;47;28,2;2;Brandon Jenkins ; ;0;6; ;5;University of Louisville; ; ; ; ; ; ; ; ; ; ; 
+2003;88;52,8;4;Brandon Wallace ; ;0;6; ;5;University of South Carolina; ; ; ; ; ; ; ; ; ; ; 
+2003;62;37,2;3;Brent Petway ; ;0;6; ;5;University of Michigan; ; ; ; ; ; ; ; ; ; ; 
+2003;8;4,8;0;Brian Butch ; ;0;6; ;5;University of Wisconsin; ; ; ; ; ; ; ; ; ; ; 
+2003;53;31,8;2;Brian Randle ; ;0;6; ;5;University of Illinois at Urbana-Champaign; ; ; ; ; ; ; ; ; ; ; 
+2003;58;34,8;2;Corey Gibbs ; ;0;6; ;5;University of Georgia; ; ; ; ; ; ; ; ; ; ; 
+2003;71;42,6;3;Dameon Mason ; ;0;6; ;5;Louisiana State University; ; ; ; ; ; ; ; ; ; ; 
+2003;92;55,2;4;Daon Merritt ; ;0;6; ;5;University of South Alabama; ; ; ; ; ; ; ; ; ; ; 
+2003;74;44,4;3;Darian Townes ; ;0;6; ;5;University of Arkansas; ; ; ; ; ; ; ; ; ; ; 
+2003;7;4,2;0;David Padgett ; ;0;6; ;5;University of Louisville; ; ; ; ; ; ; ; ; ; ; 
+2003;93;55,8;4;Devon Evertsen ; ;0;6; ;5;Boston College; ; ; ; ; ; ; ; ; ; ; 
+2003;76;45,6;3;Dez Willingham ; ;0;6; ;5;Southern Methodist University; ; ; ; ; ; ; ; ; ; ; 
+2003;22;13,2;1;Dion Harris ; ;0;6; ;5;University of Michigan; ; ; ; ; ; ; ; ; ; ; 
+2003;21;12,6;1;Drew Lavender ; ;0;6; ;5;Xavier University; ; ; ; ; ; ; ; ; ; ; 
+2003;51;30,6;2;Drew Naymick ; ;0;6; ;5;Michigan State University; ; ; ; ; ; ; ; ; ; ; 
+2003;70;42;3;Dwight Brewington ; ;0;6; ;5;Liberty University; ; ; ; ; ; ; ; ; ; ; 
+2003;27;16,2;1;Ekene Ibekwe ; ;0;6; ;5;University of Maryland; ; ; ; ; ; ; ; ; ; ; 
+2003;90;54;4;Gerald Brown ; ;0;6; ;5;Providence College; ; ; ; ; ; ; ; ; ; ; 
+2003;77;46,2;3;Hassan Fofana ; ;0;6; ;5;Loyola College in Maryland; ; ; ; ; ; ; ; ; ; ; 
+2003;26;15,6;1;Ivan Harris ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+2003;61;36,6;3;J.R. Reynolds ; ;0;6; ;5;University of Virginia; ; ; ; ; ; ; ; ; ; ; 
+2003;67;40,2;3;Jeremy Ingram ; ;0;6; ;5;East Carolina University; ; ; ; ; ; ; ; ; ; ; 
+2003;98;58,8;4;Karron Clarke ; ;0;6; ;5;DePaul University; ; ; ; ; ; ; ; ; ; ; 
+2003;87;52,2;4;Keith Wooden ; ;0;6; ;5;University of North Texas; ; ; ; ; ; ; ; ; ; ; 
+2003;72;43,2;3;Kenny Harris ; ;0;6; ;5;Valparaiso University; ; ; ; ; ; ; ; ; ; ; 
+2003;85;51;4;Lawrence McKenzie ; ;0;6; ;5;University of Minnesota; ; ; ; ; ; ; ; ; ; ; 
+2003;56;33,6;2;Lodrick Stewart ; ;0;6; ;5;University of Southern California; ; ; ; ; ; ; ; ; ; ; 
+2003;59;35,4;2;Major Wingate ; ;0;6; ;5;University of Tennessee; ; ; ; ; ; ; ; ; ; ; 
+2003;44;26,4;2;Martin Iti ; ;0;6; ;5;New Mexico State University; ; ; ; ; ; ; ; ; ; ; 
+2003;86;51,6;4;Matt Causey ; ;0;6; ;5;Georgia Institute of Technology; ; ; ; ; ; ; ; ; ; ; 
+2003;65;39;3;Mike Nardi ; ;0;6; ;5;Villanova University; ; ; ; ; ; ; ; ; ; ; 
+2003;46;27,6;2;Mohamed Abukar ; ;0;6; ;5;San Diego State University; ; ; ; ; ; ; ; ; ; ; 
+2003;13;7,8;0;Olu Famutimi ; ;0;6; ;5;University of Arkansas; ; ; ; ; ; ; ; ; ; ; 
+2003;55;33;2;Omar Wilkes ; ;0;6; ;5;University of California; ; ; ; ; ; ; ; ; ; ; 
+2003;89;53,4;4;Omari Isreal ; ;0;6; ;5;Loyola College in Maryland; ; ; ; ; ; ; ; ; ; ; 
+2003;24;14,4;1;Regis Koundjia ; ;0;6; ;5;George Washington University; ; ; ; ; ; ; ; ; ; ; 
+2003;60;36;2;Reyshawn Terry ; ;0;6; ;5;University of North Carolina; ; ; ; ; ; ; ; ; ; ; 
+2003;28;16,8;1;Rich McBride ; ;0;6; ;5;University of Illinois at Urbana-Champaign; ; ; ; ; ; ; ; ; ; ; 
+2003;36;21,6;1;Rodrick Stewart ; ;0;6; ;5;University of Kansas; ; ; ; ; ; ; ; ; ; ; 
+2003;91;54,6;4;Ryan Appleby ; ;0;6; ;5;University of Washington; ; ; ; ; ; ; ; ; ; ; 
+2003;84;50,4;4;Sammy Mejia ; ;0;6; ;5;DePaul University; ; ; ; ; ; ; ; ; ; ; 
+2003;33;19,8;1;Sean Banks ; ;0;6; ;5;University of Memphis; ; ; ; ; ; ; ; ; ; ; 
+2003;48;28,8;2;Shagari Alleyne ; ;0;6; ;5;University of Kentucky; ; ; ; ; ; ; ; ; ; ; 
+2003;99;59,4;4;Shawn Taylor ; ;0;6; ;5;California State University, Fresno; ; ; ; ; ; ; ; ; ; ; 
+2003;96;57,6;4;Sylvester Mayes ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+2003;37;22,2;1;Tack Minor ; ;0;6; ;5;Louisiana State University; ; ; ; ; ; ; ; ; ; ; 
+2003;42;25,2;2;Terrence Roberts ; ;0;6; ;5;Syracuse University; ; ; ; ; ; ; ; ; ; ; 
+2003;83;49,8;4;Tim Morris ; ;0;6; ;5;University of Washington; ; ; ; ; ; ; ; ; ; ; 
+2003;80;48;3;Vincent Banks; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2003;73;43,8;3;Wesley Green ; ;0;6; ;5;DePaul University; ; ; ; ; ; ; ; ; ; ; 
+2003;82;49,2;4;Wesley Washington ; ;0;6; ;5;Oregon State University; ; ; ; ; ; ; ; ; ; ; 
+2003;45;27;2;Will Sheridan ; ;0;6; ;5;Villanova University; ; ; ; ; ; ; ; ; ; ; 
+2004;91;54,6;4;Anthony Morrow ; ;0;6; ;5;Georgia Institute of Technology; ;2009;2017;9;23,2;2,57777777777778;2; ; ; ; 
+2004;37;22,2;1;Greg Stiemsma ; ;0;6; ;5;University of Wisconsin; ;2012;2015;4;6;1,5;2; ; ; ; 
+2004;101;60,6;4;Jackie Butler; ;0;6; ;5; ; ;2005;2007;3;1,4;,466666666666667;1; ; ; ; 
+2004;15;9;0;Darius Washington ; ;0;6; ;5;University of Memphis; ;2008;2008;1;0;0;1; ; ; ; 
+2004;44;26,4;2;Steven Hill ; ;0;6; ;5;University of Arkansas; ;2009;2009;1;0;0;1; ; ; ; 
+2004;18;10,8;0;DeMarcus Nelson ; ;0;6; ;5;Duke University; ;2009;2009;1;-,3;-,3;0; ; ; ; 
+2004;10;6;0;Randolph Morris ; ;0;6; ;5;University of Kentucky; ;2007;2010;4;-,1;-,025;0; ; ; ; 
+2004;97;58,2;4;Longar Longar ; ;0;6; ;5;University of Oklahoma; ; ; ; ; ; ; ; ; ; ; 
+2004;89;53,4;4;Lorrenzo Wade ; ;0;6; ;5;San Diego State University; ; ; ; ; ; ; ; ; ; ; 
+2004;76;45,6;3;A.J. Ratliff ; ;0;6; ;5;Indiana University; ; ; ; ; ; ; ; ; ; ; 
+2004;79;47,4;3;Albert Weber ; ;0;6; ;5;University of Alabama; ; ; ; ; ; ; ; ; ; ; 
+2004;67;40,2;3;Alex Galindo ; ;0;6; ;5;Florida International University; ; ; ; ; ; ; ; ; ; ; 
+2004;98;58,8;4;Alex Thompson ; ;0;6; ;5;Iowa State University; ; ; ; ; ; ; ; ; ; ; 
+2004;60;36;2;Andrew Brackman ; ;0;6; ;5;North Carolina State University; ; ; ; ; ; ; ; ; ; ; 
+2004;40;24;1;Brian Johnson ; ;0;6; ;5;Mississippi State University; ; ; ; ; ; ; ; ; ; ; 
+2004;95;57;4;Brian Laing ; ;0;6; ;5;Seton Hall University; ; ; ; ; ; ; ; ; ; ; 
+2004;39;23,4;1;Bryce Taylor ; ;0;6; ;5;University of Oregon; ; ; ; ; ; ; ; ; ; ; 
+2004;69;41,4;3;C.J. Giles ; ;0;6; ;5;Oregon State University; ; ; ; ; ; ; ; ; ; ; 
+2004;99;59,4;4;Channing Toney ; ;0;6; ;5;University of Alabama at Birmingham; ; ; ; ; ; ; ; ; ; ; 
+2004;58;34,8;2;Charles Rhodes ; ;0;6; ;5;Mississippi State University; ; ; ; ; ; ; ; ; ; ; 
+2004;59;35,4;2;Charles Thomas ; ;0;6; ;5;University of Arkansas; ; ; ; ; ; ; ; ; ; ; 
+2004;56;33,6;2;Churchill Odia ; ;0;6; ;5;University of Oregon; ; ; ; ; ; ; ; ; ; ; 
+2004;71;42,6;3;David McClure ; ;0;6; ;5;Duke University; ; ; ; ; ; ; ; ; ; ; 
+2004;88;52,8;4;David Pendergraft ; ;0;6; ;5;Gonzaga University; ; ; ; ; ; ; ; ; ; ; 
+2004;65;39;3;Dayshawn Wright ; ;0;6; ;5;Syracuse University; ; ; ; ; ; ; ; ; ; ; 
+2004;92;55,2;4;DeAaron Williams ; ;0;6; ;5;University of Wisconsin; ; ; ; ; ; ; ; ; ; ; 
+2004;82;49,2;4;DeSean White ; ;0;6; ;5;Providence College; ; ; ; ; ; ; ; ; ; ; 
+2004;86;51,6;4;Devon Hardin ; ;0;6; ;5;University of California; ; ; ; ; ; ; ; ; ; ; 
+2004;49;29,4;2;Dion Dowell ; ;0;6; ;5;University of Houston; ; ; ; ; ; ; ; ; ; ; 
+2004;54;32,4;2;Drew Neitzel ; ;0;6; ;5;Michigan State University; ; ; ; ; ; ; ; ; ; ; 
+2004;78;46,8;3;Gavin Grant ; ;0;6; ;5;North Carolina State University; ; ; ; ; ; ; ; ; ; ; 
+2004;41;24,6;2;Isaiah Swann ; ;0;6; ;5;Florida State University; ; ; ; ; ; ; ; ; ; ; 
+2004;70;42;3;Jamar Butler ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+2004;50;30;2;James Gist ; ;0;6; ;5;University of Maryland; ; ; ; ; ; ; ; ; ; ; 
+2004;93;55,8;4;James Hardy ; ;0;6; ;5;Indiana University; ; ; ; ; ; ; ; ; ; ; 
+2004;45;27;2;Jason Horton ; ;0;6; ;5;University of Missouri; ; ; ; ; ; ; ; ; ; ; 
+2004;27;16,2;1;Jason Rich ; ;0;6; ;5;Florida State University; ; ; ; ; ; ; ; ; ; ; 
+2004;17;10,2;0;Jawann McClellan ; ;0;6; ;5;University of Arizona; ; ; ; ; ; ; ; ; ; ; 
+2004;74;44,4;3;Jeremis Smith ; ;0;6; ;5;Georgia Institute of Technology; ; ; ; ; ; ; ; ; ; ; 
+2004;75;45;3;Josh Heytvelt ; ;0;6; ;5;Gonzaga University; ; ; ; ; ; ; ; ; ; ; 
+2004;57;34,2;2;Josh Shipp ; ;0;6; ;5;University of California, Los Angeles; ; ; ; ; ; ; ; ; ; ; 
+2004;36;21,6;1;Josh Wright ; ;0;6; ;5;Syracuse University; ; ; ; ; ; ; ; ; ; ; 
+2004;16;9,6;0;Juan Palacios ; ;0;6; ;5;University of Louisville; ; ; ; ; ; ; ; ; ; ; 
+2004;52;31,2;2;Justin Cerasoli ; ;0;6; ;5;Loyola University of Chicago; ; ; ; ; ; ; ; ; ; ; 
+2004;63;37,8;3;Kalen Grimes ; ;0;6; ;5;University of Missouri; ; ; ; ; ; ; ; ; ; ; 
+2004;81;48,6;4;Keith Benjamin ; ;0;6; ;5;University of Pittsburgh; ; ; ; ; ; ; ; ; ; ; 
+2004;73;43,8;3;Lee Cummard ; ;0;6; ;5;Brigham Young University; ; ; ; ; ; ; ; ; ; ; 
+2004;87;52,2;4;Maarty Leunen ; ;0;6; ;5;University of Oregon; ; ; ; ; ; ; ; ; ; ; 
+2004;61;36,6;3;Marquie Cooke ; ;0;6; ;5;Virginia Polytechnic Institute and State University; ; ; ; ; ; ; ; ; ; ; 
+2004;28;16,8;1;Marquise Gray ; ;0;6; ;5;Michigan State University; ; ; ; ; ; ; ; ; ; ; 
+2004;47;28,2;2;Marshall Brown ; ;0;6; ;5;University of Missouri; ; ; ; ; ; ; ; ; ; ; 
+2004;22;13,2;1;Mike Williams ; ;0;6; ;5;University of Cincinnati; ; ; ; ; ; ; ; ; ; ; 
+2004;66;39,6;3;Mohamed Tangara ; ;0;6; ;5;University of Arizona; ; ; ; ; ; ; ; ; ; ; 
+2004;55;33;2;Quentin Thomas ; ;0;6; ;5;University of North Carolina; ; ; ; ; ; ; ; ; ; ; 
+2004;51;30,6;2;Ra'Sean Dickey ; ;0;6; ;5;Georgia Institute of Technology; ; ; ; ; ; ; ; ; ; ; 
+2004;94;56,4;4;Rahshon Clark ; ;0;6; ;5;Iowa State University; ; ; ; ; ; ; ; ; ; ; 
+2004;30;18;1;Robert Vaden ; ;0;6; ;5;University of Alabama at Birmingham; ; ; ; ; ; ; ; ; ; ; 
+2004;83;49,8;4;Ron Coleman ; ;0;6; ;5;University of Michigan; ; ; ; ; ; ; ; ; ; ; 
+2004;38;22,8;1;Ronald Steele ; ;0;6; ;5;University of Alabama; ; ; ; ; ; ; ; ; ; ; 
+2004;32;19,2;1;Roy Bright ; ;0;6; ;5;Delaware State University; ; ; ; ; ; ; ; ; ; ; 
+2004;31;18,6;1;Russell Robinson ; ;0;6; ;5;University of Kansas; ; ; ; ; ; ; ; ; ; ; 
+2004;96;57,6;4;Sam Perry ; ;0;6; ;5;Clemson University; ; ; ; ; ; ; ; ; ; ; 
+2004;43;25,8;2;Sasha Kaun ; ;0;6; ;5;University of Kansas; ; ; ; ; ; ; ; ; ; ; 
+2004;62;37,2;3;Shan Foster ; ;0;6; ;5;Vanderbilt University; ; ; ; ; ; ; ; ; ; ; 
+2004;77;46,2;3;Shaun Pruitt ; ;0;6; ;5;University of Illinois at Urbana-Champaign; ; ; ; ; ; ; ; ; ; ; 
+2004;85;51;4;Zam Fredrick ; ;0;6; ;5;University of South Carolina; ; ; ; ; ; ; ; ; ; ; 
+2005;61;36,6;3;Wesley Matthews ; ;0;6; ;5;Marquette University; ;2010;2019;10;47,8;4,78;3; ; ; ; 
+2005;52;31,2;2;Alonzo Gee ; ;0;6; ;5;University of Alabama; ;2010;2017;8;9,7;1,2125;2; ; ; ; 
+2005;66;39,6;3;Antonio Anderson ; ;0;6; ;5;University of Memphis; ;2010;2010;1;0;0;1; ; ; ; 
+2005;54;32,4;2;Jeff Adrien ; ;0;6; ;5;University of Connecticut; ;2011;2015;5;4,4;,88;1; ; ; ; 
+2005;57;34,2;2;Jerel McNeal ; ;0;6; ;5;Marquette University; ;2015;2015;1;-,1;-,1;0; ; ; ; 
+2005;84;50,4;4;Jeremy Pargo ; ;0;6; ;5;Gonzaga University; ;2012;2013;2;-,8;-,4;0; ; ; ; 
+2005;34;20,4;1;Luke Zeller ; ;0;6; ;5;University of Notre Dame; ;2013;2013;1;-,1;-,1;0; ; ; ; 
+2005;68;40,8;3;Terrel Harris ; ;0;6; ;5;Oklahoma State University; ;2012;2013;2;-,6;-,3;0; ; ; ; 
+2005;49;29,4;2;Davon Jefferson ; ;0;6; ;5;University of Southern California; ; ; ; ; ; ; ; ; ; ; 
+2005;47;28,2;2;Tyler Smith ; ;0;6; ;5;University of Tennessee; ; ; ; ; ; ; ; ; ; ; 
+2005;83;49,8;4;A.J. Abrams ; ;0;6; ;5;University of Texas at Austin; ; ; ; ; ; ; ; ; ; ; 
+2005;93;55,8;4;Adrian Thomas ; ;0;6; ;5;University of Miami; ; ; ; ; ; ; ; ; ; ; 
+2005;79;47,4;3;Alade Aminu ; ;0;6; ;5;Georgia Institute of Technology; ; ; ; ; ; ; ; ; ; ; 
+2005;81;48,6;4;Alfred Aboya ; ;0;6; ;5;University of California, Los Angeles; ; ; ; ; ; ; ; ; ; ; 
+2005;76;45,6;3;Andre McGee ; ;0;6; ;5;University of Louisville; ; ; ; ; ; ; ; ; ; ; 
+2005;96;57,6;4;Austin Johnson ; ;0;6; ;5;University of Oklahoma; ; ; ; ; ; ; ; ; ; ; 
+2005;31;18,6;1;Bobby Frasor ; ;0;6; ;5;University of North Carolina; ; ; ; ; ; ; ; ; ; ; 
+2005;19;11,4;0;Brandon Costner ; ;0;6; ;5;North Carolina State University; ; ; ; ; ; ; ; ; ; ; 
+2005;70;42;3;Brian Asbury ; ;0;6; ;5;University of Miami; ; ; ; ; ; ; ; ; ; ; 
+2005;62;37,2;3;Bryan Harvey ; ;0;6; ;5;California State University, Fresno; ; ; ; ; ; ; ; ; ; ; 
+2005;20;12;0;Byron Eaton ; ;0;6; ;5;Oklahoma State University; ; ; ; ; ; ; ; ; ; ; 
+2005;80;48;3;Casaan Breeden ; ;0;6; ;5;College of Charleston; ; ; ; ; ; ; ; ; ; ; 
+2005;35;21;1;Courtney Fells ; ;0;6; ;5;North Carolina State University; ; ; ; ; ; ; ; ; ; ; 
+2005;85;51;4;Cyrus McGowan ; ;0;6; ;5;University of Miami; ; ; ; ; ; ; ; ; ; ; 
+2005;75;45;3;Danny Williams; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2005;73;43,8;3;David Weaver ; ;0;6; ;5;Wake Forest University; ; ; ; ; ; ; ; ; ; ; 
+2005;95;57;4;Denis Clemente ; ;0;6; ;5;Kansas State University; ; ; ; ; ; ; ; ; ; ; 
+2005;63;37,8;3;Derwin Kitchen ; ;0;6; ;5;Florida State University; ; ; ; ; ; ; ; ; ; ; 
+2005;50;30;2;Devan Downey ; ;0;6; ;5;University of South Carolina; ; ; ; ; ; ; ; ; ; ; 
+2005;69;41,4;3;Dior Lowhorn ; ;0;6; ;5;University of San Francisco; ; ; ; ; ; ; ; ; ; ; 
+2005;37;22,2;1;Dominic James ; ;0;6; ;5;Marquette University; ; ; ; ; ; ; ; ; ; ; 
+2005;40;24;1;Eric Boateng ; ;0;6; ;5;Arizona State University; ; ; ; ; ; ; ; ; ; ; 
+2005;22;13,2;1;Eric Devendorf ; ;0;6; ;5;Syracuse University; ; ; ; ; ; ; ; ; ; ; 
+2005;39;23,4;1;Fendi Onobun ; ;0;6; ;5;University of Arizona; ; ; ; ; ; ; ; ; ; ; 
+2005;86;51,6;4;Gary Flowers ; ;0;6; ;5;University of Southern Mississippi; ; ; ; ; ; ; ; ; ; ; 
+2005;13;7,8;0;Greg Paulus ; ;0;6; ;5;Duke University; ; ; ; ; ; ; ; ; ; ; 
+2005;32;19,2;1;J.P. Prince ; ;0;6; ;5;University of Tennessee; ; ; ; ; ; ; ; ; ; ; 
+2005;60;36;2;Jamal Boykin ; ;0;6; ;5;University of California; ; ; ; ; ; ; ; ; ; ; 
+2005;26;15,6;1;Jamont Gordon ; ;0;6; ;5;Mississippi State University; ; ; ; ; ; ; ; ; ; ; 
+2005;100;60;4;Jared Carter ; ;0;6; ;5;University of Kentucky; ; ; ; ; ; ; ; ; ; ; 
+2005;28;16,8;1;Joe Krabbenhoft ; ;0;6; ;5;University of Wisconsin; ; ; ; ; ; ; ; ; ; ; 
+2005;87;52,2;4;JR Inman ; ;0;6; ;5;Rutgers University; ; ; ; ; ; ; ; ; ; ; 
+2005;89;53,4;4;K.C. Rivers ; ;0;6; ;5;Clemson University; ; ; ; ; ; ; ; ; ; ; 
+2005;11;6,6;0;Keith Brumbaugh; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2005;99;59,4;4;Kendric Price ; ;0;6; ;5;University of Michigan; ; ; ; ; ; ; ; ; ; ; 
+2005;91;54,6;4;Kenneth Cooper ; ;0;6; ;5;Louisiana Tech University; ; ; ; ; ; ; ; ; ; ; 
+2005;55;33;2;Kevin Rogers ; ;0;6; ;5;Baylor University; ; ; ; ; ; ; ; ; ; ; 
+2005;77;46,2;3;Kevin Swinton ; ;0;6; ;5;Wake Forest University; ; ; ; ; ; ; ; ; ; ; 
+2005;24;14,4;1;Korvotney Barber ; ;0;6; ;5;Auburn University; ; ; ; ; ; ; ; ; ; ; 
+2005;92;55,2;4;Lawrence Hill ; ;0;6; ;5;Stanford University; ; ; ; ; ; ; ; ; ; ; 
+2005;67;40,2;3;Leo Lyons ; ;0;6; ;5;University of Missouri; ; ; ; ; ; ; ; ; ; ; 
+2005;94;56,4;4;Levance Fields ; ;0;6; ;5;University of Pittsburgh; ; ; ; ; ; ; ; ; ; ; 
+2005;25;15;1;Lewis Clinch ; ;0;6; ;5;Georgia Institute of Technology; ; ; ; ; ; ; ; ; ; ; 
+2005;33;19,8;1;Magnum Rolle ; ;0;6; ;5;Louisiana Tech University; ; ; ; ; ; ; ; ; ; ; 
+2005;29;17,4;1;Marcus Ginyard ; ;0;6; ;5;University of North Carolina; ; ; ; ; ; ; ; ; ; ; 
+2005;51;30,6;2;Marcus Johnson ; ;0;6; ;5;University of Southern California; ; ; ; ; ; ; ; ; ; ; 
+2005;82;49,2;4;Martellus Bennett ; ;0;6; ;5;Texas A&M University; ; ; ; ; ; ; ; ; ; ; 
+2005;53;31,8;2;Martynas Pocius ; ;0;6; ;5;Duke University; ; ; ; ; ; ; ; ; ; ; 
+2005;21;12,6;1;Micah Downs ; ;0;6; ;5;Gonzaga University; ; ; ; ; ; ; ; ; ; ; 
+2005;38;22,8;1;Mike Mercer ; ;0;6; ;5;University of South Florida; ; ; ; ; ; ; ; ; ; ; 
+2005;88;52,8;4;Nate Minnoy ; ;0;6; ;5;Central Michigan University; ; ; ; ; ; ; ; ; ; ; 
+2005;78;46,8;3;Rashad Woods ; ;0;6; ;5;Kent State University; ; ; ; ; ; ; ; ; ; ; 
+2005;64;38,4;3;Reginald Delk ; ;0;6; ;5;University of Louisville; ; ; ; ; ; ; ; ; ; ; 
+2005;7;4,2;0;Richard Hendrix ; ;0;6; ;5;University of Alabama; ; ; ; ; ; ; ; ; ; ; 
+2005;74;44,4;3;Ricky Sanchez; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2005;45;27;2;Roderick Flemings ; ;0;6; ;5;University of Hawaii; ; ; ; ; ; ; ; ; ; ; 
+2005;97;58,2;4;Ryan Ayers ; ;0;6; ;5;University of Notre Dame; ; ; ; ; ; ; ; ; ; ; 
+2005;46;27,6;2;Ryan Wright ; ;0;6; ;5;University of Oklahoma; ; ; ; ; ; ; ; ; ; ; 
+2005;58;34,8;2;Shawn Taggart ; ;0;6; ;5;University of Memphis; ; ; ; ; ; ; ; ; ; ; 
+2005;8;4,8;0;Tasmin Mitchell ; ;0;6; ;5;Louisiana State University; ; ; ; ; ; ; ; ; ; ; 
+2005;90;54;4;Terry Martin ; ;0;6; ;5;Louisiana State University; ; ; ; ; ; ; ; ; ; ; 
+2005;36;21,6;1;Theo Davis ; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2005;43;25,8;2;Tiki Mayben ; ;0;6; ;5;University of Massachusetts Amherst; ; ; ; ; ; ; ; ; ; ; 
+2005;72;43,2;3;Tyree Evans ; ;0;6; ;5;Kent State University; ; ; ; ; ; ; ; ; ; ; 
+2005;71;42,6;3;Tyrell Biggs ; ;0;6; ;5;University of Pittsburgh; ; ; ; ; ; ; ; ; ; ; 
+2005;42;25,2;2;Uche Echefu ; ;0;6; ;5;Florida State University; ; ; ; ; ; ; ; ; ; ; 
+2005;48;28,8;2;Vernon Goodridge ; ;0;6; ;5;La Salle University; ; ; ; ; ; ; ; ; ; ; 
+2005;65;39;3;Wink Adams ; ;0;6; ;5;University of Nevada, Las Vegas; ; ; ; ; ; ; ; ; ; ; 
+2006;39;23,4;1;Alex Stepheson; ;0;6; ;5; ; ;2016;2016;1;,1;,1;1; ; ; ; 
+2006;90;54;4;Donald Sloan ; ;0;6; ;5;Texas A&M University; ;2012;2016;5;4;,8;1; ; ; ; 
+2006;36;21,6;1;Jerome Dyson ; ;0;6; ;5;University of Connecticut; ;2012;2012;1;,1;,1;1; ; ; ; 
+2006;45;27;2;Jerry Smith ; ;0;6; ;5;University of Louisville; ;2012;2012;1;0;0;1; ; ; ; 
+2006;20;12;0;Lance Thomas ; ;0;6; ;5;Duke University; ;2012;2019;8;5,4;,675;1; ; ; ; 
+2006;47;28,2;2;Patrick Christopher ; ;0;6; ;5;University of California; ;2015;2015;1;-,1;-,1;0; ; ; ; 
+2006;14;8,4;0;Sherron Collins ; ;0;6; ;5;University of Kansas; ;2011;2011;1;-,2;-,2;0; ; ; ; 
+2006;40;24;1;Davon Jefferson ; ;0;6; ;5;University of Southern California; ; ; ; ; ; ; ; ; ; ; 
+2006;86;51,6;4;Jeff Allen ; ;0;6; ;5;Virginia Polytechnic Institute and State University; ; ; ; ; ; ; ; ; ; ; 
+2006;74;44,4;3;Mamadou Diarra ; ;0;6; ;5;University of Southern California; ; ; ; ; ; ; ; ; ; ; 
+2006;44;26,4;2;Mike Jones ; ;0;6; ;5;Syracuse University; ; ; ; ; ; ; ; ; ; ; 
+2006;60;36;2;Tyler Smith ; ;0;6; ;5;University of Tennessee; ; ; ; ; ; ; ; ; ; ; 
+2006;80;48;3;Adrian Oliver ; ;0;6; ;5;San Jose State University; ; ; ; ; ; ; ; ; ; ; 
+2006;100;60;4;Adrion Graves ; ;0;6; ;5;Xavier University; ; ; ; ; ; ; ; ; ; ; 
+2006;59;35,4;2;Anthony Gurley ; ;0;6; ;5;University of Massachusetts Amherst; ; ; ; ; ; ; ; ; ; ; 
+2006;75;45;3;Antonio Pena ; ;0;6; ;5;Villanova University; ; ; ; ; ; ; ; ; ; ; 
+2006;49;29,4;2;Brian Carlwell ; ;0;6; ;5;San Diego State University; ; ; ; ; ; ; ; ; ; ; 
+2006;25;15;1;Brian Zoubek ; ;0;6; ;5;Duke University; ; ; ; ; ; ; ; ; ; ; 
+2006;63;37,8;3;Bryan Davis ; ;0;6; ;5;Texas A&M University; ; ; ; ; ; ; ; ; ; ; 
+2006;96;57,6;4;Cameron Tatum ; ;0;6; ;5;University of Tennessee; ; ; ; ; ; ; ; ; ; ; 
+2006;30;18;1;Curtis Kelly ; ;0;6; ;5;Kansas State University; ; ; ; ; ; ; ; ; ; ; 
+2006;99;59,4;4;Da'Sean Butler ; ;0;6; ;5;West Virginia University; ; ; ; ; ; ; ; ; ; ; 
+2006;95;57;4;Dan Werner ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+2006;97;58,2;4;Daniel Deane ; ;0;6; ;5;Oregon State University; ; ; ; ; ; ; ; ; ; ; 
+2006;31;18,6;1;David Lighty ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+2006;43;25,8;2;Deon Thompson ; ;0;6; ;5;University of North Carolina; ; ; ; ; ; ; ; ; ; ; 
+2006;52;31,2;2;Derrick Jasper ; ;0;6; ;5;University of Nevada, Las Vegas; ; ; ; ; ; ; ; ; ; ; 
+2006;32;19,2;1;Deshawn Sims ; ;0;6; ;5;University of Michigan; ; ; ; ; ; ; ; ; ; ; 
+2006;84;50,4;4;Doneal Mack ; ;0;6; ;5;University of Memphis; ; ; ; ; ; ; ; ; ; ; 
+2006;56;33,6;2;Doug Wiggins ; ;0;6; ;5;University of Connecticut; ; ; ; ; ; ; ; ; ; ; 
+2006;22;13,2;1;Duke Crews ; ;0;6; ;5;University of Tennessee; ; ; ; ; ; ; ; ; ; ; 
+2006;55;33;2;Edgar Sosa ; ;0;6; ;5;University of Louisville; ; ; ; ; ; ; ; ; ; ; 
+2006;73;43,8;3;Eugene Harvey ; ;0;6; ;5;Seton Hall University; ; ; ; ; ; ; ; ; ; ; 
+2006;91;54,6;4;Gilbert Brown ; ;0;6; ;5;University of Pittsburgh; ; ; ; ; ; ; ; ; ; ; 
+2006;67;40,2;3;Isaiah Dahlman ; ;0;6; ;5;Michigan State University; ; ; ; ; ; ; ; ; ; ; 
+2006;38;22,8;1;James Keefe ; ;0;6; ;5;University of California, Los Angeles; ; ; ; ; ; ; ; ; ; ; 
+2006;50;30;2;Jamie Skeen ; ;0;6; ;5;Virginia Commonwealth University; ; ; ; ; ; ; ; ; ; ; 
+2006;66;39,6;3;Jamil Tucker ; ;0;6; ;5;University of Virginia; ; ; ; ; ; ; ; ; ; ; 
+2006;42;25,2;2;Jason Bennett ; ;0;6; ;5;University of Detroit Mercy; ; ; ; ; ; ; ; ; ; ; 
+2006;62;37,2;3;Jason Bohannon ; ;0;6; ;5;University of Wisconsin; ; ; ; ; ; ; ; ; ; ; 
+2006;94;56,4;4;Jeremy Mayfield ; ;0;6; ;5;University of Alabama at Birmingham; ; ; ; ; ; ; ; ; ; ; 
+2006;51;30,6;2;Jon Kreft ; ;0;6; ;5;Florida State University; ; ; ; ; ; ; ; ; ; ; 
+2006;28;16,8;1;Jon Scheyer ; ;0;6; ;5;Duke University; ; ; ; ; ; ; ; ; ; ; 
+2006;87;52,2;4;Jonathan Mitchell ; ;0;6; ;5;Rutgers University; ; ; ; ; ; ; ; ; ; ; 
+2006;85;51;4;Josue Soto ; ;0;6; ;5;Florida International University; ; ; ; ; ; ; ; ; ; ; 
+2006;68;40,8;3;Keith Clark ; ;0;6; ;5;University of Oklahoma; ; ; ; ; ; ; ; ; ; ; 
+2006;81;48,6;4;Leon Freeman; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2006;78;46,8;3;Marques Johnson ; ;0;6; ;5;Georgia State University; ; ; ; ; ; ; ; ; ; ; 
+2006;65;39;3;Matt Bouldin ; ;0;6; ;5;Gonzaga University; ; ; ; ; ; ; ; ; ; ; 
+2006;53;31,8;2;Mike Washington ; ;0;6; ;5;University of Arkansas; ; ; ; ; ; ; ; ; ; ; 
+2006;70;42;3;Nigel Munson ; ;0;6; ;5;Virginia Polytechnic Institute and State University; ; ; ; ; ; ; ; ; ; ; 
+2006;35;21;1;Obi Muonelo ; ;0;6; ;5;Oklahoma State University; ; ; ; ; ; ; ; ; ; ; 
+2006;23;13,8;1;Paul Harris ; ;0;6; ;5;Syracuse University; ; ; ; ; ; ; ; ; ; ; 
+2006;57;34,2;2;Perry Stevenson ; ;0;6; ;5;University of Kentucky; ; ; ; ; ; ; ; ; ; ; 
+2006;71;42,6;3;Phil Nelson ; ;0;6; ;5;Portland State University; ; ; ; ; ; ; ; ; ; ; 
+2006;72;43,2;3;Pierre Niles ; ;0;6; ;5;University of Memphis; ; ; ; ; ; ; ; ; ; ; 
+2006;33;19,8;1;Ramar Smith ; ;0;6; ;5;University of Tennessee; ; ; ; ; ; ; ; ; ; ; 
+2006;34;20,4;1;Raymar Morgan ; ;0;6; ;5;Michigan State University; ; ; ; ; ; ; ; ; ; ; 
+2006;37;22,2;1;Scottie Reynolds ; ;0;6; ;5;Villanova University; ; ; ; ; ; ; ; ; ; ; 
+2006;92;55,2;4;Solomon Tat ; ;0;6; ;5;University of Virginia; ; ; ; ; ; ; ; ; ; ; 
+2006;18;10,8;0;Stanley Robinson ; ;0;6; ;5;University of Connecticut; ; ; ; ; ; ; ; ; ; ; 
+2006;89;53,4;4;Taylor Harrison ; ;0;6; ;5;University of California; ; ; ; ; ; ; ; ; ; ; 
+2006;48;28,8;2;Tom Herzog ; ;0;6; ;5;University of Central Florida; ; ; ; ; ; ; ; ; ; ; 
+2006;88;52,8;4;Trevon Hughes ; ;0;6; ;5;University of Wisconsin; ; ; ; ; ; ; ; ; ; ; 
+2006;69;41,4;3;Tweety Carter ; ;0;6; ;5;Baylor University; ; ; ; ; ; ; ; ; ; ; 
+2006;54;32,4;2;Wayne Chism ; ;0;6; ;5;University of Tennessee; ; ; ; ; ; ; ; ; ; ; 
+2006;79;47,4;3;William Graves ; ;0;6; ;5;University of North Carolina; ; ; ; ; ; ; ; ; ; ; 
+2006;41;24,6;2;Willie Kemp ; ;0;6; ;5;University of Memphis; ; ; ; ; ; ; ; ; ; ; 
+2007;89;53,4;4;Brad Wanamaker ; ;0;6; ;5;University of Pittsburgh; ;2019;2019;1;1;1;2; ; ; ; 
+2007;56;33,6;2;Chris Wright ; ;0;6; ;5;University of Dayton; ;2012;2014;3;,9;,3;1; ; ; ; 
+2007;31;18,6;1;Chris Wright ; ;0;6; ;5;Georgetown University; ;2013;2013;1;0;0;1; ; ; ; 
+2007;35;21;1;Kalin Lucas ; ;0;6; ;5;Michigan State University; ;2015;2019;5;0;0;1; ; ; ; 
+2007;42;25,2;2;Manny Harris ; ;0;6; ;5;University of Michigan; ;2011;2017;7;,1;,0142857142857143;1; ; ; ; 
+2007;83;49,8;4;Jeff Allen ; ;0;6; ;5;Virginia Polytechnic Institute and State University; ; ; ; ; ; ; ; ; ; ; 
+2007;97;58,2;4;Mamadou Diarra ; ;0;6; ;5;University of Southern California; ; ; ; ; ; ; ; ; ; ; 
+2007;38;22,8;1;Alex Legion ; ;0;6; ;5;Florida International University; ; ; ; ; ; ; ; ; ; ; 
+2007;53;31,8;2;Alex Tyus ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+2007;58;34,8;2;Anthony McClain ; ;0;6; ;5;University of Cincinnati; ; ; ; ; ; ; ; ; ; ; 
+2007;14;8,4;0;Austin Freeman ; ;0;6; ;5;Georgetown University; ; ; ; ; ; ; ; ; ; ; 
+2007;79;47,4;3;Beas Hamga ; ;0;6; ;5;University of Alabama at Birmingham; ; ; ; ; ; ; ; ; ; ; 
+2007;93;55,8;4;Brandon McGee ; ;0;6; ;5;Georgia State University; ; ; ; ; ; ; ; ; ; ; 
+2007;69;41,4;3;Braxton Dupree ; ;0;6; ;5;Towson University; ; ; ; ; ; ; ; ; ; ; 
+2007;59;35,4;2;Chace Stanback ; ;0;6; ;5;University of Nevada, Las Vegas; ; ; ; ; ; ; ; ; ; ; 
+2007;40;24;1;Chris Allen ; ;0;6; ;5;Iowa State University; ; ; ; ; ; ; ; ; ; ; 
+2007;82;49,2;4;Clint Chapman ; ;0;6; ;5;University of Texas at Austin; ; ; ; ; ; ; ; ; ; ; 
+2007;68;40,8;3;Corey Chandler ; ;0;6; ;5;Rutgers University; ; ; ; ; ; ; ; ; ; ; 
+2007;21;12,6;1;Corey Fisher ; ;0;6; ;5;Villanova University; ; ; ; ; ; ; ; ; ; ; 
+2007;26;15,6;1;Corey Stokes ; ;0;6; ;5;Villanova University; ; ; ; ; ; ; ; ; ; ; 
+2007;75;45;3;Dallas Lauderdale ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+2007;41;24,6;2;Dar Tucker ; ;0;6; ;5;DePaul University; ; ; ; ; ; ; ; ; ; ; 
+2007;95;57;4;Darnell Gant ; ;0;6; ;5;University of Washington; ; ; ; ; ; ; ; ; ; ; 
+2007;65;39;3;Demetri McCamey ; ;0;6; ;5;University of Illinois at Urbana-Champaign; ; ; ; ; ; ; ; ; ; ; 
+2007;78;46,8;3;Dominique Sutton ; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2007;71;42,6;3;Dorenzo Hudson ; ;0;6; ;5;Virginia Polytechnic Institute and State University; ; ; ; ; ; ; ; ; ; ; 
+2007;30;18;1;Durrell Summers ; ;0;6; ;5;Michigan State University; ; ; ; ; ; ; ; ; ; ; 
+2007;72;43,2;3;Eddie Rios ; ;0;6; ;5;Texas State University; ; ; ; ; ; ; ; ; ; ; 
+2007;90;54;4;Eli Holman ; ;0;6; ;5;University of Detroit Mercy; ; ; ; ; ; ; ; ; ; ; 
+2007;29;17,4;1;Gary Johnson ; ;0;6; ;5;University of Texas at Austin; ; ; ; ; ; ; ; ; ; ; 
+2007;84;50,4;4;George Goode ; ;0;6; ;5;Fairleigh Dickinson University; ; ; ; ; ; ; ; ; ; ; 
+2007;77;46,2;3;Gus Gilchrist ; ;0;6; ;5;University of South Florida; ; ; ; ; ; ; ; ; ; ; 
+2007;32;19,2;1;Herb Pope ; ;0;6; ;5;Seton Hall University; ; ; ; ; ; ; ; ; ; ; 
+2007;33;19,8;1;Jai Lucas ; ;0;6; ;5;University of Texas at Austin; ; ; ; ; ; ; ; ; ; ; 
+2007;25;15;1;Jamelle Horne ; ;0;6; ;5;University of Arizona; ; ; ; ; ; ; ; ; ; ; 
+2007;76;45,6;3;Jason Henry ; ;0;6; ;5;University of Arkansas; ; ; ; ; ; ; ; ; ; ; 
+2007;85;51;4;Jeff Brooks ; ;0;6; ;5;Pennsylvania State University; ; ; ; ; ; ; ; ; ; ; 
+2007;66;39,6;3;Jeff Jones ; ;0;6; ;5;University of Virginia; ; ; ; ; ; ; ; ; ; ; 
+2007;48;28,8;2;Jeff Robinson ; ;0;6; ;5;Seton Hall University; ; ; ; ; ; ; ; ; ; ; 
+2007;81;48,6;4;Jeremy Price ; ;0;6; ;5;University of Georgia; ; ; ; ; ; ; ; ; ; ; 
+2007;73;43,8;3;Julian Vaughn ; ;0;6; ;5;Georgetown University; ; ; ; ; ; ; ; ; ; ; 
+2007;80;48;3;Justin Burrell ; ;0;6; ;5;St. John's University; ; ; ; ; ; ; ; ; ; ; 
+2007;37;22,2;1;Lacedarius Dunn ; ;0;6; ;5;Baylor University; ; ; ; ; ; ; ; ; ; ; 
+2007;99;59,4;4;Leonard Washington ; ;0;6; ;5;University of Wyoming; ; ; ; ; ; ; ; ; ; ; 
+2007;45;27;2;Mac Koshwal ; ;0;6; ;5;DePaul University; ; ; ; ; ; ; ; ; ; ; 
+2007;74;44,4;3;Malcolm Delaney ; ;0;6; ;5;Virginia Polytechnic Institute and State University; ; ; ; ; ; ; ; ; ; ; 
+2007;94;56,4;4;Martavius Adams ; ;0;6; ;5;Longwood University; ; ; ; ; ; ; ; ; ; ; 
+2007;49;29,4;2;Matthew Bryan-Amaning ; ;0;6; ;5;University of Washington; ; ; ; ; ; ; ; ; ; ; 
+2007;87;52,2;4;Maurice Miller ; ;0;6; ;5;Georgia Institute of Technology; ; ; ; ; ; ; ; ; ; ; 
+2007;96;57,6;4;Mike Holmes ; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2007;67;40,2;3;Rakim Sanders ; ;0;6; ;5;Fairfield University; ; ; ; ; ; ; ; ; ; ; 
+2007;86;51,6;4;Ravern Johnson ; ;0;6; ;5;Mississippi State University; ; ; ; ; ; ; ; ; ; ; 
+2007;60;36;2;Rick Jackson ; ;0;6; ;5;Syracuse University; ; ; ; ; ; ; ; ; ; ; 
+2007;54;32,4;2;Rico Pickett ; ;0;6; ;5;Manhattan College; ; ; ; ; ; ; ; ; ; ; 
+2007;50;30;2;Scoop Jardine ; ;0;6; ;5;Syracuse University; ; ; ; ; ; ; ; ; ; ; 
+2007;43;25,8;2;Scott Martin ; ;0;6; ;5;University of Notre Dame; ; ; ; ; ; ; ; ; ; ; 
+2007;44;26,4;2;Senario Hillman ; ;0;6; ;5;University of Alabama; ; ; ; ; ; ; ; ; ; ; 
+2007;100;60;4;Steven Gray ; ;0;6; ;5;Gonzaga University; ; ; ; ; ; ; ; ; ; ; 
+2007;27;16,2;1;Taylor King ; ;0;6; ;5;Villanova University; ; ; ; ; ; ; ; ; ; ; 
+2007;64;38,4;3;Tracy Smith ; ;0;6; ;5;North Carolina State University; ; ; ; ; ; ; ; ; ; ; 
+2007;91;54,6;4;Trevor Mbakwe ; ;0;6; ;5;University of Minnesota; ; ; ; ; ; ; ; ; ; ; 
+2007;63;37,8;3;Tyrel Reed ; ;0;6; ;5;University of Kansas; ; ; ; ; ; ; ; ; ; ; 
+2007;98;58,8;4;Tyrone Shelley ; ;0;6; ;5;San Diego State University; ; ; ; ; ; ; ; ; ; ; 
+2008;51;30,6;2;Henry Sims ; ;0;6; ;5;Georgetown University; ;2013;2016;4;4,6;1,15;2; ; ; ; 
+2008;17;10,2;0;JaMychal Green ; ;0;6; ;5;University of Alabama; ;2015;2019;5;14,2;2,84;2; ; ; ; 
+2008;39;23,4;1;Tony Mitchell ; ;0;6; ;5;University of Alabama; ;2014;2014;1;,1;,1;1; ; ; ; 
+2008;80;48;3;Courtney Fortson ; ;0;6; ;5;University of Arkansas; ;2012;2012;1;0;0;1; ; ; ; 
+2008;21;12,6;1;DeQuan Jones ; ;0;6; ;5;University of Miami; ;2013;2013;1;,1;,1;1; ; ; ; 
+2008;47;28,2;2;Kevin Jones ; ;0;6; ;5;West Virginia University; ;2013;2013;1;,2;,2;1; ; ; ; 
+2008;4;2,4;0;Samardo Samuels ; ;0;6; ;5;University of Louisville; ;2011;2013;3;,6;,2;1; ; ; ; 
+2008;29;17,4;1;Drew Gordon ; ;0;6; ;5;University of New Mexico; ;2015;2015;1;-,1;-,1;0; ; ; ; 
+2008;44;26,4;2;Larry Drew ; ;0;6; ;5;University of California, Los Angeles; ;2015;2018;4;-,5;-,125;0; ; ; ; 
+2008;11;6,6;0;Scotty Hopson ; ;0;6; ;5;University of Tennessee; ;2014;2018;5;-,1;-,02;0; ; ; ; 
+2008;62;37,2;3;Jason Clark ; ;0;6; ;5;Georgetown University; ; ; ; ; ; ; ; ; ; ; 
+2008;52;31,2;2;John Riek ; ;0;6; ;5;Mississippi State University; ; ; ; ; ; ; ; ; ; ; 
+2008;27;16,2;1;Rashanti Harris; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2008;76;45,6;3;Allan Chaney ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+2008;54;32,4;2;Angel Garcia ; ;0;6; ;5;University of Memphis; ; ; ; ; ; ; ; ; ; ; 
+2008;83;49,8;4;Anthony Booker ; ;0;6; ;5;Iowa State University; ; ; ; ; ; ; ; ; ; ; 
+2008;100;60;4;Anthony Crater ; ;0;6; ;5;University of South Florida; ; ; ; ; ; ; ; ; ; ; 
+2008;40;24;1;Anthony Jones ; ;0;6; ;5;Baylor University; ; ; ; ; ; ; ; ; ; ; 
+2008;92;55,2;4;Cashmere Wright ; ;0;6; ;5;University of Cincinnati; ; ; ; ; ; ; ; ; ; ; 
+2008;65;39;3;Catalin Baciu ; ;0;6; ;5;Clemson University; ; ; ; ; ; ; ; ; ; ; 
+2008;71;42,6;3;Chris Braswell ; ;0;6; ;5;University of North Carolina at Charlotte; ; ; ; ; ; ; ; ; ; ; 
+2008;60;36;2;D.J. Seeley ; ;0;6; ;5;California State University, Fullerton; ; ; ; ; ; ; ; ; ; ; 
+2008;82;49,2;4;David Loubeau ; ;0;6; ;5;Texas A&M University; ; ; ; ; ; ; ; ; ; ; 
+2008;10;6;0;Delvon Roe ; ;0;6; ;5;Michigan State University; ; ; ; ; ; ; ; ; ; ; 
+2008;99;59,4;4;Delwan Graham ; ;0;6; ;5;Jacksonville University; ; ; ; ; ; ; ; ; ; ; 
+2008;97;58,2;4;Devoe Joseph ; ;0;6; ;5;University of Oregon; ; ; ; ; ; ; ; ; ; ; 
+2008;26;15,6;1;Eloy Vargas ; ;0;6; ;5;University of Kentucky; ; ; ; ; ; ; ; ; ; ; 
+2008;68;40,8;3;Elston Turner ; ;0;6; ;5;Texas A&M University; ; ; ; ; ; ; ; ; ; ; 
+2008;43;25,8;2;Emmanuel Negedu ; ;0;6; ;5;University of New Mexico; ; ; ; ; ; ; ; ; ; ; 
+2008;79;47,4;3;Erving Walker ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+2008;93;55,8;4;Gregory Echenique ; ;0;6; ;5;Creighton University; ; ; ; ; ; ; ; ; ; ; 
+2008;59;35,4;2;J'Covan Brown ; ;0;6; ;5;University of Texas at Austin; ; ; ; ; ; ; ; ; ; ; 
+2008;25;15;1;J'Mison Morgan ; ;0;6; ;5;Baylor University; ; ; ; ; ; ; ; ; ; ; 
+2008;101;60,6;4;Jared Berggren ; ;0;6; ;5;University of Wisconsin; ; ; ; ; ; ; ; ; ; ; 
+2008;42;25,2;2;Jerime Anderson ; ;0;6; ;5;University of California, Los Angeles; ; ; ; ; ; ; ; ; ; ; 
+2008;48;28,8;2;Kenny Frease ; ;0;6; ;5;Xavier University; ; ; ; ; ; ; ; ; ; ; 
+2008;35;21;1;Kenny Kadji ; ;0;6; ;5;University of Miami; ; ; ; ; ; ; ; ; ; ; 
+2008;87;52,2;4;Korie Lucious ; ;0;6; ;5;Iowa State University; ; ; ; ; ; ; ; ; ; ; 
+2008;89;53,4;4;Matt Gatens ; ;0;6; ;5;University of Iowa; ; ; ; ; ; ; ; ; ; ; 
+2008;78;46,8;3;Matt Simpkins ; ;0;6; ;5;University of Memphis; ; ; ; ; ; ; ; ; ; ; 
+2008;22;13,2;1;Michael Dunigan ; ;0;6; ;5;University of Oregon; ; ; ; ; ; ; ; ; ; ; 
+2008;32;19,2;1;Mike Rosario ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+2008;46;27,6;2;Mookie Jones ; ;0;6; ;5;Syracuse University; ; ; ; ; ; ; ; ; ; ; 
+2008;85;51;4;Nasir Robinson ; ;0;6; ;5;University of Pittsburgh; ; ; ; ; ; ; ; ; ; ; 
+2008;91;54,6;4;Nate Miles; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2008;88;52,8;4;Nick Williams ; ;0;6; ;5;University of Mississippi; ; ; ; ; ; ; ; ; ; ; 
+2008;66;39,6;3;Olek Czyz ; ;0;6; ;5;University of Nevada, Reno; ; ; ; ; ; ; ; ; ; ; 
+2008;94;56,4;4;Paul Williams ; ;0;6; ;5;University of Dayton; ; ; ; ; ; ; ; ; ; ; 
+2008;90;54;4;Quintrell Thomas ; ;0;6; ;5;University of Nevada, Las Vegas; ; ; ; ; ; ; ; ; ; ; 
+2008;64;38,4;3;Ralph Sampson ; ;0;6; ;5;University of Minnesota; ; ; ; ; ; ; ; ; ; ; 
+2008;61;36,6;3;Ray Shipman ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+2008;70;42;3;Renaldo Woolridge ; ;0;6; ;5;University of Southern California; ; ; ; ; ; ; ; ; ; ; 
+2008;45;27;2;Romero Osby ; ;0;6; ;5;University of Oklahoma; ; ; ; ; ; ; ; ; ; ; 
+2008;98;58,8;4;Roscoe Davis; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2008;86;51,6;4;Rotnei Clarke ; ;0;6; ;5;Butler University; ; ; ; ; ; ; ; ; ; ; 
+2008;69;41,4;3;Scott Suggs ; ;0;6; ;5;University of Washington; ; ; ; ; ; ; ; ; ; ; 
+2008;50;30;2;Sean Mosley ; ;0;6; ;5;University of Maryland; ; ; ; ; ; ; ; ; ; ; 
+2008;72;43,2;3;Storm Warren ; ;0;6; ;5;Louisiana State University; ; ; ; ; ; ; ; ; ; ; 
+2008;33;19,8;1;Sylven Landesberg ; ;0;6; ;5;University of Virginia; ; ; ; ; ; ; ; ; ; ; 
+2008;74;44,4;3;Terrance Henry ; ;0;6; ;5;University of Mississippi; ; ; ; ; ; ; ; ; ; ; 
+2008;53;31,8;2;Terrelle Pryor; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2008;57;34,2;2;Terrence Jennings ; ;0;6; ;5;University of Louisville; ; ; ; ; ; ; ; ; ; ; 
+2008;41;24,6;2;Tony Woods ; ;0;6; ;5;University of Oregon; ; ; ; ; ; ; ; ; ; ; 
+2008;49;29,4;2;Travis Releford ; ;0;6; ;5;University of Kansas; ; ; ; ; ; ; ; ; ; ; 
+2008;37;22,2;1;Ty Walker ; ;0;6; ;5;Wake Forest University; ; ; ; ; ; ; ; ; ; ; 
+2008;38;22,8;1;Wesley Witherspoon ; ;0;6; ;5;University of Memphis; ; ; ; ; ; ; ; ; ; ; 
+2008;12;7,2;0;William Buford ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+2008;55;33;2;Xavier Gibson ; ;0;6; ;5;Florida State University; ; ; ; ; ; ; ; ; ; ; 
+2008;31;18,6;1;Yancy Gates ; ;0;6; ;5;University of Cincinnati; ; ; ; ; ; ; ; ; ; ; 
+2009;76;45,6;3;Hollis Thompson ; ;0;6; ;5;Georgetown University; ;2014;2017;4;6,5;1,625;2; ; ; ; 
+2009;93;55,8;4;Tony Mitchell ; ;0;6; ;5;University of Alabama; ;2014;2014;1;,1;,1;1; ; ; ; 
+2009;49;29,4;2;Brandon Paul ; ;0;6; ;5;University of Illinois at Urbana-Champaign; ;2018;2018;1;,5;,5;1; ; ; ; 
+2009;37;22,2;1;David Wear ; ;0;6; ;5;University of California, Los Angeles; ;2015;2015;1;0;0;1; ; ; ; 
+2009;23;13,8;1;Maalik Wayns ; ;0;6; ;5;Villanova University; ;2013;2014;2;-,3;-,15;0; ; ; ; 
+2009;38;22,8;1;Travis Wear ; ;0;6; ;5;University of California, Los Angeles; ;2015;2018;4;-,1;-,025;0; ; ; ; 
+2009;86;51,6;4;Devin Booker ; ;0;6; ;5;Clemson University; ; ; ; ; ; ; ; ; ; ; 
+2009;83;49,8;4;John Riek ; ;0;6; ;5;Mississippi State University; ; ; ; ; ; ; ; ; ; ; 
+2009;95;57;4;Rashanti Harris; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2009;36;21,6;1;Aaric Murray ; ;0;6; ;5;Texas Southern University; ; ; ; ; ; ; ; ; ; ; 
+2009;98;58,8;4;Aaron Dotson ; ;0;6; ;5;University of Utah; ; ; ; ; ; ; ; ; ; ; 
+2009;11;6,6;0;Abdul Gaddy ; ;0;6; ;5;University of Washington; ; ; ; ; ; ; ; ; ; ; 
+2009;81;48,6;4;Andrew Fitzgerald ; ;0;6; ;5;University of Oklahoma; ; ; ; ; ; ; ; ; ; ; 
+2009;82;49,2;4;Anthony Marshall ; ;0;6; ;5;University of Nevada, Las Vegas; ; ; ; ; ; ; ; ; ; ; 
+2009;39;23,4;1;Ari Stewart ; ;0;6; ;5;University of Southern California; ; ; ; ; ; ; ; ; ; ; 
+2009;65;39;3;Brendan Lane ; ;0;6; ;5;Pepperdine University; ; ; ; ; ; ; ; ; ; ; 
+2009;96;57,6;4;Cadarian Raines ; ;0;6; ;5;Virginia Polytechnic Institute and State University; ; ; ; ; ; ; ; ; ; ; 
+2009;97;58,2;4;Chris Colvin ; ;0;6; ;5;Arizona State University; ; ; ; ; ; ; ; ; ; ; 
+2009;45;27;2;Christian Watford ; ;0;6; ;5;Indiana University; ; ; ; ; ; ; ; ; ; ; 
+2009;94;56,4;4;Clarence Trent ; ;0;6; ;5;Seattle University; ; ; ; ; ; ; ; ; ; ; 
+2009;35;21;1;D.J. Richardson ; ;0;6; ;5;University of Illinois at Urbana-Champaign; ; ; ; ; ; ; ; ; ; ; 
+2009;77;46,2;3;Dalton Pepper ; ;0;6; ;5;Temple University; ; ; ; ; ; ; ; ; ; ; 
+2009;13;7,8;0;Dante Taylor ; ;0;6; ;5;University of Pittsburgh; ; ; ; ; ; ; ; ; ; ; 
+2009;85;51;4;DaShonte Riley ; ;0;6; ;5;Eastern Michigan University; ; ; ; ; ; ; ; ; ; ; 
+2009;88;52,8;4;Derrick Nix ; ;0;6; ;5;Michigan State University; ; ; ; ; ; ; ; ; ; ; 
+2009;80;48;3;Deshawn Painter ; ;0;6; ;5;Old Dominion University; ; ; ; ; ; ; ; ; ; ; 
+2009;24;14,4;1;Dexter Strickland ; ;0;6; ;5;University of North Carolina; ; ; ; ; ; ; ; ; ; ; 
+2009;19;11,4;0;Dominic Cheek ; ;0;6; ;5;Villanova University; ; ; ; ; ; ; ; ; ; ; 
+2009;90;54;4;Donnavan Kirk ; ;0;6; ;5;University of Miami; ; ; ; ; ; ; ; ; ; ; 
+2009;33;19,8;1;Durand Scott ; ;0;6; ;5;University of Miami; ; ; ; ; ; ; ; ; ; ; 
+2009;25;15;1;Elijah Johnson ; ;0;6; ;5;University of Kansas; ; ; ; ; ; ; ; ; ; ; 
+2009;67;40,2;3;Erik Williams ; ;0;6; ;5;Sam Houston State University; ; ; ; ; ; ; ; ; ; ; 
+2009;66;39,6;3;Isaiah Armwood ; ;0;6; ;5;George Washington University; ; ; ; ; ; ; ; ; ; ; 
+2009;50;30;2;Jamal Coombs-McDaniel ; ;0;6; ;5;University of Connecticut; ; ; ; ; ; ; ; ; ; ; 
+2009;40;24;1;Jamil Wilson ; ;0;6; ;5;Marquette University; ; ; ; ; ; ; ; ; ; ; 
+2009;73;43,8;3;Jeronne Maymon ; ;0;6; ;5;University of Tennessee; ; ; ; ; ; ; ; ; ; ; 
+2009;64;38,4;3;Jon Hood ; ;0;6; ;5;University of Kentucky; ; ; ; ; ; ; ; ; ; ; 
+2009;75;45;3;Jordan Hulls ; ;0;6; ;5;Indiana University; ; ; ; ; ; ; ; ; ; ; 
+2009;47;28,2;2;Junior Cadougan ; ;0;6; ;5;Marquette University; ; ; ; ; ; ; ; ; ; ; 
+2009;78;46,8;3;Kammeon Holsey ; ;0;6; ;5;Georgia Institute of Technology; ; ; ; ; ; ; ; ; ; ; 
+2009;63;37,8;3;Karron Johnson; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2009;89;53,4;4;Keith Clanton ; ;0;6; ;5;University of Central Florida; ; ; ; ; ; ; ; ; ; ; 
+2009;9;5,4;0;Kenny Boynton ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+2009;62;37,2;3;Kenny Hall ; ;0;6; ;5;University of Tennessee; ; ; ; ; ; ; ; ; ; ; 
+2009;53;31,8;2;Kyryl Natyazhko ; ;0;6; ;5;University of Arizona; ; ; ; ; ; ; ; ; ; ; 
+2009;74;44,4;3;Lakeem Jackson ; ;0;6; ;5;University of South Carolina; ; ; ; ; ; ; ; ; ; ; 
+2009;44;26,4;2;Leslie McDonald ; ;0;6; ;5;University of North Carolina; ; ; ; ; ; ; ; ; ; ; 
+2009;72;43,2;3;Marshawn Powell ; ;0;6; ;5;University of Arkansas; ; ; ; ; ; ; ; ; ; ; 
+2009;58;34,8;2;Maurice Creek ; ;0;6; ;5;George Washington University; ; ; ; ; ; ; ; ; ; ; 
+2009;34;20,4;1;Mfon Udofia ; ;0;6; ;5;Georgia Institute of Technology; ; ; ; ; ; ; ; ; ; ; 
+2009;17;10,2;0;Michael Snaer ; ;0;6; ;5;Florida State University; ; ; ; ; ; ; ; ; ; ; 
+2009;57;34,2;2;Mike Moser ; ;0;6; ;5;University of Oregon; ; ; ; ; ; ; ; ; ; ; 
+2009;21;12,6;1;Milton Jennings ; ;0;6; ;5;Clemson University; ; ; ; ; ; ; ; ; ; ; 
+2009;84;50,4;4;MoMo Jones ; ;0;6; ;5;Iona College; ; ; ; ; ; ; ; ; ; ; 
+2009;12;7,2;0;Mouphtaou Yarou ; ;0;6; ;5;Villanova University; ; ; ; ; ; ; ; ; ; ; 
+2009;42;25,2;2;Noel Johnson ; ;0;6; ;5;Auburn University; ; ; ; ; ; ; ; ; ; ; 
+2009;41;24,6;2;Nolan Dennis ; ;0;6; ;5;Baylor University; ; ; ; ; ; ; ; ; ; ; 
+2009;54;32,4;2;Rakeem Buckles ; ;0;6; ;5;Florida International University; ; ; ; ; ; ; ; ; ; ; 
+2009;51;30,6;2;Ray Penn ; ;0;6; ;5;Texas Southern University; ; ; ; ; ; ; ; ; ; ; 
+2009;70;42;3;Reginald Buckner ; ;0;6; ;5;University of Mississippi; ; ; ; ; ; ; ; ; ; ; 
+2009;7;4,2;0;Renardo Sidney ; ;0;6; ;5;Mississippi State University; ; ; ; ; ; ; ; ; ; ; 
+2009;60;36;2;Richard Howell ; ;0;6; ;5;North Carolina State University; ; ; ; ; ; ; ; ; ; ; 
+2009;69;41,4;3;Roberto Nelson ; ;0;6; ;5;Oregon State University; ; ; ; ; ; ; ; ; ; ; 
+2009;46;27,6;2;Rodney Williams ; ;0;6; ;5;University of Minnesota; ; ; ; ; ; ; ; ; ; ; 
+2009;71;42,6;3;Roger Franklin ; ;0;6; ;5;University of North Texas; ; ; ; ; ; ; ; ; ; ; 
+2009;55;33;2;Shawn Williams ; ;0;6; ;5;Southern Methodist University; ; ; ; ; ; ; ; ; ; ; 
+2009;87;52,2;4;Talib Zanna ; ;0;6; ;5;University of Pittsburgh; ; ; ; ; ; ; ; ; ; ; 
+2009;59;35,4;2;Terrell Vinson ; ;0;6; ;5;University of Massachusetts Amherst; ; ; ; ; ; ; ; ; ; ; 
+2009;10;6;0;Tiny Gallon ; ;0;6; ;5;University of Oklahoma; ; ; ; ; ; ; ; ; ; ; 
+2009;30;18;1;Tommy Mason-Griffin ; ;0;6; ;5;University of Oklahoma; ; ; ; ; ; ; ; ; ; ; 
+2009;68;40,8;3;Tristan Spurlock ; ;0;6; ;5;University of Central Florida; ; ; ; ; ; ; ; ; ; ; 
+2009;15;9;0;Wally Judge ; ;0;6; ;5;Rutgers University; ; ; ; ; ; ; ; ; ; ; 
+2009;61;36,6;3;Zeke Marshall ; ;0;6; ;5;University of Akron; ; ; ; ; ; ; ; ; ; ; 
+2010;59;35,4;2;Tarik Black ; ;0;6; ;5;University of Kansas; ;2015;2018;4;7,7;1,925;2; ; ; ; 
+2010;99;59,4;4;Alex Kirk ; ;0;6; ;5;University of New Mexico; ;2015;2015;1;0;0;1; ; ; ; 
+2010;82;49,2;4;Bryce Dejean-Jones ; ;0;6; ;5;Iowa State University; ;2016;2016;1;,2;,2;1; ; ; ; 
+2010;89;53,4;4;Jarell Eddie ; ;0;6; ;5;Virginia Polytechnic Institute and State University; ;2016;2018;3;,2;,0666666666666667;1; ; ; ; 
+2010;63;37,8;3;Jordan Sibert ; ;0;6; ;5;University of Dayton; ;2019;2019;1;0;0;1; ; ; ; 
+2010;43;25,8;2;Okaro White ; ;0;6; ;5;Florida State University; ;2017;2019;3;,8;,266666666666667;1; ; ; ; 
+2010;41;24,6;2;Phil Pressey ; ;0;6; ;5;University of Missouri; ;2014;2016;3;,8;,266666666666667;1; ; ; ; 
+2010;34;20,4;1;Keith Appling ; ;0;6; ;5;Michigan State University; ;2016;2016;1;-,1;-,1;0; ; ; ; 
+2010;48;28,8;2;Vander Blue ; ;0;6; ;5;Marquette University; ;2014;2018;5;-,4;-,08;0; ; ; ; 
+2010;58;34,8;2;James Johnson ; ;0;6; ;5;San Diego State University; ; ; ; ; ; ; ; ; ; ; 
+2010;37;22,2;1;Justin Coleman ; ;0;6; ;5;Marshall University; ; ; ; ; ; ; ; ; ; ; 
+2010;73;43,8;3;Bruce Ellington ; ;0;6; ;5;University of South Carolina; ; ; ; ; ; ; ; ; ; ; 
+2010;98;58,8;4;C.J. Aiken ; ;0;6; ;5;Saint Joseph's University; ; ; ; ; ; ; ; ; ; ; 
+2010;96;57,6;4;C.J. Fair ; ;0;6; ;5;Syracuse University; ; ; ; ; ; ; ; ; ; ; 
+2010;12;7,2;0;C.J. Leslie ; ;0;6; ;5;North Carolina State University; ; ; ; ; ; ; ; ; ; ; 
+2010;36;21,6;1;Cameron Clark ; ;0;6; ;5;University of Oklahoma; ; ; ; ; ; ; ; ; ; ; 
+2010;66;39,6;3;Carson Desrosiers ; ;0;6; ;5;Providence College; ; ; ; ; ; ; ; ; ; ; 
+2010;52;31,2;2;Casey Prather ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+2010;88;52,8;4;Cody Larson ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+2010;76;45,6;3;Crandall Head ; ;0;6; ;5;Southern Methodist University; ; ; ; ; ; ; ; ; ; ; 
+2010;61;36,6;3;Damontre Harris ; ;0;6; ;5;University of South Carolina; ; ; ; ; ; ; ; ; ; ; 
+2010;70;42;3;Daniel Bejarano ; ;0;6; ;5;Colorado State University; ; ; ; ; ; ; ; ; ; ; 
+2010;97;58,2;4;Demarco Cox ; ;0;6; ;5;University of Mississippi; ; ; ; ; ; ; ; ; ; ; 
+2010;44;26,4;2;Dominique Ferguson ; ;0;6; ;5;Florida International University; ; ; ; ; ; ; ; ; ; ; 
+2010;90;54;4;Dwayne Polee ; ;0;6; ;5;San Diego State University; ; ; ; ; ; ; ; ; ; ; 
+2010;95;57;4;Evan Anderson ; ;0;6; ;5;University of Wisconsin; ; ; ; ; ; ; ; ; ; ; 
+2010;80;48;3;Evan Smotrycz ; ;0;6; ;5;University of Maryland; ; ; ; ; ; ; ; ; ; ; 
+2010;57;34,2;2;Gary Franklin ; ;0;6; ;5;Baylor University; ; ; ; ; ; ; ; ; ; ; 
+2010;64;38,4;3;Gerard Coleman ; ;0;6; ;5;Gonzaga University; ; ; ; ; ; ; ; ; ; ; 
+2010;35;21;1;Ian Miller ; ;0;6; ;5;Florida State University; ; ; ; ; ; ; ; ; ; ; 
+2010;67;40,2;3;J.J. Moore ; ;0;6; ;5;Rutgers University; ; ; ; ; ; ; ; ; ; ; 
+2010;74;44,4;3;Jamail Jones ; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2010;65;39;3;James Bell ; ;0;6; ;5;Villanova University; ; ; ; ; ; ; ; ; ; ; 
+2010;77;46,2;3;Jason Morris ; ;0;6; ;5;Georgia Institute of Technology; ; ; ; ; ; ; ; ; ; ; 
+2010;46;27,6;2;Jayvaughn Pinkston ; ;0;6; ;5;Villanova University; ; ; ; ; ; ; ; ; ; ; 
+2010;21;12,6;1;Jelan Kendrick ; ;0;6; ;5;University of Nevada, Las Vegas; ; ; ; ; ; ; ; ; ; ; 
+2010;24;14,4;1;Jereme Richmond ; ;0;6; ;5;University of Illinois at Urbana-Champaign; ; ; ; ; ; ; ; ; ; ; 
+2010;16;9,6;0;Joe Jackson ; ;0;6; ;5;University of Memphis; ; ; ; ; ; ; ; ; ; ; 
+2010;32;19,2;1;Josh Hairston ; ;0;6; ;5;Duke University; ; ; ; ; ; ; ; ; ; ; 
+2010;18;10,8;0;Joshua Smith ; ;0;6; ;5;Georgetown University; ; ; ; ; ; ; ; ; ; ; 
+2010;51;30,6;2;JT Terrell ; ;0;6; ;5;University of Southern California; ; ; ; ; ; ; ; ; ; ; 
+2010;87;52,2;4;Justin Martin ; ;0;6; ;5;Xavier University; ; ; ; ; ; ; ; ; ; ; 
+2010;79;47,4;3;Juwan Staten ; ;0;6; ;5;West Virginia University; ; ; ; ; ; ; ; ; ; ; 
+2010;47;28,2;2;K.T. Harrell ; ;0;6; ;5;Auburn University; ; ; ; ; ; ; ; ; ; ; 
+2010;83;49,8;4;Kadeem Jack ; ;0;6; ;5;Rutgers University; ; ; ; ; ; ; ; ; ; ; 
+2010;53;31,8;2;Keala King ; ;0;6; ;5;California State University, Long Beach; ; ; ; ; ; ; ; ; ; ; 
+2010;91;54,6;4;Keith Davis ; ;0;6; ;5;Texas A&M University; ; ; ; ; ; ; ; ; ; ; 
+2010;45;27;2;Luke Cothron; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2010;94;56,4;4;Markel Starks ; ;0;6; ;5;Georgetown University; ; ; ; ; ; ; ; ; ; ; 
+2010;85;51;4;Matt Derenbecker ; ;0;6; ;5;University of Dayton; ; ; ; ; ; ; ; ; ; ; 
+2010;93;55,8;4;Melvin Tabb ; ;0;6; ;5;Kent State University; ; ; ; ; ; ; ; ; ; ; 
+2010;72;43,2;3;Mike Cobbins ; ;0;6; ;5;Oklahoma State University; ; ; ; ; ; ; ; ; ; ; 
+2010;55;33;2;Mychal Parker ; ;0;6; ;5;University of Maryland; ; ; ; ; ; ; ; ; ; ; 
+2010;42;25,2;2;Nate Lubick ; ;0;6; ;5;Georgetown University; ; ; ; ; ; ; ; ; ; ; 
+2010;68;40,8;3;Noah Cottrill; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2010;19;11,4;0;Patric Young ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+2010;100;60;4;Ralston Turner ; ;0;6; ;5;North Carolina State University; ; ; ; ; ; ; ; ; ; ; 
+2010;62;37,2;3;Rion Brown ; ;0;6; ;5;University of Miami; ; ; ; ; ; ; ; ; ; ; 
+2010;81;48,6;4;Rod Odom ; ;0;6; ;5;Vanderbilt University; ; ; ; ; ; ; ; ; ; ; 
+2010;28;16,8;1;Roscoe Smith ; ;0;6; ;5;University of Nevada, Las Vegas; ; ; ; ; ; ; ; ; ; ; 
+2010;92;55,2;4;Russell Byrd ; ;0;6; ;5;Michigan State University; ; ; ; ; ; ; ; ; ; ; 
+2010;22;13,2;1;Ryan Harrow ; ;0;6; ;5;Georgia State University; ; ; ; ; ; ; ; ; ; ; 
+2010;50;30;2;Stacey Poole ; ;0;6; ;5;Georgia Institute of Technology; ; ; ; ; ; ; ; ; ; ; 
+2010;84;50,4;4;Terone Johnson ; ;0;6; ;5;Purdue University; ; ; ; ; ; ; ; ; ; ; 
+2010;86;51,6;4;Trae Golden ; ;0;6; ;5;Georgia Institute of Technology; ; ; ; ; ; ; ; ; ; ; 
+2010;49;29,4;2;Travis McKie ; ;0;6; ;5;Wake Forest University; ; ; ; ; ; ; ; ; ; ; 
+2010;60;36;2;Trevor Releford ; ;0;6; ;5;University of Alabama; ; ; ; ; ; ; ; ; ; ; 
+2010;29;17,4;1;Trey Zeigler ; ;0;6; ;5;Texas Christian University; ; ; ; ; ; ; ; ; ; ; 
+2010;39;23,4;1;Tyler Lamb ; ;0;6; ;5;University of California, Los Angeles; ; ; ; ; ; ; ; ; ; ; 
+2011;22;13,2;1;Dorian Finney-Smith ; ;0;6; ;5;University of Florida; ;2017;2019;3;4,8;1,6;2; ; ; ; 
+2011;11;6,6;0;Khem Birch ; ;0;6; ;5;University of Nevada, Las Vegas; ;2018;2019;2;4,6;2,3;2; ; ; ; 
+2011;31;18,6;1;Quinn Cook ; ;0;6; ;5;Duke University; ;2017;2019;3;3,5;1,16666666666667;2; ; ; ; 
+2011;9;5,4;0;Adonis Thomas ; ;0;6; ;5;University of Memphis; ;2014;2014;1;0;0;1; ; ; ; 
+2011;63;37,8;3;Chasson Randle ; ;0;6; ;5;Stanford University; ;2017;2019;3;1,3;,433333333333333;1; ; ; ; 
+2011;16;9,6;0;Jabari Brown ; ;0;6; ;5;University of Missouri; ;2015;2015;1;,4;,4;1; ; ; ; 
+2011;40;24;1;Jakarr Sampson ; ;0;6; ;5;St. John's University; ;2015;2019;5;2;,4;1; ; ; ; 
+2011;6;3,6;0;James Michael McAdoo ; ;0;6; ;5;University of North Carolina; ;2015;2018;4;2,4;,6;1; ; ; ; 
+2011;19;11,4;0;Kyle Wiltjer ; ;0;6; ;5;Gonzaga University; ;2017;2017;1;0;0;1; ; ; ; 
+2011;61;36,6;3;Marshall Plumlee ; ;0;6; ;5;Duke University; ;2017;2018;2;,3;,15;1; ; ; ; 
+2011;66;39,6;3;Myke Henry ; ;0;6; ;5;DePaul University; ;2018;2018;1;,1;,1;1; ; ; ; 
+2011;48;28,8;2;Sheldon McClellan ; ;0;6; ;5;University of Miami; ;2017;2017;1;,5;,5;1; ; ; ; 
+2011;62;37,2;3;Aaron Thomas ; ;0;6; ;5;Florida State University; ; ; ; ; ; ; ; ; ; ; 
+2011;37;22,2;1;Adjehi Baru ; ;0;6; ;5;College of Charleston; ; ; ; ; ; ; ; ; ; ; 
+2011;49;29,4;2;Alex Murphy ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+2011;73;43,8;3;Amir Garrett ; ;0;6; ;5;St. John's University; ; ; ; ; ; ; ; ; ; ; 
+2011;50;30;2;Amir Williams ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+2011;60;36;2;Angelo Chol ; ;0;6; ;5;San Diego State University; ; ; ; ; ; ; ; ; ; ; 
+2011;67;40,2;3;Antwan Space ; ;0;6; ;5;Texas A&M University; ; ; ; ; ; ; ; ; ; ; 
+2011;20;12;0;B.J. Young ; ;0;6; ;5;University of Arkansas; ; ; ; ; ; ; ; ; ; ; 
+2011;96;57,6;4;Bernard Sullivan ; ;0;6; ;5;University of North Carolina at Charlotte; ; ; ; ; ; ; ; ; ; ; 
+2011;100;60;4;C.J. Barksdale ; ;0;6; ;5;Virginia Polytechnic Institute and State University; ; ; ; ; ; ; ; ; ; ; 
+2011;97;58,2;4;Carlton Brundidge ; ;0;6; ;5;University of Detroit Mercy; ; ; ; ; ; ; ; ; ; ; 
+2011;83;49,8;4;Cezar Guerrero ; ;0;6; ;5;California State University, Fresno; ; ; ; ; ; ; ; ; ; ; 
+2011;24;14,4;1;Chane Behanan ; ;0;6; ;5;University of Louisville; ; ; ; ; ; ; ; ; ; ; 
+2011;59;35,4;2;Chris Jones ; ;0;6; ;5;University of Louisville; ; ; ; ; ; ; ; ; ; ; 
+2011;86;51,6;4;D.J. Gardner; ;0;6; ;5;Mississippi State University; ; ; ; ; ; ; ; ; ; ; 
+2011;47;28,2;2;D'Angelo Harrison ; ;0;6; ;5;St. John's University; ; ; ; ; ; ; ; ; ; ; 
+2011;45;27;2;Dai-Jon Parker ; ;0;6; ;5;Vanderbilt University; ; ; ; ; ; ; ; ; ; ; 
+2011;99;59,4;4;Damien Leonard ; ;0;6; ;5;University of South Carolina; ; ; ; ; ; ; ; ; ; ; 
+2011;86;51,6;4;Derrick Gordon ; ;0;6; ;5;Seton Hall University; ; ; ; ; ; ; ; ; ; ; 
+2011;57;34,2;2;Deuce Bello ; ;0;6; ;5;University of Missouri; ; ; ; ; ; ; ; ; ; ; 
+2011;92;55,2;4;Deville Smith ; ;0;6; ;5;University of Tennessee at Martin; ; ; ; ; ; ; ; ; ; ; 
+2011;54;32,4;2;Dez Wells ; ;0;6; ;5;University of Maryland; ; ; ; ; ; ; ; ; ; ; 
+2011;76;45,6;3;Erik Copes ; ;0;6; ;5;George Mason University; ; ; ; ; ; ; ; ; ; ; 
+2011;77;46,2;3;Gary Bell ; ;0;6; ;5;Gonzaga University; ; ; ; ; ; ; ; ; ; ; 
+2011;71;42,6;3;Hunter Mickelson ; ;0;6; ;5;University of Kansas; ; ; ; ; ; ; ; ; ; ; 
+2011;85;51;4;Jabarie Hinds ; ;0;6; ;5;University of Massachusetts Amherst; ; ; ; ; ; ; ; ; ; ; 
+2011;30;18;1;Jahii Carson ; ;0;6; ;5;Arizona State University; ; ; ; ; ; ; ; ; ; ; 
+2011;52;31,2;2;Jamal Branch ; ;0;6; ;5;St. John's University; ; ; ; ; ; ; ; ; ; ; 
+2011;70;42;3;Jonathan Holmes ; ;0;6; ;5;University of Texas at Austin; ; ; ; ; ; ; ; ; ; ; 
+2011;84;50,4;4;Joseph Uchebo ; ;0;6; ;5;University of Pittsburgh; ; ; ; ; ; ; ; ; ; ; 
+2011;14;8,4;0;Josiah Turner ; ;0;6; ;5;University of Arizona; ; ; ; ; ; ; ; ; ; ; 
+2011;81;48,6;4;Juan Anderson ; ;0;6; ;5;Marquette University; ; ; ; ; ; ; ; ; ; ; 
+2011;72;43,2;3;Julian Royal ; ;0;6; ;5;George Mason University; ; ; ; ; ; ; ; ; ; ; 
+2011;68;40,8;3;Julien Lewis ; ;0;6; ;5;California State University, Fresno; ; ; ; ; ; ; ; ; ; ; 
+2011;95;57;4;Kedren Johnson ; ;0;6; ;5;University of Memphis; ; ; ; ; ; ; ; ; ; ; 
+2011;75;45;3;Kevin Ware ; ;0;6; ;5;Georgia State University; ; ; ; ; ; ; ; ; ; ; 
+2011;44;26,4;2;LaQuinton Ross ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+2011;8;4,8;0;Le'Bryan Nash ; ;0;6; ;5;Oklahoma State University; ; ; ; ; ; ; ; ; ; ; 
+2011;29;17,4;1;Levi Randolph ; ;0;6; ;5;University of Alabama; ; ; ; ; ; ; ; ; ; ; 
+2011;74;44,4;3;Malcolm Gilbert ; ;0;6; ;5;Fairfield University; ; ; ; ; ; ; ; ; ; ; 
+2011;55;33;2;Michael Chandler ; ;0;6; ;5;University of Oregon; ; ; ; ; ; ; ; ; ; ; 
+2011;98;58,8;4;Mikael Hopkins ; ;0;6; ;5;Georgetown University; ; ; ; ; ; ; ; ; ; ; 
+2011;65;39;3;Mike Shaw ; ;0;6; ;5;Bradley University; ; ; ; ; ; ; ; ; ; ; 
+2011;13;7,8;0;Myck Kabongo ; ;0;6; ;5;University of Texas at Austin; ; ; ; ; ; ; ; ; ; ; 
+2011;82;49,2;4;Myles Mack ; ;0;6; ;5;Rutgers University; ; ; ; ; ; ; ; ; ; ; 
+2011;91;54,6;4;Naadir Tharpe ; ;0;6; ;5;University of Kansas; ; ; ; ; ; ; ; ; ; ; 
+2011;43;25,8;2;Nick Faust ; ;0;6; ;5;California State University, Long Beach; ; ; ; ; ; ; ; ; ; ; 
+2011;78;46,8;3;Nnanna Egwu ; ;0;6; ;5;University of Illinois at Urbana-Champaign; ; ; ; ; ; ; ; ; ; ; 
+2011;51;30,6;2;Norvel Pelle; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2011;42;25,2;2;Rashad Madden ; ;0;6; ;5;University of Arkansas; ; ; ; ; ; ; ; ; ; ; 
+2011;87;52,2;4;Robert Brown ; ;0;6; ;5;University of Alabama at Birmingham; ; ; ; ; ; ; ; ; ; ; 
+2011;90;54;4;Rodney Cooper ; ;0;6; ;5;University of Alabama; ; ; ; ; ; ; ; ; ; ; 
+2011;64;38,4;3;Ryan Boatright ; ;0;6; ;5;University of Connecticut; ; ; ; ; ; ; ; ; ; ; 
+2011;46;27,6;2;Sam Thompson ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+2011;32;19,2;1;Shannon Scott ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+2011;93;55,8;4;Shaquille Thomas ; ;0;6; ;5;University of Cincinnati; ; ; ; ; ; ; ; ; ; ; 
+2011;89;53,4;4;Sidiki Johnson ; ;0;6; ;5;Providence College; ; ; ; ; ; ; ; ; ; ; 
+2011;69;41,4;3;Tracy Abrams ; ;0;6; ;5;University of Illinois at Urbana-Champaign; ; ; ; ; ; ; ; ; ; ; 
+2011;79;47,4;3;Trevor Cooney ; ;0;6; ;5;Syracuse University; ; ; ; ; ; ; ; ; ; ; 
+2011;36;21,6;1;Trevor Lacey ; ;0;6; ;5;North Carolina State University; ; ; ; ; ; ; ; ; ; ; 
+2011;80;48;3;Tyler Adams ; ;0;6; ;5;Georgetown University; ; ; ; ; ; ; ; ; ; ; 
+2011;56;33,6;2;Tyrone Johnson ; ;0;6; ;5;University of South Carolina; ; ; ; ; ; ; ; ; ; ; 
+2011;26;15,6;1;Wayne Blackshear ; ;0;6; ;5;University of Louisville; ; ; ; ; ; ; ; ; ; ; 
+2011;58;34,8;2;Zach Price ; ;0;6; ;5;University of Louisville; ; ; ; ; ; ; ; ; ; ; 
+2012;55;33;2;Ryan Arcidiacono ; ;0;6; ;5;Villanova University; ;2018;2019;2;4;2;2; ; ; ; 
+2012;25;15;1;Yogi Ferrell ; ;0;6; ;5;Indiana University; ;2017;2019;3;6,8;2,26666666666667;2; ; ; ; 
+2012;81;48,6;4;Alex Caruso ; ;0;6; ;5;Texas A&M University; ;2018;2019;2;1,5;,75;1; ; ; ; 
+2012;8;4,8;0;Alex Poythress ; ;0;6; ;5;University of Kentucky; ;2017;2019;3;1;,333333333333333;1; ; ; ; 
+2012;21;12,6;1;Amile Jefferson ; ;0;6; ;5;Duke University; ;2019;2019;1;,4;,4;1; ; ; ; 
+2012;45;27;2;Daniel Ochefu ; ;0;6; ;5;Villanova University; ;2017;2017;1;0;0;1; ; ; ; 
+2012;29;17,4;1;Danuel House ; ;0;6; ;5;Texas A&M University; ;2017;2019;3;2,9;,966666666666667;1; ; ; ; 
+2012;79;47,4;3;JaKarr Sampson ; ;0;6; ;5;St. John's University; ;2015;2019;5;2;,4;1; ; ; ; 
+2012;91;54,6;4;Marcus Georges-Hunt ; ;0;6; ;5;Georgia Institute of Technology; ;2017;2018;2;,3;,15;1; ; ; ; 
+2012;87;52,2;4;Matt Costello ; ;0;6; ;5;Michigan State University; ;2018;2018;1;,1;,1;1; ; ; ; 
+2012;92;55,2;4;Mike Tobey ; ;0;6; ;5;University of Virginia; ;2017;2017;1;0;0;1; ; ; ; 
+2012;52;31,2;2;Andrew White ; ;0;6; ;5;Syracuse University; ;2018;2018;1;-,1;-,1;0; ; ; ; 
+2012;17;10,2;0;Rodney Purvis ; ;0;6; ;5;University of Connecticut; ;2018;2018;1;-,3;-,3;0; ; ; ; 
+2012;100;60;4;Aaron Thomas ; ;0;6; ;5;Florida State University; ; ; ; ; ; ; ; ; ; ; 
+2012;94;56,4;4;Anthony January; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2012;42;25,2;2;Adam Woodbury ; ;0;6; ;5;University of Iowa; ; ; ; ; ; ; ; ; ; ; 
+2012;90;54;4;Arnaud William Adala Moto ; ;0;6; ;5;Towson University; ; ; ; ; ; ; ; ; ; ; 
+2012;15;9;0;Brandon Ashley ; ;0;6; ;5;University of Arizona; ; ; ; ; ; ; ; ; ; ; 
+2012;54;32,4;2;Braxton Ogbueze ; ;0;6; ;5;University of North Carolina at Charlotte; ; ; ; ; ; ; ; ; ; ; 
+2012;46;27,6;2;Cameron Biedscheid ; ;0;6; ;5;Jacksonville State University; ; ; ; ; ; ; ; ; ; ; 
+2012;14;8,4;0;Cameron Ridley ; ;0;6; ;5;University of Texas at Austin; ; ; ; ; ; ; ; ; ; ; 
+2012;69;41,4;3;Chris Obekpa ; ;0;6; ;5;St. John's University; ; ; ; ; ; ; ; ; ; ; 
+2012;75;45;3;Codi Miller-McIntyre ; ;0;6; ;5;Wake Forest University; ; ; ; ; ; ; ; ; ; ; 
+2012;37;22,2;1;D'Vauntes Smith-Rivera ; ;0;6; ;5;Georgetown University; ; ; ; ; ; ; ; ; ; ; 
+2012;18;10,8;0;Dajuan Coleman ; ;0;6; ;5;Syracuse University; ; ; ; ; ; ; ; ; ; ; 
+2012;64;38,4;3;Danrad Knowles ; ;0;6; ;5;University of Houston; ; ; ; ; ; ; ; ; ; ; 
+2012;22;13,2;1;Devonta Pollard ; ;0;6; ;5;University of Houston; ; ; ; ; ; ; ; ; ; ; 
+2012;56;33,6;2;Dominic Artis ; ;0;6; ;5;University of Texas at El Paso; ; ; ; ; ; ; ; ; ; ; 
+2012;61;36,6;3;Elijah Macon ; ;0;6; ;5;West Virginia University; ; ; ; ; ; ; ; ; ; ; 
+2012;74;44,4;3;Evan Nolte ; ;0;6; ;5;University of Virginia; ; ; ; ; ; ; ; ; ; ; 
+2012;47;28,2;2;Gabe York ; ;0;6; ;5;University of Arizona; ; ; ; ; ; ; ; ; ; ; 
+2012;97;58,2;4;Grant Verhoeven ; ;0;6; ;5;Stanford University; ; ; ; ; ; ; ; ; ; ; 
+2012;50;30;2;Hanner Mosquera-Perea ; ;0;6; ;5;East Tennessee State University; ; ; ; ; ; ; ; ; ; ; 
+2012;3;1,8;0;Isaiah Austin ; ;0;6; ;5;Baylor University; ; ; ; ; ; ; ; ; ; ; 
+2012;65;39;3;J'Mychal Reese ; ;0;6; ;5;Texas A&M University; ; ; ; ; ; ; ; ; ; ; 
+2012;63;37,8;3;James Robinson ; ;0;6; ;5;University of Pittsburgh; ; ; ; ; ; ; ; ; ; ; 
+2012;80;48;3;Javan Felix ; ;0;6; ;5;University of Texas at Austin; ; ; ; ; ; ; ; ; ; ; 
+2012;44;26,4;2;Jeremy Hollowell ; ;0;6; ;5;Georgia State University; ; ; ; ; ; ; ; ; ; ; 
+2012;58;34,8;2;Joel James ; ;0;6; ;5;University of North Carolina; ; ; ; ; ; ; ; ; ; ; 
+2012;98;58,8;4;Jordan Loveridge ; ;0;6; ;5;University of Utah; ; ; ; ; ; ; ; ; ; ; 
+2012;70;42;3;Jordan Price ; ;0;6; ;5;La Salle University; ; ; ; ; ; ; ; ; ; ; 
+2012;51;30,6;2;Josh Scott ; ;0;6; ;5;University of Colorado; ; ; ; ; ; ; ; ; ; ; 
+2012;7;4,2;0;Kaleb Tarczewski ; ;0;6; ;5;University of Arizona; ; ; ; ; ; ; ; ; ; ; 
+2012;36;21,6;1;Katin Reinhardt ; ;0;6; ;5;University of Southern California; ; ; ; ; ; ; ; ; ; ; 
+2012;96;57,6;4;Kellen Dunham ; ;0;6; ;5;Butler University; ; ; ; ; ; ; ; ; ; ; 
+2012;99;59,4;4;Kenny Kaminski ; ;0;6; ;5;Ohio University; ; ; ; ; ; ; ; ; ; ; 
+2012;66;39,6;3;L.J. Rose ; ;0;6; ;5;University of Houston; ; ; ; ; ; ; ; ; ; ; 
+2012;84;50,4;4;Melvin Johnson ; ;0;6; ;5;Virginia Commonwealth University; ; ; ; ; ; ; ; ; ; ; 
+2012;86;51,6;4;Michael Frazier ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+2012;88;52,8;4;Mike Gesell ; ;0;6; ;5;University of Iowa; ; ; ; ; ; ; ; ; ; ; 
+2012;60;36;2;Montay Brandon ; ;0;6; ;5;Florida State University; ; ; ; ; ; ; ; ; ; ; 
+2012;39;23,4;1;Omar Calhoun ; ;0;6; ;5;University of Connecticut; ; ; ; ; ; ; ; ; ; ; 
+2012;31;18,6;1;Perry Ellis ; ;0;6; ;5;University of Kansas; ; ; ; ; ; ; ; ; ; ; 
+2012;62;37,2;3;Prince Ibeh ; ;0;6; ;5;University of Texas at Austin; ; ; ; ; ; ; ; ; ; ; 
+2012;12;7,2;0;Rasheed Sulaimon ; ;0;6; ;5;University of Maryland; ; ; ; ; ; ; ; ; ; ; 
+2012;32;19,2;1;Rico Gathers ; ;0;6; ;5;Baylor University; ; ; ; ; ; ; ; ; ; ; 
+2012;30;18;1;Robert Carter ; ;0;6; ;5;University of Maryland; ; ; ; ; ; ; ; ; ; ; 
+2012;53;31,8;2;Robert Upshaw ; ;0;6; ;5;University of Washington; ; ; ; ; ; ; ; ; ; ; 
+2012;93;55,8;4;Ronnie Johnson ; ;0;6; ;5;University of Houston; ; ; ; ; ; ; ; ; ; ; 
+2012;73;43,8;3;Rosco Allen ; ;0;6; ;5;Stanford University; ; ; ; ; ; ; ; ; ; ; 
+2012;82;49,2;4;Savon Goodman ; ;0;6; ;5;Arizona State University; ; ; ; ; ; ; ; ; ; ; 
+2012;35;21;1;Shaq Goodwin ; ;0;6; ;5;University of Memphis; ; ; ; ; ; ; ; ; ; ; 
+2012;34;20,4;1;Shaquille Cleare ; ;0;6; ;5;University of Texas at Austin; ; ; ; ; ; ; ; ; ; ; 
+2012;83;49,8;4;Steve Taylor ; ;0;6; ;5;University of Toledo; ; ; ; ; ; ; ; ; ; ; 
+2012;24;14,4;1;Tony Parker ; ;0;6; ;5;University of California, Los Angeles; ; ; ; ; ; ; ; ; ; ; 
+2012;72;43,2;3;Torian Graham ; ;0;6; ;5;Arizona State University; ; ; ; ; ; ; ; ; ; ; 
+2012;43;25,8;2;Tyler Lewis ; ;0;6; ;5;Butler University; ; ; ; ; ; ; ; ; ; ; 
+2012;33;19,8;1;Winston Shepard ; ;0;6; ;5;San Diego State University; ; ; ; ; ; ; ; ; ; ; 
+2012;67;40,2;3;Xavier Johnson ; ;0;6; ;5;University of Colorado; ; ; ; ; ; ; ; ; ; ; 
+2013;42;25,2;2;Johnathan Williams ; ;0;6; ;5;Gonzaga University; ;2019;2019;1;1;1;2; ; ; ; 
+2013;45;27;2;Christian Wood ; ;0;6; ;5;University of Nevada, Las Vegas; ;2016;2019;4;1,4;,35;1; ; ; ; 
+2013;54;32,4;2;Deonte Burton ; ;0;6; ;5;Iowa State University; ;2019;2019;1;,1;,1;1; ; ; ; 
+2013;44;26,4;2;Derrick Walton ; ;0;6; ;5;University of Michigan; ;2018;2018;1;,4;,4;1; ; ; ; 
+2013;14;8,4;0;Isaiah Hicks ; ;0;6; ;5;University of North Carolina; ;2018;2019;2;,1;,05;1; ; ; ; 
+2013;51;30,6;2;Troy Williams ; ;0;6; ;5;Indiana University; ;2017;2019;3;1,3;,433333333333333;1; ; ; ; 
+2013;13;7,8;0;Wayne Selden ; ;0;6; ;5;University of Kansas; ;2017;2019;3;,1;,0333333333333333;1; ; ; ; 
+2013;6;3,6;0;Aaron Harrison ; ;0;6; ;5;University of Kentucky; ;2016;2018;3;-,1;-,0333333333333333;0; ; ; ; 
+2013;74;44,4;3;Tim Quarterman ; ;0;6; ;5;Louisiana State University; ;2017;2018;2;-,1;-,05;0; ; ; ; 
+2013;43;25,8;2;Xavier Rathan-Mayes ; ;0;6; ;5;Florida State University; ;2018;2018;1;-,4;-,4;0; ; ; ; 
+2013;95;57;4;Anthony January; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2013;98;58,8;4;Brandon Randolph ; ;0;6; ;5;Utah Valley State College; ; ; ; ; ; ; ; ; ; ; 
+2013;68;40,8;3;Detrick Mostella ; ;0;6; ;5;University of Tennessee; ; ; ; ; ; ; ; ; ; ; 
+2013;30;18;1;JaJuan Johnson ; ;0;6; ;5;Marquette University; ; ; ; ; ; ; ; ; ; ; 
+2013;88;52,8;4;Akoy Agau ; ;0;6; ;5;Georgetown University; ; ; ; ; ; ; ; ; ; ; 
+2013;62;37,2;3;Allerik Freeman ; ;0;6; ;5;Baylor University; ; ; ; ; ; ; ; ; ; ; 
+2013;24;14,4;1;Anthony 'Cat' Barber ; ;0;6; ;5;North Carolina State University; ; ; ; ; ; ; ; ; ; ; 
+2013;50;30;2;Anton Gill ; ;0;6; ;5;University of Louisville; ; ; ; ; ; ; ; ; ; ; 
+2013;85;51;4;Aquille Carr; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2013;20;12;0;Austin Nichols ; ;0;6; ;5;University of Virginia; ; ; ; ; ; ; ; ; ; ; 
+2013;64;38,4;3;Beejay Anya ; ;0;6; ;5;North Carolina State University; ; ; ; ; ; ; ; ; ; ; 
+2013;48;28,8;2;Brandon Austin; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2013;36;21,6;1;Brannen Greene ; ;0;6; ;5;University of Kansas; ; ; ; ; ; ; ; ; ; ; 
+2013;79;47,4;3;Bronson Koenig ; ;0;6; ;5;University of Wisconsin; ; ; ; ; ; ; ; ; ; ; 
+2013;84;50,4;4;Bryson Scott ; ;0;6; ;5;Indiana University-Purdue University Fort Wayne; ; ; ; ; ; ; ; ; ; ; 
+2013;7;4,2;0;Chris Walker ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+2013;40;24;1;Conner Frankamp ; ;0;6; ;5;Wichita State University; ; ; ; ; ; ; ; ; ; ; 
+2013;92;55,2;4;Dakarai Allen ; ;0;6; ;5;San Diego State University; ; ; ; ; ; ; ; ; ; ; 
+2013;55;33;2;Devin Williams ; ;0;6; ;5;West Virginia University; ; ; ; ; ; ; ; ; ; ; 
+2013;83;49,8;4;Dominic Woodson ; ;0;6; ;5;University of Tennessee; ; ; ; ; ; ; ; ; ; ; 
+2013;59;35,4;2;Duane Wilson ; ;0;6; ;5;Marquette University; ; ; ; ; ; ; ; ; ; ; 
+2013;39;23,4;1;Eric Mika ; ;0;6; ;5;Brigham Young University; ; ; ; ; ; ; ; ; ; ; 
+2013;19;11,4;0;Isaac Hamilton ; ;0;6; ;5;University of California, Los Angeles; ; ; ; ; ; ; ; ; ; ; 
+2013;58;34,8;2;Ish Wainright ; ;0;6; ;5;Baylor University; ; ; ; ; ; ; ; ; ; ; 
+2013;25;15;1;Jermaine Lawrence ; ;0;6; ;5;Manhattan College; ; ; ; ; ; ; ; ; ; ; 
+2013;67;40,2;3;Jimmie Taylor ; ;0;6; ;5;University of Alabama; ; ; ; ; ; ; ; ; ; ; 
+2013;60;36;2;John Egbunu ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+2013;76;45,6;3;Kam Williams ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+2013;65;39;3;Karviar Shepherd ; ;0;6; ;5;Texas Christian University; ; ; ; ; ; ; ; ; ; ; 
+2013;11;6,6;0;Kasey Hill ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+2013;27;16,2;1;Keith Frazier ; ;0;6; ;5;Southern Methodist University; ; ; ; ; ; ; ; ; ; ; 
+2013;63;37,8;3;Kendall Stephens ; ;0;6; ;5;Purdue University; ; ; ; ; ; ; ; ; ; ; 
+2013;57;34,2;2;Kendrick Nunn ; ;0;6; ;5;University of Illinois at Urbana-Champaign; ; ; ; ; ; ; ; ; ; ; 
+2013;56;33,6;2;Kennedy Meeks ; ;0;6; ;5;University of North Carolina; ; ; ; ; ; ; ; ; ; ; 
+2013;90;54;4;Kentan Facey ; ;0;6; ;5;University of Connecticut; ; ; ; ; ; ; ; ; ; ; 
+2013;78;46,8;3;Kris Jenkins ; ;0;6; ;5;Villanova University; ; ; ; ; ; ; ; ; ; ; 
+2013;31;18,6;1;Kuran Iverson ; ;0;6; ;5;University of Rhode Island; ; ; ; ; ; ; ; ; ; ; 
+2013;99;59,4;4;Kyle Washington ; ;0;6; ;5;University of Cincinnati; ; ; ; ; ; ; ; ; ; ; 
+2013;71;42,6;3;Luke Fischer ; ;0;6; ;5;Marquette University; ; ; ; ; ; ; ; ; ; ; 
+2013;70;42;3;Malcolm Hill ; ;0;6; ;5;University of Illinois at Urbana-Champaign; ; ; ; ; ; ; ; ; ; ; 
+2013;80;48;3;Mamadou Ndiaye ; ;0;6; ;5;University of California, Irvine; ; ; ; ; ; ; ; ; ; ; 
+2013;66;39,6;3;Marc Loving ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+2013;96;57,6;4;Marcus Allen ; ;0;6; ;5;Stanford University; ; ; ; ; ; ; ; ; ; ; 
+2013;18;10,8;0;Marcus Lee ; ;0;6; ;5;University of Kentucky; ; ; ; ; ; ; ; ; ; ; 
+2013;81;48,6;4;Markel Crawford ; ;0;6; ;5;University of Memphis; ; ; ; ; ; ; ; ; ; ; 
+2013;34;20,4;1;Matt Jones ; ;0;6; ;5;Duke University; ; ; ; ; ; ; ; ; ; ; 
+2013;52;31,2;2;Matt Thomas ; ;0;6; ;5;Iowa State University; ; ; ; ; ; ; ; ; ; ; 
+2013;86;51,6;4;Michael Young ; ;0;6; ;5;University of Pittsburgh; ; ; ; ; ; ; ; ; ; ; 
+2013;47;28,2;2;Moses Kingsley ; ;0;6; ;5;University of Arkansas; ; ; ; ; ; ; ; ; ; ; 
+2013;93;55,8;4;Nate Britt ; ;0;6; ;5;University of North Carolina; ; ; ; ; ; ; ; ; ; ; 
+2013;69;41,4;3;Nick Emery ; ;0;6; ;5;Brigham Young University; ; ; ; ; ; ; ; ; ; ; 
+2013;41;24,6;2;Nick King ; ;0;6; ;5;University of Alabama; ; ; ; ; ; ; ; ; ; ; 
+2013;97;58,2;4;Pookie Powell ; ;0;6; ;5;La Salle University; ; ; ; ; ; ; ; ; ; ; 
+2013;75;45;3;Reggie Cameron ; ;0;6; ;5;Georgetown University; ; ; ; ; ; ; ; ; ; ; 
+2013;22;13,2;1;Robert Hubbs ; ;0;6; ;5;University of Tennessee; ; ; ; ; ; ; ; ; ; ; 
+2013;46;27,6;2;Roddy Peters ; ;0;6; ;5;University of South Florida; ; ; ; ; ; ; ; ; ; ; 
+2013;26;15,6;1;Rysheed Jordan ; ;0;6; ;5;St. John's University; ; ; ; ; ; ; ; ; ; ; 
+2013;61;36,6;3;Stanford Robinson ; ;0;6; ;5;University of Rhode Island; ; ; ; ; ; ; ; ; ; ; 
+2013;72;43,2;3;Stevie Clark ; ;0;6; ;5;Oklahoma State University; ; ; ; ; ; ; ; ; ; ; 
+2013;100;60;4;Tre'Shaun Fletcher ; ;0;6; ;5;University of Colorado; ; ; ; ; ; ; ; ; ; ; 
+2013;37;22,2;1;Tyler Roberson ; ;0;6; ;5;Syracuse University; ; ; ; ; ; ; ; ; ; ; 
+2013;77;46,2;3;V.J. Beachem ; ;0;6; ;5;University of Notre Dame; ; ; ; ; ; ; ; ; ; ; 
+2013;87;52,2;4;Wes Clark ; ;0;6; ;5;University of Missouri; ; ; ; ; ; ; ; ; ; ; 
+2013;29;17,4;1;Zak Irvin ; ;0;6; ;5;University of Michigan; ; ; ; ; ; ; ; ; ; ; 
+2013;91;54,6;4;Zena Edosomwan ; ;0;6; ;5;Harvard University; ; ; ; ; ; ; ; ; ; ; 
+2014;42;25,2;2;Angel Delgado ; ;0;6; ;5;Seton Hall University; ;2019;2019;1;0;0;1; ; ; ; 
+2014;49;29,4;2;Chris Chiozza ; ;0;6; ;5;University of Florida; ;2019;2019;1;0;0;1; ; ; ; 
+2014;4;2,4;0;Cliff Alexander ; ;0;6; ;5;University of Kansas; ;2016;2016;1;0;0;1; ; ; ; 
+2014;20;12;0;Devin Robinson ; ;0;6; ;5;University of Florida; ;2018;2019;2;,4;,2;1; ; ; ; 
+2014;81;48,6;4;Donte Grantham ; ;0;6; ;5;Clemson University; ;2019;2019;1;0;0;1; ; ; ; 
+2014;15;9;0;Theo Pinson ; ;0;6; ;5;University of North Carolina; ;2019;2019;1;0;0;1; ; ; ; 
+2014;68;40,8;3;Jared Terrell ; ;0;6; ;5;University of Rhode Island; ;2019;2019;1;-,3;-,3;0; ; ; ; 
+2014;99;59,4;4;Detrick Mostella ; ;0;6; ;5;University of Tennessee; ; ; ; ; ; ; ; ; ; ; 
+2014;72;43,2;3;Justin Coleman ; ;0;6; ;5;University of Alabama; ; ; ; ; ; ; ; ; ; ; 
+2014;45;27;2;Abdul-Malik Abu ; ;0;6; ;5;North Carolina State University; ; ; ; ; ; ; ; ; ; ; 
+2014;61;36,6;3;Ahmed Hill ; ;0;6; ;5;Virginia Polytechnic Institute and State University; ; ; ; ; ; ; ; ; ; ; 
+2014;58;34,8;2;Alex Robinson ; ;0;6; ;5;Texas Christian University; ; ; ; ; ; ; ; ; ; ; 
+2014;83;49,8;4;B.J. Stith ; ;0;6; ;5;Old Dominion University; ; ; ; ; ; ; ; ; ; ; 
+2014;31;18,6;1;Brandone Francis ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+2014;57;34,2;2;Brekkott Chapman ; ;0;6; ;5;University of Utah; ; ; ; ; ; ; ; ; ; ; 
+2014;63;37,8;3;Caleb Martin ; ;0;6; ;5;North Carolina State University; ; ; ; ; ; ; ; ; ; ; 
+2014;40;24;1;Craig Victor ; ;0;6; ;5;Louisiana State University; ; ; ; ; ; ; ; ; ; ; 
+2014;97;58,2;4;Devin Mitchell ; ;0;6; ;5;Georgia State University; ; ; ; ; ; ; ; ; ; ; 
+2014;53;31,8;2;Dion Wiley ; ;0;6; ;5;University of Maryland; ; ; ; ; ; ; ; ; ; ; 
+2014;74;44,4;3;Dominic Magee ; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2014;22;13,2;1;Dwayne Morgan ; ;0;6; ;5;University of Nevada, Las Vegas; ; ; ; ; ; ; ; ; ; ; 
+2014;56;33,6;2;Elbert Robinson ; ;0;6; ;5;Louisiana State University; ; ; ; ; ; ; ; ; ; ; 
+2014;71;42,6;3;Elijah Stewart ; ;0;6; ;5;University of Southern California; ; ; ; ; ; ; ; ; ; ; 
+2014;32;19,2;1;Goodluck Okonoboh ; ;0;6; ;5;University of Nevada, Las Vegas; ; ; ; ; ; ; ; ; ; ; 
+2014;28;16,8;1;Isaac Copeland ; ;0;6; ;5;Georgetown University; ; ; ; ; ; ; ; ; ; ; 
+2014;82;49,2;4;Isaac Haas ; ;0;6; ;5;Purdue University; ; ; ; ; ; ; ; ; ; ; 
+2014;54;32,4;2;Jae'Sean Tate ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+2014;50;30;2;Jakeenan Gant ; ;0;6; ;5;University of Missouri; ; ; ; ; ; ; ; ; ; ; 
+2014;76;45,6;3;Jalen Lindsey ; ;0;6; ;5;Providence College; ; ; ; ; ; ; ; ; ; ; 
+2014;21;12,6;1;James Blackmon ; ;0;6; ;5;Indiana University; ; ; ; ; ; ; ; ; ; ; 
+2014;30;18;1;JaQuan Lyle ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+2014;43;25,8;2;JaQuan Newton ; ;0;6; ;5;University of Miami; ; ; ; ; ; ; ; ; ; ; 
+2014;86;51,6;4;Jared Nickens ; ;0;6; ;5;University of Maryland; ; ; ; ; ; ; ; ; ; ; 
+2014;67;40,2;3;Jaylen Johnson ; ;0;6; ;5;University of Louisville; ; ; ; ; ; ; ; ; ; ; 
+2014;88;52,8;4;Joe Burton ; ;0;6; ;5;Oklahoma State University; ; ; ; ; ; ; ; ; ; ; 
+2014;26;15,6;1;Joel Berry ; ;0;6; ;5;University of North Carolina; ; ; ; ; ; ; ; ; ; ; 
+2014;84;50,4;4;Jordan Barnett ; ;0;6; ;5;University of Texas at Austin; ; ; ; ; ; ; ; ; ; ; 
+2014;41;24,6;2;Jordan McLaughlin ; ;0;6; ;5;University of Southern California; ; ; ; ; ; ; ; ; ; ; 
+2014;60;36;2;Josh Perkins ; ;0;6; ;5;Gonzaga University; ; ; ; ; ; ; ; ; ; ; 
+2014;87;52,2;4;Justin Bibbs ; ;0;6; ;5;Virginia Polytechnic Institute and State University; ; ; ; ; ; ; ; ; ; ; 
+2014;52;31,2;2;Kaleb Joseph ; ;0;6; ;5;Syracuse University; ; ; ; ; ; ; ; ; ; ; 
+2014;27;16,2;1;Kameron Chatman ; ;0;6; ;5;University of Michigan; ; ; ; ; ; ; ; ; ; ; 
+2014;62;37,2;3;L.J. Peak ; ;0;6; ;5;Georgetown University; ; ; ; ; ; ; ; ; ; ; 
+2014;46;27,6;2;Leron Black ; ;0;6; ;5;University of Illinois at Urbana-Champaign; ; ; ; ; ; ; ; ; ; ; 
+2014;78;46,8;3;Lourawls Nairn ; ;0;6; ;5;Michigan State University; ; ; ; ; ; ; ; ; ; ; 
+2014;94;56,4;4;Makinde London ; ;0;6; ;5;Xavier University; ; ; ; ; ; ; ; ; ; ; 
+2014;100;60;4;Malik Marquetti ; ;0;6; ;5;University of Southern California; ; ; ; ; ; ; ; ; ; ; 
+2014;48;28,8;2;Malik Pope ; ;0;6; ;5;San Diego State University; ; ; ; ; ; ; ; ; ; ; 
+2014;34;20,4;1;Melo Trimble ; ;0;6; ;5;University of Maryland; ; ; ; ; ; ; ; ; ; ; 
+2014;59;35,4;2;Michael Humphrey ; ;0;6; ;5;Stanford University; ; ; ; ; ; ; ; ; ; ; 
+2014;96;57,6;4;Michal Cekovsky ; ;0;6; ;5;University of Maryland; ; ; ; ; ; ; ; ; ; ; 
+2014;93;55,8;4;Namon Wright ; ;0;6; ;5;University of Missouri; ; ; ; ; ; ; ; ; ; ; 
+2014;44;26,4;2;Parker Jackson-Cartwright ; ;0;6; ;5;University of Arizona; ; ; ; ; ; ; ; ; ; ; 
+2014;66;39,6;3;Paschal Chukwu ; ;0;6; ;5;Syracuse University; ; ; ; ; ; ; ; ; ; ; 
+2014;51;30,6;2;Paul White ; ;0;6; ;5;University of Oregon; ; ; ; ; ; ; ; ; ; ; 
+2014;85;51;4;Phil Booth ; ;0;6; ;5;Villanova University; ; ; ; ; ; ; ; ; ; ; 
+2014;37;22,2;1;Quentin Snider ; ;0;6; ;5;University of Louisville; ; ; ; ; ; ; ; ; ; ; 
+2014;35;21;1;Reid Travis ; ;0;6; ;5;Stanford University; ; ; ; ; ; ; ; ; ; ; 
+2014;69;41,4;3;Robert Cartwright ; ;0;6; ;5;Stanford University; ; ; ; ; ; ; ; ; ; ; 
+2014;47;28,2;2;Robert Johnson ; ;0;6; ;5;Indiana University; ; ; ; ; ; ; ; ; ; ; 
+2014;73;43,8;3;Ronnie Harrell ; ;0;6; ;5;Creighton University; ; ; ; ; ; ; ; ; ; ; 
+2014;75;45;3;Sandy Cohen ; ;0;6; ;5;Marquette University; ; ; ; ; ; ; ; ; ; ; 
+2014;25;15;1;Shaqquan Aaron ; ;0;6; ;5;University of Southern California; ; ; ; ; ; ; ; ; ; ; 
+2014;80;48;3;Shelton Mitchell ; ;0;6; ;5;Vanderbilt University; ; ; ; ; ; ; ; ; ; ; 
+2014;55;33;2;T.J. Haws ; ;0;6; ;5;Brigham Young University; ; ; ; ; ; ; ; ; ; ; 
+2014;90;54;4;Tadric Jackson ; ;0;6; ;5;Georgia Institute of Technology; ; ; ; ; ; ; ; ; ; ; 
+2014;39;23,4;1;Terry Larrier ; ;0;6; ;5;University of Connecticut; ; ; ; ; ; ; ; ; ; ; 
+2014;89;53,4;4;Trayvon Reed ; ;0;6; ;5;Auburn University; ; ; ; ; ; ; ; ; ; ; 
+2014;38;22,8;1;Trevon Bluiett ; ;0;6; ;5;Xavier University; ; ; ; ; ; ; ; ; ; ; 
+2014;77;46,2;3;Trey Kell ; ;0;6; ;5;San Diego State University; ; ; ; ; ; ; ; ; ; ; 
+2014;91;54,6;4;Vic Law ; ;0;6; ;5;Northwestern University; ; ; ; ; ; ; ; ; ; ; 
+2014;79;47,4;3;Zylan Cheatham ; ;0;6; ;5;San Diego State University; ; ; ; ; ; ; ; ; ; ; 
+2015;43;25,8;2;Derrick Jones ; ;0;6; ;5;University of Nevada, Las Vegas; ;2017;2019;3;4,4;1,46666666666667;2; ; ; ; 
+2015;12;7,2;0;Allonzo Trier ; ;0;6; ;5;University of Arizona; ;2019;2019;1;,9;,9;1; ; ; ; 
+2015;57;34,2;2;Brandon Sampson ; ;0;6; ;5;Louisiana State University; ;2019;2019;1;0;0;1; ; ; ; 
+2015;11;6,6;0;Isaiah Briscoe ; ;0;6; ;5;University of Kentucky; ;2019;2019;1;,3;,3;1; ; ; ; 
+2015;93;55,8;4;Marcus Derrickson ; ;0;6; ;5;Georgetown University; ;2019;2019;1;,2;,2;1; ; ; ; 
+2015;24;14,4;1;Perry Dozier ; ;0;6; ;5;University of South Carolina; ;2018;2019;2;,1;,05;1; ; ; ; 
+2015;33;19,8;1;Tyler Davis ; ;0;6; ;5;Texas A&M University; ;2019;2019;1;0;0;1; ; ; ; 
+2015;15;9;0;Antonio Blakeney ; ;0;6; ;5;Louisiana State University; ;2018;2019;2;-,6;-,3;0; ; ; ; 
+2015;34;20,4;1;Deng Adel ; ;0;6; ;5;University of Louisville; ;2019;2019;1;-,2;-,2;0; ; ; ; 
+2015;98;58,8;4;A.J. Harris ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+2015;86;51,6;4;Admon Gilder ; ;0;6; ;5;Texas A&M University; ; ; ; ; ; ; ; ; ; ; 
+2015;51;30,6;2;Austin Grandstaff ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+2015;55;33;2;Bennie Boatwright ; ;0;6; ;5;University of Southern California; ; ; ; ; ; ; ; ; ; ; 
+2015;77;46,2;3;Brevin Pritzl ; ;0;6; ;5;University of Wisconsin; ; ; ; ; ; ; ; ; ; ; 
+2015;94;56,4;4;Bryant Crawford ; ;0;6; ;5;Wake Forest University; ; ; ; ; ; ; ; ; ; ; 
+2015;22;13,2;1;Carlton Bragg ; ;0;6; ;5;University of Kansas; ; ; ; ; ; ; ; ; ; ; 
+2015;48;28,8;2;Chance Comanche ; ;0;6; ;5;University of Arizona; ; ; ; ; ; ; ; ; ; ; 
+2015;50;30;2;Charles Matthews ; ;0;6; ;5;University of Kentucky; ; ; ; ; ; ; ; ; ; ; 
+2015;14;8,4;0;Chase Jeter ; ;0;6; ;5;Duke University; ; ; ; ; ; ; ; ; ; ; 
+2015;61;36,6;3;Chris Clarke ; ;0;6; ;5;Virginia Polytechnic Institute and State University; ; ; ; ; ; ; ; ; ; ; 
+2015;81;48,6;4;Corey Sanders ; ;0;6; ;5;Rutgers University; ; ; ; ; ; ; ; ; ; ; 
+2015;31;18,6;1;D.J. Hogg ; ;0;6; ;5;Texas A&M University; ; ; ; ; ; ; ; ; ; ; 
+2015;78;46,8;3;D.J. Williams ; ;0;6; ;5;University of Illinois at Urbana-Champaign; ; ; ; ; ; ; ; ; ; ; 
+2015;44;26,4;2;Daniel Giddens ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+2015;68;40,8;3;Danjel Purifoy ; ;0;6; ;5;Auburn University; ; ; ; ; ; ; ; ; ; ; 
+2015;32;19,2;1;Dedric Lawson ; ;0;6; ;5;University of Memphis; ; ; ; ; ; ; ; ; ; ; 
+2015;13;7,8;0;Derryck Thornton ; ;0;6; ;5;Duke University; ; ; ; ; ; ; ; ; ; ; 
+2015;73;43,8;3;Doral Moore ; ;0;6; ;5;Wake Forest University; ; ; ; ; ; ; ; ; ; ; 
+2015;85;51;4;Ed Morrow ; ;0;6; ;5;University of Nebraska; ; ; ; ; ; ; ; ; ; ; 
+2015;40;24;1;Elijah Thomas ; ;0;6; ;5;Texas A&M University; ; ; ; ; ; ; ; ; ; ; 
+2015;47;28,2;2;Eric Davis ; ;0;6; ;5;University of Texas at Austin; ; ; ; ; ; ; ; ; ; ; 
+2015;49;29,4;2;Esa Ahmad ; ;0;6; ;5;West Virginia University; ; ; ; ; ; ; ; ; ; ; 
+2015;79;47,4;3;Franklin Howard ; ;0;6; ;5;Syracuse University; ; ; ; ; ; ; ; ; ; ; 
+2015;80;48;3;Glynn Watson ; ;0;6; ;5;University of Nebraska; ; ; ; ; ; ; ; ; ; ; 
+2015;87;52,2;4;Haanif Cheatham ; ;0;6; ;5;Marquette University; ; ; ; ; ; ; ; ; ; ; 
+2015;58;34,8;2;Horace Spencer ; ;0;6; ;5;Auburn University; ; ; ; ; ; ; ; ; ; ; 
+2015;20;12;0;Jalen Adams ; ;0;6; ;5;University of Connecticut; ; ; ; ; ; ; ; ; ; ; 
+2015;38;22,8;1;Jalen Coleman-Lands ; ;0;6; ;5;University of Illinois at Urbana-Champaign; ; ; ; ; ; ; ; ; ; ; 
+2015;84;50,4;4;Jaquan Lyle ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+2015;69;41,4;3;Jeremy Hemsley ; ;0;6; ;5;San Diego State University; ; ; ; ; ; ; ; ; ; ; 
+2015;42;25,2;2;Jessie Govan ; ;0;6; ;5;Georgetown University; ; ; ; ; ; ; ; ; ; ; 
+2015;65;39;3;Jimmy Whitt ; ;0;6; ;5;University of Arkansas; ; ; ; ; ; ; ; ; ; ; 
+2015;95;57;4;Justin Robinson ; ;0;6; ;5;Virginia Polytechnic Institute and State University; ; ; ; ; ; ; ; ; ; ; 
+2015;30;18;1;Justin Simon ; ;0;6; ;5;University of Arizona; ; ; ; ; ; ; ; ; ; ; 
+2015;46;27,6;2;K.J. Lawson ; ;0;6; ;5;University of Memphis; ; ; ; ; ; ; ; ; ; ; 
+2015;92;55,2;4;Keith Stone ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+2015;90;54;4;Kenny Williams ; ;0;6; ;5;University of North Carolina; ; ; ; ; ; ; ; ; ; ; 
+2015;39;23,4;1;Kerwin Roach ; ;0;6; ;5;University of Texas at Austin; ; ; ; ; ; ; ; ; ; ; 
+2015;82;49,2;4;Kevarrius Hayes ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+2015;64;38,4;3;KeVaughn Allen ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+2015;66;39,6;3;King McClure ; ;0;6; ;5;Baylor University; ; ; ; ; ; ; ; ; ; ; 
+2015;100;60;4;Kobie Eubanks ; ;0;6; ;5;Texas A&M University; ; ; ; ; ; ; ; ; ; ; 
+2015;56;33,6;2;LaGerald Vick ; ;0;6; ;5;University of Kansas; ; ; ; ; ; ; ; ; ; ; 
+2015;8;4,8;0;Malik Newman ; ;0;6; ;5;Mississippi State University; ; ; ; ; ; ; ; ; ; ; 
+2015;76;45,6;3;Marcus LoVett ; ;0;6; ;5;St. John's University; ; ; ; ; ; ; ; ; ; ; 
+2015;96;57,6;4;Matt Heldt ; ;0;6; ;5;Marquette University; ; ; ; ; ; ; ; ; ; ; 
+2015;67;40,2;3;Matthew McQuaid ; ;0;6; ;5;Michigan State University; ; ; ; ; ; ; ; ; ; ; 
+2015;83;49,8;4;Maverick Rowan ; ;0;6; ;5;North Carolina State University; ; ; ; ; ; ; ; ; ; ; 
+2015;68;40,8;3;Moustapha Diagne; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2015;75;45;3;Noah Dickerson ; ;0;6; ;5;University of Washington; ; ; ; ; ; ; ; ; ; ; 
+2015;36;21,6;1;Prince Ali ; ;0;6; ;5;University of California, Los Angeles; ; ; ; ; ; ; ; ; ; ; 
+2015;18;10,8;0;Ray Smith; ;0;6; ;5;University of Arizona; ; ; ; ; ; ; ; ; ; ; 
+2015;54;32,4;2;Stephen Thompson ; ;0;6; ;5;Oregon State University; ; ; ; ; ; ; ; ; ; ; 
+2015;62;37,2;3;Steve Enoch ; ;0;6; ;5;University of Connecticut; ; ; ; ; ; ; ; ; ; ; 
+2015;59;35,4;2;Ted Kapita ; ;0;6; ;5;North Carolina State University; ; ; ; ; ; ; ; ; ; ; 
+2015;53;31,8;2;Tevin Mack ; ;0;6; ;5;University of Texas at Austin; ; ; ; ; ; ; ; ; ; ; 
+2015;91;54,6;4;Tres Tinkle ; ;0;6; ;5;Oregon State University; ; ; ; ; ; ; ; ; ; ; 
+2015;88;52,8;4;Trevor Manuel ; ;0;6; ;5;University of Oregon; ; ; ; ; ; ; ; ; ; ; 
+2016;24;14,4;1;Kobi Simmons ; ;0;6; ;5;University of Arizona; ;2018;2019;2;-,2;-,1;0; ; ; ; 
+2016;21;12,6;1;Rawle Alkins ; ;0;6; ;5;University of Arizona; ;2019;2019;1;-,1;-,1;0; ; ; ; 
+2016;100;60;4;Abdul Ado ; ;0;6; ;5;Mississippi State University; ; ; ; ; ; ; ; ; ; ; 
+2016;30;18;1;Alterique Gilbert ; ;0;6; ;5;University of Connecticut; ; ; ; ; ; ; ; ; ; ; 
+2016;40;24;1;Amir Coffey ; ;0;6; ;5;University of Minnesota; ; ; ; ; ; ; ; ; ; ; 
+2016;23;13,8;1;Andrew Jones ; ;0;6; ;5;University of Texas at Austin; ; ; ; ; ; ; ; ; ; ; 
+2016;57;34,2;2;Anthony Cowan ; ;0;6; ;5;University of Maryland; ; ; ; ; ; ; ; ; ; ; 
+2016;65;39;3;Brandon Robinson ; ;0;6; ;5;University of North Carolina; ; ; ; ; ; ; ; ; ; ; 
+2016;56;33,6;2;Braxton Key ; ;0;6; ;5;University of Alabama; ; ; ; ; ; ; ; ; ; ; 
+2016;62;37,2;3;Brendan Bailey; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2016;29;17,4;1;Cassius Winston ; ;0;6; ;5;Michigan State University; ; ; ; ; ; ; ; ; ; ; 
+2016;58;34,8;2;Charlie Moore ; ;0;6; ;5;University of California; ; ; ; ; ; ; ; ; ; ; 
+2016;96;57,6;4;Chris Lewis ; ;0;6; ;5;Harvard University; ; ; ; ; ; ; ; ; ; ; 
+2016;76;45,6;3;Curtis Jones ; ;0;6; ;5;Indiana University; ; ; ; ; ; ; ; ; ; ; 
+2016;47;28,2;2;De'Riante Jenkins ; ;0;6; ;5;Virginia Commonwealth University; ; ; ; ; ; ; ; ; ; ; 
+2016;41;24,6;2;De'Ron Davis ; ;0;6; ;5;Indiana University; ; ; ; ; ; ; ; ; ; ; 
+2016;55;33;2;Dejon Jarreau ; ;0;6; ;5;University of Massachusetts Amherst; ; ; ; ; ; ; ; ; ; ; 
+2016;66;39,6;3;Derek Funderburk ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+2016;91;54,6;4;Eli Wright ; ;0;6; ;5;Mississippi State University; ; ; ; ; ; ; ; ; ; ; 
+2016;89;53,4;4;Gavin Baxter; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2016;64;38,4;3;James Banks ; ;0;6; ;5;University of Texas at Austin; ; ; ; ; ; ; ; ; ; ; 
+2016;86;51,6;4;Jaquori McLaughlin ; ;0;6; ;5;Oregon State University; ; ; ; ; ; ; ; ; ; ; 
+2016;87;52,2;4;Jared Harper ; ;0;6; ;5;Auburn University; ; ; ; ; ; ; ; ; ; ; 
+2016;67;40,2;3;Jarron Cumberland ; ;0;6; ;5;University of Cincinnati; ; ; ; ; ; ; ; ; ; ; 
+2016;35;21;1;Javin DeLaurier ; ;0;6; ;5;Duke University; ; ; ; ; ; ; ; ; ; ; 
+2016;61;36,6;3;Jay Huff ; ;0;6; ;5;University of Virginia; ; ; ; ; ; ; ; ; ; ; 
+2016;94;56,4;4;Jayce Johnson ; ;0;6; ;5;University of Utah; ; ; ; ; ; ; ; ; ; ; 
+2016;59;35,4;2;Jaylen Fisher ; ;0;6; ;5;Texas Christian University; ; ; ; ; ; ; ; ; ; ; 
+2016;98;58,8;4;Jethro Tshisumpa ; ;0;6; ;5;Arizona State University; ; ; ; ; ; ; ; ; ; ; 
+2016;68;40,8;3;JJ Caldwell ; ;0;6; ;5;Texas A&M University; ; ; ; ; ; ; ; ; ; ; 
+2016;75;45;3;Jonah Mathews ; ;0;6; ;5;University of Southern California; ; ; ; ; ; ; ; ; ; ; 
+2016;20;12;0;Joshua Langford ; ;0;6; ;5;Michigan State University; ; ; ; ; ; ; ; ; ; ; 
+2016;50;30;2;Juwan Durham ; ;0;6; ;5;University of Connecticut; ; ; ; ; ; ; ; ; ; ; 
+2016;38;22,8;1;Kameron McGusty ; ;0;6; ;5;University of Oklahoma; ; ; ; ; ; ; ; ; ; ; 
+2016;99;59,4;4;Keith Smith ; ;0;6; ;5;University of Oregon; ; ; ; ; ; ; ; ; ; ; 
+2016;97;58,2;4;Kristian Doolittle ; ;0;6; ;5;University of Oklahoma; ; ; ; ; ; ; ; ; ; ; 
+2016;83;49,8;4;Lamar Peters ; ;0;6; ;5;Mississippi State University; ; ; ; ; ; ; ; ; ; ; 
+2016;90;54;4;M.J. Cage ; ;0;6; ;5;University of Oregon; ; ; ; ; ; ; ; ; ; ; 
+2016;48;28,8;2;Mario Kegler ; ;0;6; ;5;Mississippi State University; ; ; ; ; ; ; ; ; ; ; 
+2016;79;47,4;3;Mark Vital ; ;0;6; ;5;Baylor University; ; ; ; ; ; ; ; ; ; ; 
+2016;88;52,8;4;Markell Johnson ; ;0;6; ;5;North Carolina State University; ; ; ; ; ; ; ; ; ; ; 
+2016;71;42,6;3;Markus Howard ; ;0;6; ;5;Marquette University; ; ; ; ; ; ; ; ; ; ; 
+2016;11;6,6;0;Marques Bolden ; ;0;6; ;5;Duke University; ; ; ; ; ; ; ; ; ; ; 
+2016;60;36;2;Matthew Moyer ; ;0;6; ;5;Syracuse University; ; ; ; ; ; ; ; ; ; ; 
+2016;18;10,8;0;Mustapha Heron ; ;0;6; ;5;Auburn University; ; ; ; ; ; ; ; ; ; ; 
+2016;101;60,6; ;Myles Powell ; ;0;6; ;5;Seton Hall University; ; ; ; ; ; ; ; ; ; ; 
+2016;44;26,4;2;Nick Ward ; ;0;6; ;5;Michigan State University; ; ; ; ; ; ; ; ; ; ; 
+2016;73;43,8;3;Omer Yurtseven ; ;0;6; ;5;North Carolina State University; ; ; ; ; ; ; ; ; ; ; 
+2016;45;27;2;Payton Pritchard ; ;0;6; ;5;University of Oregon; ; ; ; ; ; ; ; ; ; ; 
+2016;77;46,2;3;Quentin Goodin ; ;0;6; ;5;Xavier University; ; ; ; ; ; ; ; ; ; ; 
+2016;82;49,2;4;Romello White ; ;0;6; ;5;Arizona State University; ; ; ; ; ; ; ; ; ; ; 
+2016;22;13,2;1;Sacha Killeya-Jones ; ;0;6; ;5;University of Kentucky; ; ; ; ; ; ; ; ; ; ; 
+2016;39;23,4;1;Sam Cunliffe ; ;0;6; ;5;Arizona State University; ; ; ; ; ; ; ; ; ; ; 
+2016;95;57;4;Sam Hauser ; ;0;6; ;5;Marquette University; ; ; ; ; ; ; ; ; ; ; 
+2016;52;31,2;2;Schnider Herard ; ;0;6; ;5;Mississippi State University; ; ; ; ; ; ; ; ; ; ; 
+2016;42;25,2;2;Seventh Woods ; ;0;6; ;5;University of North Carolina; ; ; ; ; ; ; ; ; ; ; 
+2016;36;21,6;1;Shamorie Ponds ; ;0;6; ;5;St. John's University; ; ; ; ; ; ; ; ; ; ; 
+2016;84;50,4;4;Taurean Thompson ; ;0;6; ;5;Syracuse University; ; ; ; ; ; ; ; ; ; ; 
+2016;78;46,8;3;Temple Gibbs ; ;0;6; ;5;University of Notre Dame; ; ; ; ; ; ; ; ; ; ; 
+2016;69;41,4;3;Trent Forrest ; ;0;6; ;5;Florida State University; ; ; ; ; ; ; ; ; ; ; 
+2016;63;37,8;3;Tyler Cook ; ;0;6; ;5;University of Iowa; ; ; ; ; ; ; ; ; ; ; 
+2016;81;48,6;4;Tyree Crump ; ;0;6; ;5;University of Georgia; ; ; ; ; ; ; ; ; ; ; 
+2016;85;51;4;Tyson Carter ; ;0;6; ;5;Mississippi State University; ; ; ; ; ; ; ; ; ; ; 
+2016;31;18,6;1;Tyus Battle ; ;0;6; ;5;Syracuse University; ; ; ; ; ; ; ; ; ; ; 
+2016;33;19,8;1;Udoka Azubuike ; ;0;6; ;5;University of Kansas; ; ; ; ; ; ; ; ; ; ; 
+2016;25;15;1;V.J. King ; ;0;6; ;5;University of Louisville; ; ; ; ; ; ; ; ; ; ; 
+2016;70;42;3;Vance Jackson ; ;0;6; ;5;University of Connecticut; ; ; ; ; ; ; ; ; ; ; 
+2016;13;7,8;0;Wenyen Gabriel ; ;0;6; ;5;University of Kentucky; ; ; ; ; ; ; ; ; ; ; 
+2016;80;48;3;Yoeli Childs ; ;0;6; ;5;Brigham Young University; ; ; ; ; ; ; ; ; ; ; 
+2016;54;32,4;2;Zavier Simpson ; ;0;6; ;5;University of Michigan; ; ; ; ; ; ; ; ; ; ; 
+2017;5;3;0;Trevon Duval ; ;0;6; ;5;Duke University; ;2019;2019;1;,1;,1;1; ; ; ; 
+2017;35;21;1;Brandon Randolph ; ;0;6; ;5;University of Arizona; ; ; ; ; ; ; ; ; ; ; 
+2017;79;47,4;3;Derek Culver ; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2017;69;41,4;3;Alex O'Connell ; ;0;6; ;5;Duke University; ; ; ; ; ; ; ; ; ; ; 
+2017;93;55,8;4;Alex Reese ; ;0;6; ;5;University of Alabama; ; ; ; ; ; ; ; ; ; ; 
+2017;19;11,4;0;Billy Preston; ;0;6; ;5;University of Kansas; ; ; ; ; ; ; ; ; ; ; 
+2017;85;51;4;Branden Carlson ; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2017;11;6,6;0;Brandon McCoy ; ;0;6; ;5;University of Nevada, Las Vegas; ; ; ; ; ; ; ; ; ; ; 
+2017;16;9,6;0;Brian Bowen; ;0;6; ;5;University of Louisville; ; ; ; ; ; ; ; ; ; ; 
+2017;36;21,6;1;Charles O'Bannon ; ;0;6; ;5;University of Southern California; ; ; ; ; ; ; ; ; ; ; 
+2017;34;20,4;1;Chaundee Brown ; ;0;6; ;5;Wake Forest University; ; ; ; ; ; ; ; ; ; ; 
+2017;65;39;3;Chris Lykes ; ;0;6; ;5;University of Miami; ; ; ; ; ; ; ; ; ; ; 
+2017;44;26,4;2;Cody Riley ; ;0;6; ;5;University of California, Los Angeles; ; ; ; ; ; ; ; ; ; ; 
+2017;43;25,8;2;D.J. Harvey ; ;0;6; ;5;University of Notre Dame; ; ; ; ; ; ; ; ; ; ; 
+2017;75;45;3;D'Shawn Schwartz ; ;0;6; ;5;University of Colorado; ; ; ; ; ; ; ; ; ; ; 
+2017;50;30;2;Daejon Davis ; ;0;6; ;5;Stanford University; ; ; ; ; ; ; ; ; ; ; 
+2017;71;42,6;3;Darius Perry ; ;0;6; ;5;University of Louisville; ; ; ; ; ; ; ; ; ; ; 
+2017;89;53,4;4;Darryl Morsell ; ;0;6; ;5;University of Maryland; ; ; ; ; ; ; ; ; ; ; 
+2017;58;34,8;2;Davion Mitchell ; ;0;6; ;5;Auburn University; ; ; ; ; ; ; ; ; ; ; 
+2017;92;55,2;4;Deaundrae Ballard ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+2017;74;44,4;3;Dhamir Cosby-Roundtree ; ;0;6; ;5;Villanova University; ; ; ; ; ; ; ; ; ; ; 
+2017;42;25,2;2;Emmanuel Akot ; ;0;6; ;5;University of Arizona; ; ; ; ; ; ; ; ; ; ; 
+2017;32;19,2;1;Ethan Thompson ; ;0;6; ;5;Oregon State University; ; ; ; ; ; ; ; ; ; ; 
+2017;99;59,4;4;Hameir Wright ; ;0;6; ;5;University of Washington; ; ; ; ; ; ; ; ; ; ; 
+2017;63;37,8;3;Ike Obiagu ; ;0;6; ;5;Florida State University; ; ; ; ; ; ; ; ; ; ; 
+2017;60;36;2;Ira Lee ; ;0;6; ;5;University of Arizona; ; ; ; ; ; ; ; ; ; ; 
+2017;97;58,2;4;Isaiah Stokes ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+2017;61;36,6;3;Isaiah Washington ; ;0;6; ;5;University of Minnesota; ; ; ; ; ; ; ; ; ; ; 
+2017;91;54,6;4;Jacob Epperson ; ;0;6; ;5;Creighton University; ; ; ; ; ; ; ; ; ; ; 
+2017;27;16,2;1;Jalek Felton ; ;0;6; ;5;University of North Carolina; ; ; ; ; ; ; ; ; ; ; 
+2017;64;38,4;3;Jalen Hill ; ;0;6; ;5;University of California, Los Angeles; ; ; ; ; ; ; ; ; ; ; 
+2017;88;52,8;4;Jamorko Pickett ; ;0;6; ;5;University of Mississippi; ; ; ; ; ; ; ; ; ; ; 
+2017;78;46,8;3;Jase Febres ; ;0;6; ;5;University of Texas at Austin; ; ; ; ; ; ; ; ; ; ; 
+2017;72;43,2;3;Jemarl Baker ; ;0;6; ;5;University of Kentucky; ; ; ; ; ; ; ; ; ; ; 
+2017;40;24;1;Jeremiah Tilmon ; ;0;6; ;5;University of Missouri; ; ; ; ; ; ; ; ; ; ; 
+2017;51;30,6;2;Jericho Sims ; ;0;6; ;5;University of Texas at Austin; ; ; ; ; ; ; ; ; ; ; 
+2017;45;27;2;Jermaine Samuels ; ;0;6; ;5;Villanova University; ; ; ; ; ; ; ; ; ; ; 
+2017;28;16,8;1;John Petty ; ;0;6; ;5;University of Alabama; ; ; ; ; ; ; ; ; ; ; 
+2017;53;31,8;2;Jontay Porter ; ;0;6; ;5;University of Missouri; ; ; ; ; ; ; ; ; ; ; 
+2017;52;31,2;2;Jordan Goodwin ; ;0;6; ;5;Saint Louis University; ; ; ; ; ; ; ; ; ; ; 
+2017;73;43,8;3;Jordan Nwora ; ;0;6; ;5;University of Louisville; ; ; ; ; ; ; ; ; ; ; 
+2017;59;35,4;2;Jordan Tucker ; ;0;6; ;5;Duke University; ; ; ; ; ; ; ; ; ; ; 
+2017;62;37,2;3;Josh Anderson ; ;0;6; ;5;Western Kentucky University; ; ; ; ; ; ; ; ; ; ; 
+2017;87;52,2;4;Justin Smith ; ;0;6; ;5;Indiana University; ; ; ; ; ; ; ; ; ; ; 
+2017;83;49,8;4;Kaleb Wesson ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+2017;82;49,2;4;Kellan Grady ; ;0;6; ;5;Davidson College; ; ; ; ; ; ; ; ; ; ; 
+2017;86;51,6;4;Khalil Garland ; ;0;6; ;5;University of Arkansas; ; ; ; ; ; ; ; ; ; ; 
+2017;55;33;2;Kimani Lawrence ; ;0;6; ;5;Arizona State University; ; ; ; ; ; ; ; ; ; ; 
+2017;20;12;0;Kris Wilkes ; ;0;6; ;5;University of California, Los Angeles; ; ; ; ; ; ; ; ; ; ; 
+2017;31;18,6;1;Lindell Wigginton ; ;0;6; ;5;Iowa State University; ; ; ; ; ; ; ; ; ; ; 
+2017;94;56,4;4;Luka Garza ; ;0;6; ;5;University of Iowa; ; ; ; ; ; ; ; ; ; ; 
+2017;24;14,4;1;M.J. Walker ; ;0;6; ;5;Florida State University; ; ; ; ; ; ; ; ; ; ; 
+2017;39;23,4;1;Makai Ashton-Langford ; ;0;6; ;5;Providence College; ; ; ; ; ; ; ; ; ; ; 
+2017;25;15;1;Malik Williams ; ;0;6; ;5;University of Louisville; ; ; ; ; ; ; ; ; ; ; 
+2017;54;32,4;2;Marcus Garrett ; ;0;6; ;5;University of Kansas; ; ; ; ; ; ; ; ; ; ; 
+2017;90;54;4;Mark Smith ; ;0;6; ;5;University of Illinois at Urbana-Champaign; ; ; ; ; ; ; ; ; ; ; 
+2017;47;28,2;2;Matt Coleman ; ;0;6; ;5;University of Texas at Austin; ; ; ; ; ; ; ; ; ; ; 
+2017;76;45,6;3;Mitchell Ballock ; ;0;6; ;5;Creighton University; ; ; ; ; ; ; ; ; ; ; 
+2017;80;48;3;Myles Cale ; ;0;6; ;5;Seton Hall University; ; ; ; ; ; ; ; ; ; ; 
+2017;57;34,2;2;Naji Marshall ; ;0;6; ;5;Xavier University; ; ; ; ; ; ; ; ; ; ; 
+2017;68;40,8;3;Nate Reuvers ; ;0;6; ;5;University of Wisconsin; ; ; ; ; ; ; ; ; ; ; 
+2017;18;10,8;0;Nick Richards ; ;0;6; ;5;University of Kentucky; ; ; ; ; ; ; ; ; ; ; 
+2017;26;15,6;1;Nick Weatherspoon ; ;0;6; ;5;Mississippi State University; ; ; ; ; ; ; ; ; ; ; 
+2017;67;40,2;3;Nojel Eastern ; ;0;6; ;5;Purdue University; ; ; ; ; ; ; ; ; ; ; 
+2017;98;58,8;4;Oscar Da Silva ; ;0;6; ;5;Stanford University; ; ; ; ; ; ; ; ; ; ; 
+2017;29;17,4;1;Paul Scruggs ; ;0;6; ;5;Xavier University; ; ; ; ; ; ; ; ; ; ; 
+2017;23;13,8;1;Quade Green ; ;0;6; ;5;University of Kentucky; ; ; ; ; ; ; ; ; ; ; 
+2017;49;29,4;2;Rayshaun Hammonds ; ;0;6; ;5;University of Georgia; ; ; ; ; ; ; ; ; ; ; 
+2017;56;33,6;2;Savion Flagg ; ;0;6; ;5;Texas A&M University; ; ; ; ; ; ; ; ; ; ; 
+2017;77;46,2;3;Sidney Wilson ; ;0;6; ;5;University of Connecticut; ; ; ; ; ; ; ; ; ; ; 
+2017;93;55,8;4;Terrance Lewis ; ;0;6; ;5;Iowa State University; ; ; ; ; ; ; ; ; ; ; 
+2017;96;57,6;4;Ty-Shon Alexander ; ;0;6; ;5;Creighton University; ; ; ; ; ; ; ; ; ; ; 
+2017;81;48,6;4;Wabissa Bede ; ;0;6; ;5;Virginia Polytechnic Institute and State University; ; ; ; ; ; ; ; ; ; ; 
+2017;84;50,4;4;Xavier Tillman ; ;0;6; ;5;Michigan State University; ; ; ; ; ; ; ; ; ; ; 
+2018;85;51;4;Derek Culver ; ;0;6; ;5;West Virginia University; ; ; ; ; ; ; ; ; ; ; 
+2018;91;54,6;4;A.J. Lawson ; ;0;6; ;5;University of South Carolina; ; ; ; ; ; ; ; ; ; ; 
+2018;48;28,8;2;A.J. Reeves ; ;0;6; ;5;Providence College; ; ; ; ; ; ; ; ; ; ; 
+2018;63;37,8;3;Aaron Nesmith ; ;0;6; ;5;Vanderbilt University; ; ; ; ; ; ; ; ; ; ; 
+2018;41;24,6;2;Aaron Wiggins ; ;0;6; ;5;University of Maryland; ; ; ; ; ; ; ; ; ; ; 
+2018;79;47,4;3;AJ Green ; ;0;6; ;5;University of Northern Iowa; ; ; ; ; ; ; ; ; ; ; 
+2018;25;15;1;Andrew Nembhard ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+2018;14;8,4;0;Ashton Hagans ; ;0;6; ;5;University of Kentucky; ; ; ; ; ; ; ; ; ; ; 
+2018;32;19,2;1;Ayo Dosunmu ; ;0;6; ;5;University of Illinois at Urbana-Champaign; ; ; ; ; ; ; ; ; ; ; 
+2018;67;40,2;3;Brandon Johns Jr ; ;0;6; ;5;University of Michigan; ; ; ; ; ; ; ; ; ; ; 
+2018;53;31,8;2;Brandon Slater ; ;0;6; ;5;Villanova University; ; ; ; ; ; ; ; ; ; ; 
+2018;34;20,4;1;Brandon Williams ; ;0;6; ;5;University of Arizona; ; ; ; ; ; ; ; ; ; ; 
+2018;95;57;4;Bryce Hamilton ; ;0;6; ;5;University of Nevada, Las Vegas; ; ; ; ; ; ; ; ; ; ; 
+2018;65;39;3;Carte'Are Gordon ; ;0;6; ;5;Saint Louis University; ; ; ; ; ; ; ; ; ; ; 
+2018;9;5,4;0;Charles Bassey ; ;0;6; ;5;Western Kentucky University; ; ; ; ; ; ; ; ; ; ; 
+2018;39;23,4;1;Cole Swider ; ;0;6; ;5;Villanova University; ; ; ; ; ; ; ; ; ; ; 
+2018;100;60;4;Colin Castleton ; ;0;6; ;5;University of Michigan; ; ; ; ; ; ; ; ; ; ; 
+2018;60;36;2;Cormac Ryan ; ;0;6; ;5;Stanford University; ; ; ; ; ; ; ; ; ; ; 
+2018;42;25,2;2;Courtney Ramey ; ;0;6; ;5;University of Texas at Austin; ; ; ; ; ; ; ; ; ; ; 
+2018;50;30;2;Daniel Oturu ; ;0;6; ;5;University of Minnesota; ; ; ; ; ; ; ; ; ; ; 
+2018;17;10,2;0;Darius Bazley; ;0;6; ;5; ; ; ; ; ; ; ; ; ; ; ; 
+2018;59;35,4;2;Darius Days ; ;0;6; ;5;Louisiana State University; ; ; ; ; ; ; ; ; ; ; 
+2018;47;28,2;2;David Duke ; ;0;6; ;5;Providence College; ; ; ; ; ; ; ; ; ; ; 
+2018;31;18,6;1;David McCormack ; ;0;6; ;5;University of Kansas; ; ; ; ; ; ; ; ; ; ; 
+2018;83;49,8;4;David Singleton ; ;0;6; ;5;University of California, Los Angeles; ; ; ; ; ; ; ; ; ; ; 
+2018;21;12,6;1;Devon Dotson ; ;0;6; ;5;University of Kansas; ; ; ; ; ; ; ; ; ; ; 
+2018;71;42,6;3;Devonaire Doutrive ; ;0;6; ;5;University of Arizona; ; ; ; ; ; ; ; ; ; ; 
+2018;11;6,6;0;EJ Montgomery ; ;0;6; ;5;University of Kentucky; ; ; ; ; ; ; ; ; ; ; 
+2018;97;58,2;4;Elias Valtonen ; ;0;6; ;5;Arizona State University; ; ; ; ; ; ; ; ; ; ; 
+2018;43;25,8;2;Elijah Weaver ; ;0;6; ;5;University of Southern California; ; ; ; ; ; ; ; ; ; ; 
+2018;26;15,6;1;Emmitt Williams ; ;0;6; ;5;Louisiana State University; ; ; ; ; ; ; ; ; ; ; 
+2018;84;50,4;4;Eric Ayala ; ;0;6; ;5;University of Maryland; ; ; ; ; ; ; ; ; ; ; 
+2018;81;48,6;4;Filip Petrusev ; ;0;6; ;5;Gonzaga University; ; ; ; ; ; ; ; ; ; ; 
+2018;78;46,8;3;Foster Loyer ; ;0;6; ;5;Michigan State University; ; ; ; ; ; ; ; ; ; ; 
+2018;101;60,6;4;Gabe Brown ; ;0;6; ;5;Michigan State University; ; ; ; ; ; ; ; ; ; ; 
+2018;44;26,4;2;Gerald Liddell ; ;0;6; ;5;University of Texas at Austin; ; ; ; ; ; ; ; ; ; ; 
+2018;23;13,8;1;Immanuel Quickley ; ;0;6; ;5;University of Kentucky; ; ; ; ; ; ; ; ; ; ; 
+2018;93;55,8;4;Isaiah Mucius ; ;0;6; ;5;Wake Forest University; ; ; ; ; ; ; ; ; ; ; 
+2018;82;49,2;4;J'Raan Brooks ; ;0;6; ;5;University of Southern California; ; ; ; ; ; ; ; ; ; ; 
+2018;33;19,8;1;Ja'vonte Smart ; ;0;6; ;5;Louisiana State University; ; ; ; ; ; ; ; ; ; ; 
+2018;75;45;3;Jaedon Ledee ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+2018;29;17,4;1;Jahvon Quinerly ; ;0;6; ;5;Villanova University; ; ; ; ; ; ; ; ; ; ; 
+2018;70;42;3;Jairus Hamilton ; ;0;6; ;5;Boston College; ; ; ; ; ; ; ; ; ; ; 
+2018;52;31,2;2;Jalen Carey ; ;0;6; ;5;Syracuse University; ; ; ; ; ; ; ; ; ; ; 
+2018;16;9,6;0;Jalen Smith ; ;0;6; ;5;University of Maryland; ; ; ; ; ; ; ; ; ; ; 
+2018;89;53,4;4;James Akinjo ; ;0;6; ;5;University of Connecticut; ; ; ; ; ; ; ; ; ; ; 
+2018;96;57,6;4;Jared Butler ; ;0;6; ;5;University of Alabama; ; ; ; ; ; ; ; ; ; ; 
+2018;19;11,4;0;Jaylen Hoard ; ;0;6; ;5;Wake Forest University; ; ; ; ; ; ; ; ; ; ; 
+2018;88;52,8;4;Jermaine Harris ; ;0;6; ;5;University of Rhode Island; ; ; ; ; ; ; ; ; ; ; 
+2018;57;34,2;2;Jerome Hunter ; ;0;6; ;5;Indiana University; ; ; ; ; ; ; ; ; ; ; 
+2018;54;32,4;2;Joe Wieskamp ; ;0;6; ;5;University of Iowa; ; ; ; ; ; ; ; ; ; ; 
+2018;37;22,2;1;Joey Baker ; ;0;6; ;5;Duke University; ; ; ; ; ; ; ; ; ; ; 
+2018;58;34,8;2;Joey Hauser ; ;0;6; ;5;Marquette University; ; ; ; ; ; ; ; ; ; ; 
+2018;20;12;0;Jordan Brown ; ;0;6; ;5;University of Nevada, Reno; ; ; ; ; ; ; ; ; ; ; 
+2018;45;27;2;Jules Bernard ; ;0;6; ;5;University of California, Los Angeles; ; ; ; ; ; ; ; ; ; ; 
+2018;55;33;2;Kamaka Hepa ; ;0;6; ;5;University of Texas at Austin; ; ; ; ; ; ; ; ; ; ; 
+2018;69;41,4;3;Keyontae Johnson ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+2018;46;27,6;2;Khavon Moore ; ;0;6; ;5;Texas Tech University; ; ; ; ; ; ; ; ; ; ; 
+2018;72;43,2;3;Landers Nolley ; ;0;6; ;5;Virginia Polytechnic Institute and State University; ; ; ; ; ; ; ; ; ; ; 
+2018;20;12;0;Louis King ; ;0;6; ;5;University of Oregon; ; ; ; ; ; ; ; ; ; ; 
+2018;76;45,6;3;Luguentz Dort ; ;0;6; ;5;Arizona State University; ; ; ; ; ; ; ; ; ; ; 
+2018;68;40,8;3;Luther Muhammad ; ;0;6; ;5;Ohio State University; ; ; ; ; ; ; ; ; ; ; 
+2018;98;58,8;4;Manny Bates ; ;0;6; ;5;North Carolina State University; ; ; ; ; ; ; ; ; ; ; 
+2018;62;37,2;3;Marcus Bingham ; ;0;6; ;5;Michigan State University; ; ; ; ; ; ; ; ; ; ; 
+2018;73;43,8;3;Matt Bradley ; ;0;6; ;5;University of California; ; ; ; ; ; ; ; ; ; ; 
+2018;87;52,2;4;Matthew Mayer ; ;0;6; ;5;Baylor University; ; ; ; ; ; ; ; ; ; ; 
+2018;49;29,4;2;Michael Devoe ; ;0;6; ;5;Georgia Institute of Technology; ; ; ; ; ; ; ; ; ; ; 
+2018;66;39,6;3;Miles Norris ; ;0;6; ;5;University of Oregon; ; ; ; ; ; ; ; ; ; ; 
+2018;90;54;4;Miller Kopp ; ;0;6; ;5;Northwestern University; ; ; ; ; ; ; ; ; ; ; 
+2018;24;14,4;1;Moses Brown ; ;0;6; ;5;University of California, Los Angeles; ; ; ; ; ; ; ; ; ; ; 
+2018;61;36,6;3;Nate Laszewski ; ;0;6; ;5;University of Notre Dame; ; ; ; ; ; ; ; ; ; ; 
+2018;18;10,8;0;Naz Reid ; ;0;6; ;5;Louisiana State University; ; ; ; ; ; ; ; ; ; ; 
+2018;99;59,4;4;Noah Kirkwood ; ;0;6; ;5;Harvard University; ; ; ; ; ; ; ; ; ; ; 
+2018;77;46,2;3;Noah Locke ; ;0;6; ;5;University of Florida; ; ; ; ; ; ; ; ; ; ; 
+2018;86;51,6;4;Pete Nance ; ;0;6; ;5;Northwestern University; ; ; ; ; ; ; ; ; ; ; 
+2018;94;56,4;4;Prentiss Hubb ; ;0;6; ;5;University of Notre Dame; ; ; ; ; ; ; ; ; ; ; 
+2018;8;4,8;0;Quentin Grimes ; ;0;6; ;5;University of Kansas; ; ; ; ; ; ; ; ; ; ; 
+2018;64;38,4;3;Rechon Black ; ;0;6; ;5;University of North Carolina; ; ; ; ; ; ; ; ; ; ; 
+2018;30;18;1;Reggie Perry ; ;0;6; ;5;Mississippi State University; ; ; ; ; ; ; ; ; ; ; 
+2018;92;55,2;4;Robby Carmody ; ;0;6; ;5;University of Notre Dame; ; ; ; ; ; ; ; ; ; ; 
+2018;56;33,6;2;Robert Woodard ; ;0;6; ;5;Mississippi State University; ; ; ; ; ; ; ; ; ; ; 
+2018;38;22,8;1;Shareef O'Neal ; ;0;6; ;5;University of California, Los Angeles; ; ; ; ; ; ; ; ; ; ; 
+2018;10;6;0;Simisola Shittu ; ;0;6; ;5;Vanderbilt University; ; ; ; ; ; ; ; ; ; ; 
+2018;36;21,6;1;Taeshon Cherry ; ;0;6; ;5;Arizona State University; ; ; ; ; ; ; ; ; ; ; 
+2018;13;7,8;0;Tre Jones ; ;0;6; ;5;Duke University; ; ; ; ; ; ; ; ; ; ; 
+2018;80;48;3;Tyler Harris ; ;0;6; ;5;University of Memphis; ; ; ; ; ; ; ; ; ; ; 
+2018;40;24;1;Will Richardson ; ;0;6; ;5;University of Oregon; ; ; ; ; ; ; ; ; ; ; 
